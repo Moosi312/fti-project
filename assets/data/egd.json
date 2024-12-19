@@ -1,0 +1,132 @@
+[
+    {
+        "goal": "Reducing our climate impact",
+        "indicator": "Greenhouse gas emissions",
+        "goal-de": "Unsere Klimaauswirkungen reduzieren",
+        "indicator-de": "Treibhausgasemissionen",
+        "indicator-no": 1,
+        "bereiche": [
+            "C2",
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/egd-statistics/?countries=AT,EU,BE,DK,FI,NL,SE&favouriteCountry=AT&indicator=EGD_1&timePeriod=2009"
+    },
+    {
+        "goal": "Reducing our climate impact",
+        "indicator": "Renewable energy",
+        "indicator-combi": "Total",
+        "goal-de": "Unsere Klimaauswirkungen reduzieren",
+        "indicator-de": "Erneuerbare Energie",
+        "indicator-combi-de": "Gesamt",
+        "indicator-no": 4,
+        "bereiche": [
+            "C2"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/egd-statistics/?countries=EU,AT,BE,DK,FI,NL,SE&favouriteCountry=AT&indicator=EGD_4&timePeriod=2010"
+    },
+    {
+        "goal": "Reducing our climate impact",
+        "indicator": "Primary energy consumption",
+        "indicator-combi": "Ton of oil equivalent (toe) per capita",
+        "goal-de": "Unsere Klimaauswirkungen reduzieren",
+        "indicator-de": "Primärenergieverbrauch",
+        "indicator-combi-de": "Tonnen Öläquivalent (toe) pro Kopf",
+        "indicator-no": 5,
+        "indicator-combi-no": 2,
+        "bereiche": [
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/egd-statistics/?countries=EU,AT,BE,DK,FI,NL,SE&favouriteCountry=AT&indicator=EGD_5&combination=EGD_5_2&timePeriod=2009"
+    },
+    {
+        "goal": "Protecting our planet and health",
+        "indicator": "Forest and other wooded land",
+        "indicator-combi": "Total",
+        "goal-de": "Unseren Planeten und unsere Gesundheit schützen",
+        "indicator-de": "Wald und anderes bewaldetes Land",
+        "indicator-combi-de": "Total",
+        "indicator-no": 10,
+        "bereiche": [
+            "C2"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/egd-statistics/?countries=EU,AT,BE,DK,FI,NL,SE&favouriteCountry=AT&indicator=EGD_10&timePeriod=2009"
+    },
+    {
+        "goal": "Protecting our planet and health",
+        "indicator": "Premature deaths due to exposure to fine particulate matter",
+        "goal-de": "Unseren Planeten und unsere Gesundheit schützen",
+        "indicator-de": "Vorzeitige Todesfälle aufgrund von Feinstaubexposition",
+        "indicator-no": 17,
+        "bereiche": [
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/egd-statistics/?countries=EU,AT,BE,DK,FI,NL,SE&favouriteCountry=AT&indicator=EGD_17&timePeriod=2014"
+    },
+    {
+        "goal": "Enabling a green and just transition",
+        "indicator": "Raw material consumption",
+        "indicator-combi": "Total",
+        "goal-de": "Eine grüne und gerechte Transformation ermöglichen",
+        "indicator-de": "Rohstoffverbrauch",
+        "indicator-combi-de": "Gesamt",
+        "indicator-no": 19,
+        "bereiche": [
+            "C2",
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/egd-statistics/?countries=EU,AT,BE,DK,FI,NL,SE&favouriteCountry=AT&indicator=EGD_19&timePeriod=2009"
+    },
+    {
+        "goal": "Enabling a green and just transition",
+        "indicator": "Circular material use rate",
+        "goal-de": "Eine grüne und gerechte Transformation ermöglichen",
+        "indicator-de": "Nutzungsrate kreislauffähigen Materials",
+        "indicator-no": 20,
+        "bereiche": [
+            "C3"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/egd-statistics/?countries=EU,AT,BE,DK,FI,NL,SE&favouriteCountry=AT&indicator=EGD_20&timePeriod=2010"
+    },
+    {
+        "goal": "Enabling a green and just transition",
+        "indicator": "R&D expenditure",
+        "indicator-combi": "Total",
+        "goal-de": "Eine grüne und gerechte Transformation ermöglichen",
+        "indicator-de": "F&E-Ausgaben",
+        "indicator-combi-de": "Gesamt",
+        "indicator-no": 21,
+        "bereiche": [
+            "B5",
+            "C2",
+            "D2"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/egd-statistics/?countries=EU,AT,BE,DK,FI,NL,SE&favouriteCountry=AT&indicator=EGD_21&timePeriod=2010"
+    },
+    {
+        "goal": "Enabling a green and just transition",
+        "indicator": "High-speed internet",
+        "indicator-combi": "Total",
+        "goal-de": "Eine grüne und gerechte Transformation ermöglichen",
+        "indicator-de": "High-speed Internet",
+        "indicator-combi-de": "Gesamt",
+        "indicator-no": 24,
+        "indicator-combi-no": 1,
+        "bereiche": [
+            "C1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/egd-statistics/?countries=EU,AT,BE,DK,FI,NL,SE&favouriteCountry=AT&indicator=EGD_24&combination=EGD_24_1&timePeriod=2013"
+    },
+    {
+        "goal": "Enabling a green and just transition",
+        "indicator": "Environmental protection expenditure",
+        "indicator-combi": "Total",
+        "goal-de": "Eine grüne und gerechte Transformation ermöglichen",
+        "indicator-de": "Umweltschutzausgaben",
+        "indicator-combi-de": "Gesamt",
+        "indicator-no": 26,
+        "bereiche": [
+            "C2"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/egd-statistics/?countries=EU,AT,BE,DK,FI,NL,SE&favouriteCountry=AT&indicator=EGD_26&timePeriod=2010"
+    }
+]

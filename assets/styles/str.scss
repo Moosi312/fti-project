@@ -1,0 +1,217 @@
+div.header-left {
+    position: relative;
+    height: 65px;
+    svg {
+        //margin-left: -65px;
+        margin-top: -17px;
+        height: 120px;
+        width: 300px;
+        // width: 100% - 20px;
+        margin-right: 20px;
+
+        path {
+            // fill: #291F6C // # ORG LOGO COLOR: #291F6C
+            fill: map.get($colors, "b1");
+        }
+    }
+    svg:hover path {
+        fill: map.get($colors, "blue_rfte");
+        // pointer-events: all;
+    }
+}
+
+
+div.header-right {
+    margin-top: 5px;
+    position: relative;
+    div.icon-header {
+        position: absolute;
+        // height: 60px;
+        // width: 50px;
+        margin-top: 25px;
+        // before: 13px
+        margin-left: 0px;
+        // before: 20px
+        svg {
+            height: 27px;
+        // before: 40px
+            width: 27px;
+        }
+    }
+    div.text-header {
+        position: relative;
+        left: 40px;
+        // before: 70px
+        top: 0px;
+        margin-right: 200px;
+        > div {
+            a {
+                position: relative;
+                left: -40px;
+                font-weight: bold;
+                display: inline-block;
+                line-height: 15px;
+                font-size: 20px;
+                top: 1px;
+            }
+            .sep {
+                border-top: 1px solid red;
+            }
+            .sub {
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                font-size: 14px;
+                margin-left: -22px;
+                // before: 2px
+            }
+        }
+        h2 {
+            font-size: 30px;
+            line-height: 35px;
+            font-weight: bold;
+            margin-top: 0px;
+            margin-bottom: 3px;
+            // margin-right: 100px;
+            .nr {
+                font-weight: normal;
+                font-size: 22px;
+                margin-left: 5px;
+            }
+        }
+    }
+
+    div.text-right {
+        position: absolute;
+        right: 0px;
+        top: 20px;
+        text-align: right;
+        line-height: 15px;
+        height: 42px;
+        span {
+            font-size: 14px;
+        }
+        .report {
+            // width: 100px;
+            height: 42px;
+            display: inline-block;
+        }
+        .data {
+            width: 100px;
+            height: 42px;
+            display: inline-block;
+        }
+
+        #year-selector {
+            font-weight: bold;
+            // line-height: 1;
+            border: none;
+            padding: 0px;
+            padding-top: 2px;
+            padding-right: 14px;
+            margin-top: -4px;
+            background-position: right -2px center;
+            text-align: right;
+        }
+    }
+}
+
+#menu {
+    text-align: center;
+    font-size: 13px;
+    // line-height: 3em;
+    padding-top: 4px;
+    border-top: 2px solid map.get($colors, "c6");
+    line-height: 2em;
+    i {
+        color: #777;
+    }
+}
+
+
+
+#datenschutz {
+    h2 {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    h3 {
+        font-size: 14px;
+        font-weight: bold;
+    }
+}
+
+
+.all-in-one {
+    .sticky-top {
+        position: relative !important;
+    }
+
+    h4 {
+        margin-top: 20px; 
+        margin-bottom: 0px; 
+        font-weight: bold;
+    }
+    h5 {
+        margin-top: 0; 
+        margin-bottom: 20px;
+    }
+
+    div.text {
+        font-size: 110%;
+        text-align: justify;
+    }
+    div.footer {
+        display: none !important;
+    }
+
+    div.block-area,
+    div.block-docs {
+        display: none !important;
+    }
+
+    div.block-map {
+        .map-control {
+            display: none !important;
+        }
+    }
+
+    div.block-text {
+        .readmore {
+            display: none !important;
+        }
+        .text {
+            max-height: none !important;
+        }
+    }
+
+    div.overview {
+        .form-switch {
+            display: none !important;
+        }
+    }
+
+    div.block-overview-targets {
+        h4 span {
+            display: none !important;
+        }
+    }
+
+    div.block-line-chart {
+        .form-switch {
+            display: none !important;
+        }
+    }
+
+    div.block-chart {
+        .form-switch {
+            display: none !important;
+        }
+    }
+
+
+    // .col-md-12 {
+    //     flex: 0 0 auto;
+    //     width: 100%;
+    // }
+}

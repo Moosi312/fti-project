@@ -1,0 +1,74 @@
+$colors: (
+    // "g0": #CCC,
+    "w": #FFF,
+    "g2": #D2D2D2,
+
+    "b1": #222,
+    "b2": #444,
+
+    // "c1": #F7CE24,
+    // "c2": #275CAA,
+    // "c3": #C5168C,
+
+    "b": #000000,
+
+    "c1": #ea4b55, // rot
+    "c2": #f59036, // orange
+    "c3": #f9eb00, // gelb
+    "c4": #afd24b, // hellgruen
+    "c5": #3caf55, // gruen
+    // "c6": #F5F5F5, // hellgrau
+    "c6": #f5f6fa, // hellgrau
+
+    "value": #000,
+
+    "inno":  #444,
+    "eu":    #888,
+    "top3":  #BBB,
+
+    "us":    #333,
+    "cn":    #666,
+    "jp":    #999,
+    "kr":    #BBB,
+    
+    // "il_old":black,
+
+    "blue_rfte": #291F6C // neues Corporate Design Blau
+);
+
+@use "sass:map";
+@each $name, $color in $colors {
+    .stop-#{$name} {
+        stop-color: $color;
+    }
+}
+//
+//
+// .s circle,
+// .circle circle,
+// .circles circle {
+//     &.color-c-1 { fill: #1D7044; }
+//     &.color-c-2 { fill: #75AD6F; }
+//     &.color-c-3 { fill: #FFBE00; }
+//     &.color-c-4 { fill: #FF7E01; }
+//     &.color-c-5 { fill: #E3071D; }
+// }
+
+circle, path, text, line {
+    @each $name, $color in $colors {
+        &.color-#{$name} {
+            stroke: $color;
+            fill: $color;
+        }
+        &.fill-#{$name} {
+            fill: $color;
+        }
+        &.stroke-#{$name} {
+            stroke: $color;
+        }
+        &.color-b-#{$name} {
+            stroke: lighten($color, 20);
+            fill: lighten($color, 20);
+        }
+    }
+}

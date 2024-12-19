@@ -1,0 +1,7250 @@
+{
+  "A1": [
+    {
+      "iso2": "AT",
+      "rel.inno": 96.9,
+      "rel.eu": 107.58,
+      "rel.top3": 57.29,
+      "rel.cn": 109.99,
+      "rel.us": 72.62,
+      "rel.kr": 109.23,
+      "rel.jp": 100.83
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 138.04,
+      "rel.eu": 143.47,
+      "rel.top3": 68.24,
+      "rel.cn": 101.31,
+      "rel.us": 80.44,
+      "rel.kr": 137.34,
+      "rel.jp": 119.22
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 83.23,
+      "rel.eu": 93.9,
+      "rel.top3": 49.92,
+      "rel.cn": 98.9,
+      "rel.us": 63.69,
+      "rel.kr": 88.73,
+      "rel.jp": 86.01
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 83.68,
+      "rel.eu": 89.52,
+      "rel.top3": 56.91,
+      "rel.cn": 77.94,
+      "rel.us": 189.1,
+      "rel.kr": 87.62,
+      "rel.jp": 174.51
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 146.56,
+      "rel.eu": 155.26,
+      "rel.top3": 65.01,
+      "rel.cn": 98.69,
+      "rel.us": 85.87,
+      "rel.kr": 164.05,
+      "rel.jp": 133.24
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 127.36,
+      "rel.eu": 134.4,
+      "rel.top3": 70.05,
+      "rel.cn": 119.01,
+      "rel.us": 97.93,
+      "rel.kr": 134.26,
+      "rel.jp": 128.9
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 177.97,
+      "rel.eu": 178.8,
+      "rel.top3": 82.31,
+      "rel.cn": 83.65,
+      "rel.us": 126.6,
+      "rel.kr": 143.95,
+      "rel.jp": 147.94
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 93,
+      "rel.eu": 104.02,
+      "rel.top3": 85.36,
+      "rel.cn": 100,
+      "rel.us": 93.2,
+      "rel.kr": 111.44,
+      "rel.jp": 89.79
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 114.23,
+      "rel.eu": 115.34,
+      "rel.top3": 59.91,
+      "rel.cn": 81.23,
+      "rel.us": 72.57,
+      "rel.kr": 113.4,
+      "rel.jp": 98.65
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 173.43,
+      "rel.eu": 170.52,
+      "rel.top3": 90.19,
+      "rel.cn": 85.36,
+      "rel.us": 120.51,
+      "rel.kr": 154.61,
+      "rel.jp": 145.17
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 93.69,
+      "rel.eu": 107.67,
+      "rel.top3": 64.54,
+      "rel.cn": 88.74,
+      "rel.us": 144.74,
+      "rel.kr": 96.8,
+      "rel.jp": 138.69
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 86.05,
+      "rel.eu": 91.38,
+      "rel.top3": 50.13,
+      "rel.cn": 97.88,
+      "rel.us": 73.06,
+      "rel.kr": 94.1,
+      "rel.jp": 98.18
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 90.6,
+      "rel.eu": 101.29,
+      "rel.top3": 54.53,
+      "rel.cn": 100.48,
+      "rel.us": 64.07,
+      "rel.kr": 103.9,
+      "rel.jp": 93.68
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 111.11,
+      "rel.eu": 129.06,
+      "rel.top3": 68.07,
+      "rel.cn": 109.97,
+      "rel.us": 77.43,
+      "rel.kr": 114.96,
+      "rel.jp": 109.58
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 110.33,
+      "rel.eu": 113.03,
+      "rel.top3": 59.26,
+      "rel.cn": 105.34,
+      "rel.us": 96.48,
+      "rel.kr": 105.09,
+      "rel.jp": 124.17
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 80.95,
+      "rel.eu": 86.65,
+      "rel.top3": 46.61,
+      "rel.cn": 89.69,
+      "rel.us": 68.39,
+      "rel.kr": 90.04,
+      "rel.jp": 90.77
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 88.04,
+      "rel.eu": 98.36,
+      "rel.top3": 53.04,
+      "rel.cn": 93.51,
+      "rel.us": 64.62,
+      "rel.kr": 99.64,
+      "rel.jp": 92.47
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 59.54,
+      "rel.eu": 106.25,
+      "rel.top3": 51.1
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 101.5,
+      "rel.eu": 119.66,
+      "rel.top3": 63.01,
+      "rel.cn": 118.76,
+      "rel.us": 72.31,
+      "rel.kr": 101.04,
+      "rel.jp": 98.4
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 85.83,
+      "rel.eu": 99.88,
+      "rel.top3": 53.85,
+      "rel.cn": 109.94,
+      "rel.us": 62.55,
+      "rel.kr": 86.34,
+      "rel.jp": 83.19
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 84.16,
+      "rel.eu": 93.17,
+      "rel.top3": 57.38,
+      "rel.cn": 74.34,
+      "rel.us": 127.55,
+      "rel.kr": 100.92,
+      "rel.jp": 132.56
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 103.19,
+      "rel.eu": 109.41,
+      "rel.top3": 58.5,
+      "rel.cn": 81.85,
+      "rel.us": 90.37,
+      "rel.kr": 107.17,
+      "rel.jp": 120.87
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 115.56,
+      "rel.eu": 125.55,
+      "rel.top3": 63.05,
+      "rel.cn": 113.45,
+      "rel.us": 95.84,
+      "rel.kr": 134.06,
+      "rel.jp": 131.08
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 112.38,
+      "rel.eu": 116.21,
+      "rel.top3": 57.23,
+      "rel.cn": 107.29,
+      "rel.us": 71.12,
+      "rel.kr": 108.07,
+      "rel.jp": 97.21
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 59.93,
+      "rel.eu": 67.04,
+      "rel.top3": 55.01,
+      "rel.cn": 64.45,
+      "rel.us": 60.07,
+      "rel.kr": 71.82,
+      "rel.jp": 57.87
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 110.36,
+      "rel.eu": 114.23,
+      "rel.top3": 56.73,
+      "rel.cn": 104,
+      "rel.us": 67.76,
+      "rel.kr": 108.81,
+      "rel.jp": 95.74
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 76.04,
+      "rel.eu": 81.84,
+      "rel.top3": 45.36,
+      "rel.cn": 90.93,
+      "rel.us": 61.41,
+      "rel.kr": 85,
+      "rel.jp": 84.13
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 108.7,
+      "rel.eu": 111.56,
+      "rel.top3": 55.66,
+      "rel.cn": 111.37,
+      "rel.us": 72.36,
+      "rel.kr": 114.13,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 107.51,
+      "rel.eu": 109.53,
+      "rel.top3": 54.69,
+      "rel.cn": 89.74,
+      "rel.us": 70.2,
+      "rel.kr": 100,
+      "rel.jp": 92.15
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 104.01,
+      "rel.eu": 106.48,
+      "rel.top3": 54.34,
+      "rel.cn": 91.55,
+      "rel.us": 85.95,
+      "rel.kr": 106.47,
+      "rel.jp": 115.92
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 95.05,
+      "rel.eu": 111.87,
+      "rel.top3": 60.39,
+      "rel.cn": 113.67,
+      "rel.us": 69.89,
+      "rel.kr": 87.78,
+      "rel.jp": 89.02
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 93.4,
+      "rel.eu": 96.14,
+      "rel.top3": 48.62,
+      "rel.cn": 84.52,
+      "rel.us": 74.51,
+      "rel.kr": 98.75,
+      "rel.jp": 101.91
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 78.1,
+      "rel.eu": 93.1,
+      "rel.top3": 57.15,
+      "rel.cn": 86.1,
+      "rel.us": 99.14,
+      "rel.kr": 103.42,
+      "rel.jp": 105.78
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 126.15,
+      "rel.eu": 126.61,
+      "rel.top3": 61.91,
+      "rel.cn": 74.31,
+      "rel.us": 83.55,
+      "rel.kr": 113.35,
+      "rel.jp": 107.3
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 102.99,
+      "rel.eu": 120.89,
+      "rel.top3": 63.46,
+      "rel.cn": 112.12,
+      "rel.us": 70.11,
+      "rel.kr": 105.98,
+      "rel.jp": 99.29
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 92.17,
+      "rel.eu": 95.93,
+      "rel.top3": 53.86,
+      "rel.cn": 103.79,
+      "rel.us": 70.82,
+      "rel.kr": 97.79,
+      "rel.jp": 96.9
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 133.19,
+      "rel.eu": 138.5,
+      "rel.top3": 65.44,
+      "rel.cn": 104.2,
+      "rel.us": 80.41,
+      "rel.kr": 129.58,
+      "rel.jp": 114.68
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 86.46,
+      "rel.eu": 90.68,
+      "rel.top3": 47.4,
+      "rel.cn": 79.25,
+      "rel.us": 77.41,
+      "rel.kr": 98.1,
+      "rel.jp": 103.44
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 83.26,
+      "rel.eu": 89.84,
+      "rel.top3": 49.37,
+      "rel.cn": 101.43,
+      "rel.us": 67.84,
+      "rel.kr": 91.87,
+      "rel.jp": 91.41
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 66.51,
+      "rel.eu": 71.53,
+      "rel.top3": 47.88,
+      "rel.cn": 86.03,
+      "rel.us": 133.63,
+      "rel.kr": 93.75,
+      "rel.jp": 128.87
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 106.06,
+      "rel.eu": 125.89,
+      "rel.top3": 65.98,
+      "rel.cn": 97.89,
+      "rel.us": 70.9,
+      "rel.kr": 102.67,
+      "rel.jp": 100.74
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 93.37,
+      "rel.eu": 96.81,
+      "rel.top3": 49.67,
+      "rel.cn": 96.1,
+      "rel.us": 74.01,
+      "rel.kr": 99.43,
+      "rel.jp": 101.08
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 89.69,
+      "rel.eu": 92.69,
+      "rel.top3": 47.47,
+      "rel.cn": 85.18,
+      "rel.us": 71.78,
+      "rel.kr": 93.15,
+      "rel.jp": 95.58
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 98.4,
+      "rel.eu": 96.71,
+      "rel.top3": 49.93,
+      "rel.cn": 73.69,
+      "rel.us": 79.62,
+      "rel.kr": 84.99,
+      "rel.jp": 97.39
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 147.04,
+      "rel.eu": 163.89,
+      "rel.top3": 76.32,
+      "rel.cn": 106.74,
+      "rel.us": 87.07,
+      "rel.kr": 181.61,
+      "rel.jp": 148.23
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 207.22,
+      "rel.eu": 222.85,
+      "rel.top3": 82.87,
+      "rel.cn": 107.29,
+      "rel.us": 100,
+      "rel.kr": 246.31,
+      "rel.jp": 180.38
+    }
+  ],
+  "A2": [
+    {
+      "iso2": "AT",
+      "rel.inno": 96.54,
+      "rel.eu": 104.84,
+      "rel.top3": 61.25,
+      "rel.cn": 10.75,
+      "rel.us": 82.06,
+      "rel.kr": 93.08,
+      "rel.jp": 88.42
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 180.73,
+      "rel.eu": 159.15,
+      "rel.top3": 57.12,
+      "rel.cn": 47.93,
+      "rel.us": 126.75,
+      "rel.kr": 131.04,
+      "rel.jp": 152.93
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 102.08,
+      "rel.eu": 111.06,
+      "rel.top3": 64.44,
+      "rel.cn": 12.06,
+      "rel.us": 94.99,
+      "rel.kr": 96.11,
+      "rel.jp": 101.95
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 77.95,
+      "rel.eu": 79.72,
+      "rel.top3": 47.86,
+      "rel.cn": 19.08,
+      "rel.us": 66.17,
+      "rel.kr": 74.79,
+      "rel.jp": 86.97
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 172.83,
+      "rel.eu": 141.41,
+      "rel.top3": 54.02,
+      "rel.cn": 60.58,
+      "rel.us": 101.15,
+      "rel.kr": 95.11,
+      "rel.jp": 139.75
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 94.69,
+      "rel.eu": 104.24,
+      "rel.top3": 58.55,
+      "rel.cn": 12.58,
+      "rel.us": 69.38,
+      "rel.kr": 71.86,
+      "rel.jp": 66.44
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 153.56,
+      "rel.eu": 135.98,
+      "rel.top3": 53.5,
+      "rel.cn": 25.76,
+      "rel.us": 111.86,
+      "rel.kr": 140.47,
+      "rel.jp": 118.11
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 1005,
+      "rel.eu": 599.47,
+      "rel.top3": 62.42,
+      "rel.cn": 100,
+      "rel.us": 201.84,
+      "rel.jp": 567.17
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 120.73,
+      "rel.eu": 110.57,
+      "rel.top3": 45.58,
+      "rel.cn": 21.64,
+      "rel.us": 95.62,
+      "rel.kr": 105.55,
+      "rel.jp": 103.3
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 255.84,
+      "rel.eu": 224.64,
+      "rel.top3": 73.65,
+      "rel.cn": 30.31,
+      "rel.us": 184.15,
+      "rel.kr": 262.63,
+      "rel.jp": 191.24
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 242.31,
+      "rel.eu": 190.69,
+      "rel.top3": 73.66,
+      "rel.cn": 203.02,
+      "rel.us": 266.79,
+      "rel.kr": 132.3,
+      "rel.jp": 637.43
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 95.38,
+      "rel.eu": 101.61,
+      "rel.top3": 58.08,
+      "rel.cn": 15.3,
+      "rel.us": 91.29,
+      "rel.kr": 89.94,
+      "rel.jp": 95.49
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 91.36,
+      "rel.eu": 97.76,
+      "rel.top3": 56.45,
+      "rel.cn": 10.43,
+      "rel.us": 93.32,
+      "rel.kr": 102.64,
+      "rel.jp": 100.4
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 102.78,
+      "rel.eu": 113.71,
+      "rel.top3": 65.49,
+      "rel.cn": 11.02,
+      "rel.us": 95.35,
+      "rel.kr": 104.47,
+      "rel.jp": 102.64
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 103.6,
+      "rel.eu": 108.48,
+      "rel.top3": 58.55,
+      "rel.cn": 27.62,
+      "rel.us": 109.69,
+      "rel.kr": 105.67,
+      "rel.jp": 121.35
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 96.32,
+      "rel.eu": 99.7,
+      "rel.top3": 55.17,
+      "rel.cn": 15.08,
+      "rel.us": 101.48,
+      "rel.kr": 98.72,
+      "rel.jp": 101.46
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 94.6,
+      "rel.eu": 99.11,
+      "rel.top3": 56.38,
+      "rel.cn": 21.93,
+      "rel.us": 92.83,
+      "rel.kr": 95.47,
+      "rel.jp": 102.88
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 82.14,
+      "rel.eu": 96.19,
+      "rel.top3": 61.36
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 101.67,
+      "rel.eu": 114.09,
+      "rel.top3": 65.06,
+      "rel.cn": 7.55,
+      "rel.us": 107.67,
+      "rel.kr": 101.73,
+      "rel.jp": 108.32
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 90.86,
+      "rel.eu": 98.41,
+      "rel.top3": 54.96,
+      "rel.cn": 13.31,
+      "rel.us": 84.46,
+      "rel.kr": 91.76,
+      "rel.jp": 90.71
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 132.18,
+      "rel.eu": 131,
+      "rel.top3": 69.74,
+      "rel.cn": 38.03,
+      "rel.us": 89.18,
+      "rel.kr": 94.59,
+      "rel.jp": 125.74
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 109.42,
+      "rel.eu": 100.61,
+      "rel.top3": 49.72,
+      "rel.cn": 67.87,
+      "rel.us": 93.01,
+      "rel.kr": 89.1,
+      "rel.jp": 126.64
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 116.31,
+      "rel.eu": 112.66,
+      "rel.top3": 58.29,
+      "rel.cn": 53.76,
+      "rel.us": 93.77,
+      "rel.kr": 91.97,
+      "rel.jp": 117.73
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 116.36,
+      "rel.eu": 105.81,
+      "rel.top3": 46.38,
+      "rel.cn": 28.79,
+      "rel.us": 87.48,
+      "rel.kr": 88.65,
+      "rel.jp": 101.48
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 41.07,
+      "rel.eu": 50.22,
+      "rel.top3": 31.16,
+      "rel.us": 45.22,
+      "rel.kr": 45.96,
+      "rel.jp": 60.35
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 121.1,
+      "rel.eu": 136.09,
+      "rel.top3": 70.72,
+      "rel.cn": 10.68,
+      "rel.us": 148.89,
+      "rel.kr": 137.84,
+      "rel.jp": 153.68
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 97.18,
+      "rel.eu": 100.27,
+      "rel.top3": 57.34,
+      "rel.cn": 22.21,
+      "rel.us": 89.2,
+      "rel.kr": 99.29,
+      "rel.jp": 99.79
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 115.69,
+      "rel.eu": 108.53,
+      "rel.top3": 40.82,
+      "rel.cn": 17.63,
+      "rel.us": 94.95,
+      "rel.kr": 103.64,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 108.55,
+      "rel.eu": 116.53,
+      "rel.top3": 57.25,
+      "rel.us": 118.15,
+      "rel.kr": 100,
+      "rel.jp": 113.88
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 92.51,
+      "rel.eu": 95.85,
+      "rel.top3": 51.63,
+      "rel.cn": 20.77,
+      "rel.us": 103.09,
+      "rel.kr": 94.72,
+      "rel.jp": 106.17
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 112.02,
+      "rel.eu": 127.05,
+      "rel.top3": 74.62,
+      "rel.us": 116.73,
+      "rel.kr": 107.06,
+      "rel.jp": 122.35
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 164.18,
+      "rel.eu": 137.32,
+      "rel.top3": 57.11,
+      "rel.cn": 160.83,
+      "rel.us": 123.98,
+      "rel.kr": 89.35,
+      "rel.jp": 208.63
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 183.01,
+      "rel.eu": 153.55,
+      "rel.top3": 68.41,
+      "rel.cn": 130.48,
+      "rel.us": 187.74,
+      "rel.kr": 119.82,
+      "rel.jp": 425.89
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 119.04,
+      "rel.eu": 110.21,
+      "rel.top3": 44.6,
+      "rel.cn": 10.05,
+      "rel.us": 97.8,
+      "rel.kr": 122.62,
+      "rel.jp": 96.57
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 99.71,
+      "rel.eu": 109.91,
+      "rel.top3": 63.29,
+      "rel.cn": 12.37,
+      "rel.us": 86.29,
+      "rel.kr": 90.71,
+      "rel.jp": 91.59
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 160.37,
+      "rel.eu": 182.74,
+      "rel.top3": 77.68,
+      "rel.cn": 13.66,
+      "rel.us": 331.11,
+      "rel.kr": 201.47,
+      "rel.jp": 287.23
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 263.41,
+      "rel.eu": 200.78,
+      "rel.top3": 61.23,
+      "rel.cn": 131.86,
+      "rel.us": 132.33,
+      "rel.kr": 108.85,
+      "rel.jp": 206.06
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 91.16,
+      "rel.eu": 97.78,
+      "rel.top3": 55,
+      "rel.cn": 8.82,
+      "rel.us": 97.32,
+      "rel.kr": 93.54,
+      "rel.jp": 95.61
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 105.8,
+      "rel.eu": 108.35,
+      "rel.top3": 60.07,
+      "rel.cn": 31.37,
+      "rel.us": 96.24,
+      "rel.kr": 98.53,
+      "rel.jp": 110.83
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 66.42,
+      "rel.eu": 69.57,
+      "rel.top3": 43.07,
+      "rel.cn": 13.19,
+      "rel.us": 55.21,
+      "rel.kr": 63.88,
+      "rel.jp": 70.66
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 111.74,
+      "rel.eu": 128.47,
+      "rel.top3": 67.12,
+      "rel.cn": 8.65,
+      "rel.us": 143.68,
+      "rel.kr": 112.58,
+      "rel.jp": 135.94
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 118.17,
+      "rel.eu": 130.58,
+      "rel.top3": 64.94,
+      "rel.cn": 14.91,
+      "rel.us": 162.26,
+      "rel.kr": 116.24,
+      "rel.jp": 147.86
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 113.36,
+      "rel.eu": 124.31,
+      "rel.top3": 58.08,
+      "rel.cn": 15.04,
+      "rel.us": 187.47,
+      "rel.kr": 130.25,
+      "rel.jp": 168.47
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 75.14,
+      "rel.eu": 78.42,
+      "rel.top3": 44.1,
+      "rel.cn": 10.85,
+      "rel.us": 100.2,
+      "rel.kr": 98.64,
+      "rel.jp": 98.56
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 124.83,
+      "rel.eu": 120.25,
+      "rel.top3": 61.79,
+      "rel.cn": 68.49,
+      "rel.us": 99.08,
+      "rel.kr": 96.72,
+      "rel.jp": 140.12
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 152.22,
+      "rel.eu": 130.89,
+      "rel.top3": 52.79,
+      "rel.cn": 49.55,
+      "rel.us": 100,
+      "rel.kr": 99.37,
+      "rel.jp": 127.63
+    }
+  ],
+  "A3": [
+    {
+      "iso2": "AT",
+      "rel.inno": 106.02,
+      "rel.eu": 108.52,
+      "rel.top3": 56.58,
+      "rel.cn": 1345.28,
+      "rel.us": 241.21,
+      "rel.kr": 1111.52,
+      "rel.jp": 629.35
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 73.27,
+      "rel.eu": 65.59,
+      "rel.top3": 38.82,
+      "rel.cn": 244.52,
+      "rel.us": 142.74,
+      "rel.kr": 406.87,
+      "rel.jp": 258.48
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 123.38,
+      "rel.eu": 126.6,
+      "rel.top3": 66.34,
+      "rel.cn": 1243.38,
+      "rel.us": 325.84,
+      "rel.kr": 1115.01,
+      "rel.jp": 674.34
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 88.21,
+      "rel.eu": 86.04,
+      "rel.top3": 48.81,
+      "rel.cn": 199.53,
+      "rel.us": 260.65,
+      "rel.kr": 430.53,
+      "rel.jp": 328.05
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 101.96,
+      "rel.eu": 90.6,
+      "rel.top3": 50.24,
+      "rel.cn": 861.68,
+      "rel.us": 196.3,
+      "rel.kr": 878.94,
+      "rel.jp": 500.04
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 118.68,
+      "rel.eu": 127.89,
+      "rel.top3": 66.25,
+      "rel.cn": 582.16,
+      "rel.us": 249.74,
+      "rel.kr": 633.08,
+      "rel.jp": 421.87
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 105.38,
+      "rel.eu": 96.46,
+      "rel.top3": 54.66,
+      "rel.cn": 483.13,
+      "rel.us": 185.12,
+      "rel.kr": 673.96,
+      "rel.jp": 403.45
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 58.26,
+      "rel.eu": 54.39,
+      "rel.top3": 33.75,
+      "rel.cn": 100,
+      "rel.us": 92.24,
+      "rel.kr": 186.66,
+      "rel.jp": 132.5
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 78.22,
+      "rel.eu": 76.74,
+      "rel.top3": 40.59,
+      "rel.cn": 603.71,
+      "rel.us": 131.43,
+      "rel.kr": 440.73,
+      "rel.jp": 271.44
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 70.36,
+      "rel.eu": 67.67,
+      "rel.top3": 36.47,
+      "rel.cn": 448.71,
+      "rel.us": 152.2,
+      "rel.kr": 322.8,
+      "rel.jp": 223.51
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 90.66,
+      "rel.eu": 100.87,
+      "rel.top3": 52.8,
+      "rel.cn": 155.47,
+      "rel.us": 180.66,
+      "rel.kr": 362.04,
+      "rel.jp": 257.11
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 117.85,
+      "rel.eu": 110.47,
+      "rel.top3": 57.94,
+      "rel.cn": 2287.81,
+      "rel.us": 335.71,
+      "rel.kr": 1845.24,
+      "rel.jp": 1007.93
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 72.31,
+      "rel.eu": 73.14,
+      "rel.top3": 40.02,
+      "rel.cn": 597.4,
+      "rel.us": 176.5,
+      "rel.kr": 546.88,
+      "rel.jp": 338.5
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 91.45,
+      "rel.eu": 99.46,
+      "rel.top3": 52.67,
+      "rel.cn": 523.94,
+      "rel.us": 178.82,
+      "rel.kr": 539.31,
+      "rel.jp": 337.26
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 111.93,
+      "rel.eu": 115.86,
+      "rel.top3": 61.77,
+      "rel.cn": 894.23,
+      "rel.us": 264.17,
+      "rel.kr": 838.64,
+      "rel.jp": 515.81
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 89.39,
+      "rel.eu": 86.16,
+      "rel.top3": 46.57,
+      "rel.cn": 1159.45,
+      "rel.us": 209,
+      "rel.kr": 1092.05,
+      "rel.jp": 604.39
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 82.32,
+      "rel.eu": 81.56,
+      "rel.top3": 44.28,
+      "rel.cn": 666.94,
+      "rel.us": 185.78,
+      "rel.kr": 706.56,
+      "rel.jp": 416.63
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 62.81,
+      "rel.eu": 72.93,
+      "rel.top3": 37.48,
+      "rel.cn": 114.79,
+      "rel.us": 300.14,
+      "rel.kr": 86.33,
+      "rel.jp": 185.71
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 94.53,
+      "rel.eu": 100.17,
+      "rel.top3": 51.66,
+      "rel.cn": 1109.45,
+      "rel.us": 193.09,
+      "rel.kr": 925.84,
+      "rel.jp": 522.33
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 75.73,
+      "rel.eu": 76.63,
+      "rel.top3": 41.22,
+      "rel.cn": 650.39,
+      "rel.us": 153.78,
+      "rel.kr": 604.11,
+      "rel.jp": 354.07
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 101.05,
+      "rel.eu": 94.46,
+      "rel.top3": 52.29,
+      "rel.cn": 261.71,
+      "rel.us": 279.98,
+      "rel.kr": 748.07,
+      "rel.jp": 477.93
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 113.64,
+      "rel.eu": 105.54,
+      "rel.top3": 56.63,
+      "rel.cn": 1172.39,
+      "rel.us": 331.34,
+      "rel.kr": 1250.97,
+      "rel.jp": 732.68
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 134.97,
+      "rel.eu": 135.58,
+      "rel.top3": 69.22,
+      "rel.cn": 2036.55,
+      "rel.us": 321.85,
+      "rel.kr": 1611.24,
+      "rel.jp": 894.71
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 146.76,
+      "rel.eu": 125.27,
+      "rel.top3": 64.1,
+      "rel.cn": 3567.56,
+      "rel.us": 246.67,
+      "rel.kr": 2766.35,
+      "rel.jp": 1382.8
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 148.33,
+      "rel.eu": 130.77,
+      "rel.top3": 73.83,
+      "rel.cn": 259.31,
+      "rel.us": 241.4,
+      "rel.kr": 817,
+      "rel.jp": 494.45
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 106.14,
+      "rel.eu": 114.52,
+      "rel.top3": 58.52,
+      "rel.cn": 1609.78,
+      "rel.us": 197.46,
+      "rel.kr": 1154.62,
+      "rel.jp": 627.68
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 67.93,
+      "rel.eu": 67.57,
+      "rel.top3": 37.51,
+      "rel.cn": 720.87,
+      "rel.us": 165.14,
+      "rel.kr": 605.91,
+      "rel.jp": 359.82
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 48.39,
+      "rel.eu": 47.36,
+      "rel.top3": 29.23,
+      "rel.cn": 111.65,
+      "rel.us": 88.43,
+      "rel.kr": 118.18,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 58.6,
+      "rel.eu": 58.26,
+      "rel.top3": 35.22,
+      "rel.cn": 101.5,
+      "rel.us": 133.04,
+      "rel.kr": 100,
+      "rel.jp": 113.58
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 100.72,
+      "rel.eu": 95.96,
+      "rel.top3": 51.71,
+      "rel.cn": 2282.35,
+      "rel.us": 282.41,
+      "rel.kr": 1604.81,
+      "rel.jp": 871.81
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 139.81,
+      "rel.eu": 150.26,
+      "rel.top3": 75.06,
+      "rel.cn": 735.18,
+      "rel.us": 277.24,
+      "rel.kr": 873.63,
+      "rel.jp": 539.41
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 111.08,
+      "rel.eu": 103.64,
+      "rel.top3": 55.06,
+      "rel.cn": 2259.67,
+      "rel.us": 294.85,
+      "rel.kr": 1752.29,
+      "rel.jp": 943.33
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 92.1,
+      "rel.eu": 100.07,
+      "rel.top3": 50.26,
+      "rel.cn": 158.35,
+      "rel.us": 206.41,
+      "rel.kr": 321.04,
+      "rel.jp": 247.84
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 116.92,
+      "rel.eu": 98.28,
+      "rel.top3": 54.23,
+      "rel.cn": 291.71,
+      "rel.us": 249.01,
+      "rel.kr": 829.2,
+      "rel.jp": 501.42
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 100.08,
+      "rel.eu": 107.12,
+      "rel.top3": 55.82,
+      "rel.cn": 834.36,
+      "rel.us": 247.13,
+      "rel.kr": 701.76,
+      "rel.jp": 444.13
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 84.87,
+      "rel.eu": 91.45,
+      "rel.top3": 49.27,
+      "rel.cn": 671.59,
+      "rel.us": 163.45,
+      "rel.kr": 603.25,
+      "rel.jp": 358.42
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 81.87,
+      "rel.eu": 75.51,
+      "rel.top3": 42.95,
+      "rel.cn": 674.76,
+      "rel.us": 151.2,
+      "rel.kr": 616.84,
+      "rel.jp": 358.98
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 89.99,
+      "rel.eu": 84.5,
+      "rel.top3": 47.69,
+      "rel.cn": 736.36,
+      "rel.us": 244.99,
+      "rel.kr": 792.24,
+      "rel.jp": 482.46
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 86.57,
+      "rel.eu": 89.82,
+      "rel.top3": 48.57,
+      "rel.cn": 571.06,
+      "rel.us": 182.71,
+      "rel.kr": 565.18,
+      "rel.jp": 351.37
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 93.4,
+      "rel.eu": 84.2,
+      "rel.top3": 47.04,
+      "rel.cn": 1062.71,
+      "rel.us": 242.38,
+      "rel.kr": 1113.52,
+      "rel.jp": 628.22
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 90.57,
+      "rel.eu": 96.37,
+      "rel.top3": 50.57,
+      "rel.cn": 829.06,
+      "rel.us": 184,
+      "rel.kr": 729.53,
+      "rel.jp": 426.94
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 119.67,
+      "rel.eu": 119.7,
+      "rel.top3": 62.44,
+      "rel.cn": 1973.61,
+      "rel.us": 336.49,
+      "rel.kr": 1501.69,
+      "rel.jp": 850.65
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 106.06,
+      "rel.eu": 98.19,
+      "rel.top3": 52.95,
+      "rel.cn": 1169.45,
+      "rel.us": 331.99,
+      "rel.kr": 1231.84,
+      "rel.jp": 726.61
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 57.67,
+      "rel.eu": 56.82,
+      "rel.top3": 33.52,
+      "rel.cn": 212.28,
+      "rel.us": 147.63,
+      "rel.kr": 230.59,
+      "rel.jp": 181.57
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 92.37,
+      "rel.eu": 93.09,
+      "rel.top3": 49.68,
+      "rel.cn": 881.75,
+      "rel.us": 177.61,
+      "rel.kr": 825.08,
+      "rel.jp": 465.86
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 60.58,
+      "rel.eu": 55.92,
+      "rel.top3": 32.67,
+      "rel.cn": 550.12,
+      "rel.us": 100,
+      "rel.kr": 473.26,
+      "rel.jp": 268.43
+    }
+  ],
+  "B1": [
+    {
+      "iso2": "AT",
+      "rel.inno": 94.04,
+      "rel.eu": 110.63,
+      "rel.top3": 57.89,
+      "rel.cn": 240.03,
+      "rel.us": 79.97,
+      "rel.kr": 90.38,
+      "rel.jp": 85.39
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 104.1,
+      "rel.eu": 122.59,
+      "rel.top3": 73.94,
+      "rel.cn": 311.62,
+      "rel.us": 104.8,
+      "rel.kr": 110.57,
+      "rel.jp": 100.07
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 88.72,
+      "rel.eu": 104.65,
+      "rel.top3": 56.82,
+      "rel.cn": 286.15,
+      "rel.us": 103.87,
+      "rel.kr": 107.42,
+      "rel.jp": 93.27
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 63.43,
+      "rel.eu": 72.11,
+      "rel.top3": 40.23,
+      "rel.cn": 188.47,
+      "rel.us": 62.34,
+      "rel.kr": 60.26,
+      "rel.jp": 51.86
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 124.76,
+      "rel.eu": 146.84,
+      "rel.top3": 88.75,
+      "rel.cn": 373.12,
+      "rel.us": 125.77,
+      "rel.kr": 131.9,
+      "rel.jp": 118.84
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 131.07,
+      "rel.eu": 158.32,
+      "rel.top3": 82.6,
+      "rel.cn": 285.62,
+      "rel.us": 107.17,
+      "rel.kr": 112.69,
+      "rel.jp": 97.76
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 60.12,
+      "rel.eu": 70.29,
+      "rel.top3": 42.91,
+      "rel.cn": 225.68,
+      "rel.us": 60.18,
+      "rel.kr": 61.2,
+      "rel.jp": 59.8
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 35.92,
+      "rel.eu": 40.04,
+      "rel.top3": 26.63,
+      "rel.cn": 100,
+      "rel.us": 35.02,
+      "rel.kr": 25.8,
+      "rel.jp": 27.33
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 52.63,
+      "rel.eu": 61.57,
+      "rel.top3": 36.29,
+      "rel.cn": 190.26,
+      "rel.us": 49.96,
+      "rel.kr": 56.38,
+      "rel.jp": 46.47
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 62.02,
+      "rel.eu": 69.14,
+      "rel.top3": 45.98,
+      "rel.cn": 172.68,
+      "rel.us": 60.47,
+      "rel.kr": 44.54,
+      "rel.jp": 47.19
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 62.96,
+      "rel.eu": 72.53,
+      "rel.top3": 38.97,
+      "rel.cn": 329.83,
+      "rel.us": 115.5,
+      "rel.kr": 85.08,
+      "rel.jp": 90.13
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 77.73,
+      "rel.eu": 91.13,
+      "rel.top3": 48.69,
+      "rel.cn": 192.89,
+      "rel.us": 71.78,
+      "rel.kr": 74.76,
+      "rel.jp": 64.62
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 101.01,
+      "rel.eu": 118.11,
+      "rel.top3": 63.14,
+      "rel.cn": 207.71,
+      "rel.us": 81.42,
+      "rel.kr": 88.61,
+      "rel.jp": 77.52
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 110.36,
+      "rel.eu": 129.46,
+      "rel.top3": 69.19,
+      "rel.cn": 273.06,
+      "rel.us": 101.33,
+      "rel.kr": 108.38,
+      "rel.jp": 95.47
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 92.09,
+      "rel.eu": 106.97,
+      "rel.top3": 57.81,
+      "rel.cn": 244.63,
+      "rel.us": 87.34,
+      "rel.kr": 88.2,
+      "rel.jp": 75.81
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 64.29,
+      "rel.eu": 73.71,
+      "rel.top3": 43.51,
+      "rel.cn": 252.03,
+      "rel.us": 70.01,
+      "rel.kr": 54.96,
+      "rel.jp": 44.6
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 84.87,
+      "rel.eu": 98.39,
+      "rel.top3": 53.55,
+      "rel.cn": 281.44,
+      "rel.us": 79.56,
+      "rel.kr": 79.36,
+      "rel.jp": 74.75
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 90.19,
+      "rel.eu": 103.81,
+      "rel.top3": 55.2,
+      "rel.cn": 234,
+      "rel.us": 81.94,
+      "rel.kr": 60.36,
+      "rel.jp": 63.94
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 100.07,
+      "rel.eu": 116.27,
+      "rel.top3": 63.11,
+      "rel.cn": 227.1,
+      "rel.us": 86.62,
+      "rel.kr": 90.23,
+      "rel.jp": 77.32
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 101.03,
+      "rel.eu": 118.88,
+      "rel.top3": 64.69,
+      "rel.cn": 280.74,
+      "rel.us": 86.18,
+      "rel.kr": 90.06,
+      "rel.jp": 84.01
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 78.81,
+      "rel.eu": 88.55,
+      "rel.top3": 48.8,
+      "rel.cn": 197.78,
+      "rel.us": 69.26,
+      "rel.kr": 51.02,
+      "rel.jp": 54.05
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 68.9,
+      "rel.eu": 79.85,
+      "rel.top3": 42.56,
+      "rel.cn": 177.74,
+      "rel.us": 62.56,
+      "rel.kr": 62.61,
+      "rel.jp": 53.78
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 128.8,
+      "rel.eu": 149.82,
+      "rel.top3": 84.01,
+      "rel.cn": 352.5,
+      "rel.us": 104.15,
+      "rel.kr": 96.47,
+      "rel.jp": 85.09
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 82.56,
+      "rel.eu": 96.53,
+      "rel.top3": 59.64,
+      "rel.cn": 257.66,
+      "rel.us": 84.22,
+      "rel.kr": 82.56,
+      "rel.jp": 72.12
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 24.37,
+      "rel.eu": 27.78,
+      "rel.top3": 17.49,
+      "rel.cn": 113.99,
+      "rel.us": 23.48,
+      "rel.kr": 21.43,
+      "rel.jp": 19.9
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 85.4,
+      "rel.eu": 101.94,
+      "rel.top3": 54.41,
+      "rel.cn": 228.05,
+      "rel.us": 79.87,
+      "rel.kr": 80.27,
+      "rel.jp": 69.28
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 65.89,
+      "rel.eu": 76.37,
+      "rel.top3": 41.99,
+      "rel.cn": 162.71,
+      "rel.us": 56.62,
+      "rel.kr": 59.04,
+      "rel.jp": 52.36
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 110.79,
+      "rel.eu": 130.6,
+      "rel.top3": 75.49,
+      "rel.cn": 365.94,
+      "rel.us": 104.72,
+      "rel.kr": 124.96,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 110.2,
+      "rel.eu": 127.41,
+      "rel.top3": 81.41,
+      "rel.cn": 387.66,
+      "rel.us": 114.08,
+      "rel.kr": 100,
+      "rel.jp": 85.12
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 83.88,
+      "rel.eu": 95.82,
+      "rel.top3": 55.21,
+      "rel.cn": 323.99,
+      "rel.us": 103.1,
+      "rel.kr": 92.27,
+      "rel.jp": 76.48
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 154.95,
+      "rel.eu": 184.71,
+      "rel.top3": 89.91,
+      "rel.cn": 334.48,
+      "rel.us": 158.34,
+      "rel.kr": 203.77,
+      "rel.jp": 188.18
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 66.4,
+      "rel.eu": 76,
+      "rel.top3": 42.74,
+      "rel.cn": 255.6,
+      "rel.us": 76.77,
+      "rel.kr": 73.67,
+      "rel.jp": 65.94
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 100.22,
+      "rel.eu": 116.54,
+      "rel.top3": 55.96,
+      "rel.cn": 236.23,
+      "rel.us": 82.72,
+      "rel.kr": 60.94,
+      "rel.jp": 64.55
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 46.92,
+      "rel.eu": 54.67,
+      "rel.top3": 34.14,
+      "rel.cn": 151.94,
+      "rel.us": 48.1,
+      "rel.kr": 45.53,
+      "rel.jp": 39.41
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 98.58,
+      "rel.eu": 116.02,
+      "rel.top3": 61.56,
+      "rel.cn": 314.34,
+      "rel.us": 107.36,
+      "rel.kr": 108.14,
+      "rel.jp": 94.43
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 100.8,
+      "rel.eu": 117.34,
+      "rel.top3": 63.21,
+      "rel.cn": 314.38,
+      "rel.us": 103.75,
+      "rel.kr": 110.16,
+      "rel.jp": 100.81
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 85.35,
+      "rel.eu": 100.49,
+      "rel.top3": 60.78,
+      "rel.cn": 245.62,
+      "rel.us": 86.25,
+      "rel.kr": 90.28,
+      "rel.jp": 79.98
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 73.79,
+      "rel.eu": 83.61,
+      "rel.top3": 47.63,
+      "rel.cn": 225.64,
+      "rel.us": 81.47,
+      "rel.kr": 78.62,
+      "rel.jp": 65.08
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 89.81,
+      "rel.eu": 104.19,
+      "rel.top3": 56.55,
+      "rel.cn": 247.57,
+      "rel.us": 78.31,
+      "rel.kr": 73.44,
+      "rel.jp": 63.17
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 57.32,
+      "rel.eu": 64.77,
+      "rel.top3": 35.85,
+      "rel.cn": 137.59,
+      "rel.us": 42.54,
+      "rel.kr": 53.05,
+      "rel.jp": 41.5
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 106.32,
+      "rel.eu": 125.03,
+      "rel.top3": 65.8,
+      "rel.cn": 291.41,
+      "rel.us": 106.28,
+      "rel.kr": 118,
+      "rel.jp": 107.05
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 86.55,
+      "rel.eu": 100.46,
+      "rel.top3": 54.97,
+      "rel.cn": 263.5,
+      "rel.us": 87.77,
+      "rel.kr": 90.68,
+      "rel.jp": 81.31
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 73.95,
+      "rel.eu": 85.71,
+      "rel.top3": 46.71,
+      "rel.cn": 217.88,
+      "rel.us": 74.95,
+      "rel.kr": 74.65,
+      "rel.jp": 64.5
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 52.13,
+      "rel.eu": 59.07,
+      "rel.top3": 33.85,
+      "rel.cn": 229.82,
+      "rel.us": 60.41,
+      "rel.kr": 54.81,
+      "rel.jp": 50.77
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 122.21,
+      "rel.eu": 145.14,
+      "rel.top3": 76.72,
+      "rel.cn": 321.46,
+      "rel.us": 115.66,
+      "rel.kr": 126.19,
+      "rel.jp": 113.77
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 99.99,
+      "rel.eu": 118.26,
+      "rel.top3": 70.34,
+      "rel.cn": 285.57,
+      "rel.us": 100,
+      "rel.kr": 109.94,
+      "rel.jp": 100.52
+    }
+  ],
+  "B2": [
+    {
+      "iso2": "AT",
+      "rel.inno": 85.15,
+      "rel.eu": 124.09,
+      "rel.top3": 65.02,
+      "rel.cn": 352.54,
+      "rel.us": 137.92,
+      "rel.kr": 473.22,
+      "rel.jp": 193.95
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 112.82,
+      "rel.eu": 175.95,
+      "rel.top3": 74.27,
+      "rel.cn": 570.86,
+      "rel.us": 196.43,
+      "rel.kr": 2258.04,
+      "rel.jp": 203.46
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 86.75,
+      "rel.eu": 131.49,
+      "rel.top3": 66.66,
+      "rel.cn": 364.71,
+      "rel.us": 150.41,
+      "rel.kr": 893.99,
+      "rel.jp": 173.23
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 40.4,
+      "rel.eu": 49.71,
+      "rel.top3": 35.79,
+      "rel.cn": 153.07,
+      "rel.us": 57.1,
+      "rel.kr": 55.75,
+      "rel.jp": 102.69
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 71.39,
+      "rel.eu": 107.68,
+      "rel.top3": 52.46,
+      "rel.cn": 332.47,
+      "rel.us": 139.18,
+      "rel.kr": 861.05,
+      "rel.jp": 170.03
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 148.42,
+      "rel.eu": 221.65,
+      "rel.top3": 103.93,
+      "rel.cn": 837.06,
+      "rel.us": 248.31,
+      "rel.kr": 2974.81,
+      "rel.jp": 304.25
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 18.07,
+      "rel.eu": 24.42,
+      "rel.top3": 13.12,
+      "rel.cn": 65.96,
+      "rel.us": 31.98,
+      "rel.kr": 23.92,
+      "rel.jp": 37.29
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 28.85,
+      "rel.eu": 40.1,
+      "rel.top3": 21.28,
+      "rel.cn": 100,
+      "rel.us": 49.12,
+      "rel.kr": 169.52,
+      "rel.jp": 56.23
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 6.13,
+      "rel.eu": 8.95,
+      "rel.top3": 5,
+      "rel.cn": 22.98,
+      "rel.us": 10.42,
+      "rel.kr": 9.07,
+      "rel.jp": 15.16
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 12.01,
+      "rel.eu": 16.37,
+      "rel.top3": 9.7,
+      "rel.cn": 39.54,
+      "rel.us": 24.61,
+      "rel.kr": 16.94,
+      "rel.jp": 23.7
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 72.9,
+      "rel.eu": 113.88,
+      "rel.top3": 60.06,
+      "rel.cn": 302.07,
+      "rel.us": 102.3,
+      "rel.kr": 456.07,
+      "rel.jp": 346.22
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 65.44,
+      "rel.eu": 88.26,
+      "rel.top3": 50.6,
+      "rel.cn": 278.81,
+      "rel.us": 142.89,
+      "rel.kr": 100.18,
+      "rel.jp": 146.77
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 75.59,
+      "rel.eu": 107.35,
+      "rel.top3": 60.42,
+      "rel.cn": 307.84,
+      "rel.us": 136.49,
+      "rel.kr": 388.77,
+      "rel.jp": 186.37
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 114.25,
+      "rel.eu": 173.5,
+      "rel.top3": 85.21,
+      "rel.cn": 569.39,
+      "rel.us": 195.64,
+      "rel.kr": 1550.03,
+      "rel.jp": 258.48
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 70.49,
+      "rel.eu": 97.11,
+      "rel.top3": 56.09,
+      "rel.cn": 277.99,
+      "rel.us": 146.28,
+      "rel.kr": 104,
+      "rel.jp": 153.15
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 63.36,
+      "rel.eu": 84.67,
+      "rel.top3": 48.96,
+      "rel.cn": 245.67,
+      "rel.us": 138.64,
+      "rel.kr": 126.62,
+      "rel.jp": 154.95
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 55.09,
+      "rel.eu": 76.67,
+      "rel.top3": 43.57,
+      "rel.cn": 196.2,
+      "rel.us": 103.59,
+      "rel.kr": 106.89,
+      "rel.jp": 125.71
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 67.8,
+      "rel.eu": 99.74,
+      "rel.top3": 59.09,
+      "rel.cn": 129.09,
+      "rel.us": 112.01,
+      "rel.kr": 77.75,
+      "rel.jp": 108.71
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 93.38,
+      "rel.eu": 133.68,
+      "rel.top3": 73.74,
+      "rel.cn": 356.92,
+      "rel.us": 170.41,
+      "rel.kr": 383.28,
+      "rel.jp": 233.82
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 62.48,
+      "rel.eu": 87.73,
+      "rel.top3": 48.12,
+      "rel.cn": 237.37,
+      "rel.us": 109.29,
+      "rel.kr": 280.57,
+      "rel.jp": 130.3
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 43.63,
+      "rel.eu": 60.59,
+      "rel.top3": 37.19,
+      "rel.cn": 338.5,
+      "rel.us": 126.28,
+      "rel.kr": 123.29,
+      "rel.jp": 227.1
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 46.61,
+      "rel.eu": 61.2,
+      "rel.top3": 36.32,
+      "rel.cn": 179.34,
+      "rel.us": 98.94,
+      "rel.kr": 66.1,
+      "rel.jp": 94.59
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 74.23,
+      "rel.eu": 113.83,
+      "rel.top3": 56.53,
+      "rel.cn": 316.05,
+      "rel.us": 131.98,
+      "rel.kr": 912.75,
+      "rel.jp": 143.54
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 67.3,
+      "rel.eu": 110.02,
+      "rel.top3": 47.78,
+      "rel.cn": 211.67,
+      "rel.us": 91.46,
+      "rel.kr": 262.84,
+      "rel.jp": 120.13
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 2.14,
+      "rel.eu": 3.32,
+      "rel.top3": 1.6,
+      "rel.cn": 12.83,
+      "rel.us": 4.73,
+      "rel.kr": 6.67,
+      "rel.jp": 16.87
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 97.02,
+      "rel.eu": 146.74,
+      "rel.top3": 74.11,
+      "rel.cn": 408.53,
+      "rel.us": 185.08,
+      "rel.kr": 647.44,
+      "rel.jp": 229.1
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 55.97,
+      "rel.eu": 79.48,
+      "rel.top3": 43.87,
+      "rel.cn": 207.81,
+      "rel.us": 92.06,
+      "rel.kr": 301.11,
+      "rel.jp": 116.07
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 58.41,
+      "rel.eu": 77.49,
+      "rel.top3": 42.15,
+      "rel.cn": 195.92,
+      "rel.us": 98.57,
+      "rel.kr": 68.94,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 73.24,
+      "rel.eu": 98.08,
+      "rel.top3": 51.91,
+      "rel.cn": 251.25,
+      "rel.us": 114.02,
+      "rel.kr": 100,
+      "rel.jp": 151.1
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 54.99,
+      "rel.eu": 73.07,
+      "rel.top3": 43.66,
+      "rel.cn": 226.18,
+      "rel.us": 135.24,
+      "rel.kr": 88.85,
+      "rel.jp": 122.58
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 92.37,
+      "rel.eu": 136.68,
+      "rel.top3": 70.3,
+      "rel.cn": 424.46,
+      "rel.us": 179.12,
+      "rel.kr": 798.84,
+      "rel.jp": 214.43
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 47.45,
+      "rel.eu": 61.77,
+      "rel.top3": 38.04,
+      "rel.cn": 165.47,
+      "rel.us": 96.53,
+      "rel.kr": 64.61,
+      "rel.jp": 91.01
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 71.93,
+      "rel.eu": 99.02,
+      "rel.top3": 62.04,
+      "rel.cn": 336.58,
+      "rel.us": 125.57,
+      "rel.kr": 122.6,
+      "rel.jp": 225.82
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 14.25,
+      "rel.eu": 19.03,
+      "rel.top3": 10.55,
+      "rel.cn": 42.79,
+      "rel.us": 21.76,
+      "rel.kr": 15.6,
+      "rel.jp": 23.19
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 110.32,
+      "rel.eu": 170.56,
+      "rel.top3": 79.71,
+      "rel.cn": 555.33,
+      "rel.us": 159.98,
+      "rel.kr": 2284.05,
+      "rel.jp": 184.16
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 99.45,
+      "rel.eu": 147.52,
+      "rel.top3": 77.67,
+      "rel.cn": 408.75,
+      "rel.us": 194.79,
+      "rel.kr": 385.35,
+      "rel.jp": 245.5
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 66.45,
+      "rel.eu": 90.97,
+      "rel.top3": 48.36,
+      "rel.cn": 268.57,
+      "rel.us": 139.61,
+      "rel.kr": 301.62,
+      "rel.jp": 162.61
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 49.43,
+      "rel.eu": 64.65,
+      "rel.top3": 38.12,
+      "rel.cn": 202.77,
+      "rel.us": 106.39,
+      "rel.kr": 72.67,
+      "rel.jp": 105.43
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 61.36,
+      "rel.eu": 85.18,
+      "rel.top3": 48.3,
+      "rel.cn": 236.57,
+      "rel.us": 135.16,
+      "rel.kr": 104.69,
+      "rel.jp": 156.94
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 26.51,
+      "rel.eu": 34.47,
+      "rel.top3": 22.1,
+      "rel.cn": 75.2,
+      "rel.us": 40.82,
+      "rel.kr": 28.7,
+      "rel.jp": 42.28
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 93.5,
+      "rel.eu": 139.92,
+      "rel.top3": 70.39,
+      "rel.cn": 432.97,
+      "rel.us": 148.09,
+      "rel.kr": 1076.08,
+      "rel.jp": 204.67
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 66.9,
+      "rel.eu": 94.73,
+      "rel.top3": 51.62,
+      "rel.cn": 257.65,
+      "rel.us": 121.78,
+      "rel.kr": 261.69,
+      "rel.jp": 155.14
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 47.54,
+      "rel.eu": 61.35,
+      "rel.top3": 36.97,
+      "rel.cn": 196.58,
+      "rel.us": 116.35,
+      "rel.kr": 75.47,
+      "rel.jp": 105.15
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 28.91,
+      "rel.eu": 38.81,
+      "rel.top3": 24.71,
+      "rel.cn": 91.26,
+      "rel.us": 51.47,
+      "rel.kr": 38.7,
+      "rel.jp": 66.4
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 89.01,
+      "rel.eu": 133.6,
+      "rel.top3": 65.43,
+      "rel.cn": 473.77,
+      "rel.us": 152.87,
+      "rel.kr": 1933.89,
+      "rel.jp": 164.86
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 78.88,
+      "rel.eu": 112.44,
+      "rel.top3": 52.74,
+      "rel.cn": 324.91,
+      "rel.us": 100,
+      "rel.kr": 1063.82,
+      "rel.jp": 122.2
+    }
+  ],
+  "B3": [
+    {
+      "iso2": "AT",
+      "rel.inno": 97.17,
+      "rel.eu": 148.87,
+      "rel.top3": 65.72,
+      "rel.cn": 834.79,
+      "rel.us": 112.5,
+      "rel.kr": 106.59,
+      "rel.jp": 113.56
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 46.11,
+      "rel.eu": 67.25,
+      "rel.top3": 26.88,
+      "rel.cn": 149.77,
+      "rel.us": 46.21,
+      "rel.kr": 35.17,
+      "rel.jp": 52.03
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 100.2,
+      "rel.eu": 143.61,
+      "rel.top3": 65.68,
+      "rel.cn": 544.15,
+      "rel.us": 106.05,
+      "rel.kr": 86.42,
+      "rel.jp": 113.4
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 53.17,
+      "rel.eu": 62.47,
+      "rel.top3": 37.87,
+      "rel.cn": 39.24,
+      "rel.us": 49.7,
+      "rel.kr": 40.65,
+      "rel.jp": 44.52
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 65.91,
+      "rel.eu": 93.5,
+      "rel.top3": 38.16,
+      "rel.cn": 205.33,
+      "rel.us": 66.85,
+      "rel.kr": 49.53,
+      "rel.jp": 70.72
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 125.37,
+      "rel.eu": 211.73,
+      "rel.top3": 77.66,
+      "rel.cn": 1661.6,
+      "rel.us": 178.28,
+      "rel.kr": 154.73,
+      "rel.jp": 169.46
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 53.01,
+      "rel.eu": 54.79,
+      "rel.top3": 23.14,
+      "rel.cn": 7.77,
+      "rel.us": 46.76,
+      "rel.kr": 29.74,
+      "rel.jp": 38.66
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 126.82,
+      "rel.eu": 160.43,
+      "rel.top3": 48.22,
+      "rel.cn": 100,
+      "rel.us": 130.9,
+      "rel.kr": 64.25,
+      "rel.jp": 178.88
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 49.33,
+      "rel.eu": 53.09,
+      "rel.top3": 16.14,
+      "rel.cn": 9.77,
+      "rel.us": 48.71,
+      "rel.kr": 21.27,
+      "rel.jp": 62.55
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 8.8,
+      "rel.eu": 10.44,
+      "rel.top3": 4.37,
+      "rel.cn": 5.86,
+      "rel.us": 8.04,
+      "rel.kr": 5.24,
+      "rel.jp": 7.54
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 63.53,
+      "rel.eu": 75.7,
+      "rel.top3": 46.71,
+      "rel.cn": 33.38,
+      "rel.us": 40.78,
+      "rel.kr": 34.39,
+      "rel.jp": 37.68
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 72.74,
+      "rel.eu": 89.29,
+      "rel.top3": 48.99,
+      "rel.cn": 85.27,
+      "rel.us": 64.9,
+      "rel.kr": 47.28,
+      "rel.jp": 59.75
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 105.64,
+      "rel.eu": 157.16,
+      "rel.top3": 68.52,
+      "rel.cn": 719.3,
+      "rel.us": 124.3,
+      "rel.kr": 96.07,
+      "rel.jp": 125.47
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 94.8,
+      "rel.eu": 158.99,
+      "rel.top3": 65.34,
+      "rel.cn": 1244.14,
+      "rel.us": 128.22,
+      "rel.kr": 135.5,
+      "rel.jp": 132.68
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 69.59,
+      "rel.eu": 90.45,
+      "rel.top3": 47.33,
+      "rel.cn": 203.23,
+      "rel.us": 61.84,
+      "rel.kr": 51.89,
+      "rel.jp": 66.15
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 68.84,
+      "rel.eu": 83.65,
+      "rel.top3": 46.8,
+      "rel.cn": 66.31,
+      "rel.us": 50.06,
+      "rel.kr": 38.27,
+      "rel.jp": 58
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 58.76,
+      "rel.eu": 72.03,
+      "rel.top3": 39.47,
+      "rel.cn": 98.84,
+      "rel.us": 52.71,
+      "rel.kr": 39.16,
+      "rel.jp": 53.21
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 81.77,
+      "rel.eu": 108.03,
+      "rel.top3": 53.34,
+      "rel.cn": 539.46,
+      "rel.us": 95.12,
+      "rel.kr": 60.08,
+      "rel.jp": 91.39
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 107.14,
+      "rel.eu": 171.54,
+      "rel.top3": 73.07,
+      "rel.cn": 1123.44,
+      "rel.us": 123.33,
+      "rel.kr": 127.11,
+      "rel.jp": 126
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 75.77,
+      "rel.eu": 105.64,
+      "rel.top3": 52.62,
+      "rel.cn": 322.12,
+      "rel.us": 73.53,
+      "rel.kr": 58.52,
+      "rel.jp": 68.41
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 58.36,
+      "rel.eu": 69.81,
+      "rel.top3": 41.7,
+      "rel.cn": 64.06,
+      "rel.us": 40,
+      "rel.kr": 35.03,
+      "rel.jp": 37.07
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 63.64,
+      "rel.eu": 79.62,
+      "rel.top3": 42.72,
+      "rel.cn": 165.05,
+      "rel.us": 66.59,
+      "rel.kr": 54.69,
+      "rel.jp": 63.37
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 83.95,
+      "rel.eu": 115.78,
+      "rel.top3": 56.69,
+      "rel.cn": 408.98,
+      "rel.us": 71.33,
+      "rel.kr": 59.9,
+      "rel.jp": 70.21
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 124.56,
+      "rel.eu": 216.97,
+      "rel.top3": 69.89,
+      "rel.cn": 662.76,
+      "rel.us": 126.41,
+      "rel.kr": 91.67,
+      "rel.jp": 117.74
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 12.16,
+      "rel.eu": 14.74,
+      "rel.top3": 7.29,
+      "rel.cn": 10.93,
+      "rel.us": 11.16,
+      "rel.kr": 8.66,
+      "rel.jp": 7.79
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 73.97,
+      "rel.eu": 122.13,
+      "rel.top3": 51.85,
+      "rel.cn": 873.4,
+      "rel.us": 90.68,
+      "rel.kr": 110.55,
+      "rel.jp": 106.82
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 70.97,
+      "rel.eu": 90.05,
+      "rel.top3": 47.62,
+      "rel.cn": 196.76,
+      "rel.us": 65.17,
+      "rel.kr": 46.94,
+      "rel.jp": 66.51
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 113.78,
+      "rel.eu": 194.51,
+      "rel.top3": 65.25,
+      "rel.cn": 894.63,
+      "rel.us": 122.25,
+      "rel.kr": 97.57,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 133.47,
+      "rel.eu": 207.82,
+      "rel.top3": 72.45,
+      "rel.cn": 652.63,
+      "rel.us": 137.54,
+      "rel.kr": 100,
+      "rel.jp": 138.8
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 59.58,
+      "rel.eu": 71.79,
+      "rel.top3": 40.36,
+      "rel.cn": 54.24,
+      "rel.us": 46.69,
+      "rel.kr": 33.47,
+      "rel.jp": 48.16
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 66.02,
+      "rel.eu": 97,
+      "rel.top3": 47.43,
+      "rel.cn": 413.21,
+      "rel.us": 66.6,
+      "rel.kr": 53.7,
+      "rel.jp": 59.45
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 53.9,
+      "rel.eu": 63.33,
+      "rel.top3": 36.76,
+      "rel.cn": 46.36,
+      "rel.us": 51.67,
+      "rel.kr": 37.8,
+      "rel.jp": 55.56
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 55.69,
+      "rel.eu": 68.18,
+      "rel.top3": 39.82,
+      "rel.cn": 101.16,
+      "rel.us": 49.86,
+      "rel.kr": 38.86,
+      "rel.jp": 40.34
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 37.24,
+      "rel.eu": 40.19,
+      "rel.top3": 22.54,
+      "rel.cn": 8.8,
+      "rel.us": 35.29,
+      "rel.kr": 26.01,
+      "rel.jp": 26.11
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 90.25,
+      "rel.eu": 145.08,
+      "rel.top3": 61.14,
+      "rel.cn": 979.45,
+      "rel.us": 114.01,
+      "rel.kr": 108.64,
+      "rel.jp": 118.83
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 73,
+      "rel.eu": 103.93,
+      "rel.top3": 51.29,
+      "rel.cn": 270.82,
+      "rel.us": 54.3,
+      "rel.kr": 45.64,
+      "rel.jp": 56.32
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 49.15,
+      "rel.eu": 71.79,
+      "rel.top3": 29.74,
+      "rel.cn": 154.6,
+      "rel.us": 49.64,
+      "rel.kr": 39.45,
+      "rel.jp": 54.73
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 51.98,
+      "rel.eu": 62.63,
+      "rel.top3": 35.73,
+      "rel.cn": 50.31,
+      "rel.us": 50.2,
+      "rel.kr": 37.94,
+      "rel.jp": 47.25
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 59.42,
+      "rel.eu": 74.39,
+      "rel.top3": 41.26,
+      "rel.cn": 77.22,
+      "rel.us": 50.27,
+      "rel.kr": 39.62,
+      "rel.jp": 50.54
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 43.5,
+      "rel.eu": 48.91,
+      "rel.top3": 28.59,
+      "rel.cn": 20.38,
+      "rel.us": 49.99,
+      "rel.kr": 36.12,
+      "rel.jp": 49.08
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 107.62,
+      "rel.eu": 180.01,
+      "rel.top3": 73.55,
+      "rel.cn": 1246.86,
+      "rel.us": 136.61,
+      "rel.kr": 134.21,
+      "rel.jp": 135.44
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 76.03,
+      "rel.eu": 96.6,
+      "rel.top3": 51.41,
+      "rel.cn": 154.37,
+      "rel.us": 69.53,
+      "rel.kr": 50.32,
+      "rel.jp": 67.19
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 55.77,
+      "rel.eu": 65.43,
+      "rel.top3": 38.22,
+      "rel.cn": 65.07,
+      "rel.us": 52.56,
+      "rel.kr": 40.72,
+      "rel.jp": 44.08
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 49.55,
+      "rel.eu": 58.49,
+      "rel.top3": 33.26,
+      "rel.cn": 25.28,
+      "rel.us": 39.56,
+      "rel.kr": 31.57,
+      "rel.jp": 36.41
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 102.41,
+      "rel.eu": 138.83,
+      "rel.top3": 66.68,
+      "rel.cn": 464.11,
+      "rel.us": 90.83,
+      "rel.kr": 79.45,
+      "rel.jp": 99.34
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 95.76,
+      "rel.eu": 159.09,
+      "rel.top3": 57.12,
+      "rel.cn": 588.82,
+      "rel.us": 100,
+      "rel.kr": 86.67,
+      "rel.jp": 102.07
+    }
+  ],
+  "B4": [
+    {
+      "iso2": "AT",
+      "rel.inno": 67.13,
+      "rel.eu": 84.97,
+      "rel.top3": 44.95,
+      "rel.cn": 150.95,
+      "rel.us": 27.51,
+      "rel.kr": 81.69,
+      "rel.jp": 460.07
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 84.74,
+      "rel.eu": 120.16,
+      "rel.top3": 29.36,
+      "rel.cn": 244.33,
+      "rel.us": 46.82,
+      "rel.kr": 143.93,
+      "rel.jp": 863.55
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 48.95,
+      "rel.eu": 62.93,
+      "rel.top3": 32.39,
+      "rel.cn": 109.59,
+      "rel.us": 22.39,
+      "rel.kr": 71.68,
+      "rel.jp": 459.57
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 56.15,
+      "rel.eu": 61.14,
+      "rel.top3": 37.59,
+      "rel.cn": 52.17,
+      "rel.us": 6.92,
+      "rel.kr": 15,
+      "rel.jp": 24.74
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 63.72,
+      "rel.eu": 92.85,
+      "rel.top3": 23.61,
+      "rel.cn": 205.41,
+      "rel.us": 37.28,
+      "rel.kr": 110.4,
+      "rel.jp": 618.36
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 76.37,
+      "rel.eu": 109.16,
+      "rel.top3": 52.65,
+      "rel.cn": 516.56,
+      "rel.us": 75.34,
+      "rel.kr": 183.56,
+      "rel.jp": 600.59
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 31.6,
+      "rel.eu": 51.15,
+      "rel.top3": 14.85,
+      "rel.cn": 146.36,
+      "rel.us": 22.75,
+      "rel.kr": 59.19,
+      "rel.jp": 242.97
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 77.74,
+      "rel.eu": 96,
+      "rel.top3": 18.16,
+      "rel.cn": 100,
+      "rel.us": 31.06,
+      "rel.kr": 119.67,
+      "rel.jp": 969.96
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 63.84,
+      "rel.eu": 94.74,
+      "rel.top3": 24.71,
+      "rel.cn": 220.76,
+      "rel.us": 38.78,
+      "rel.kr": 112.09,
+      "rel.jp": 598.04
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 23.8,
+      "rel.eu": 46.39,
+      "rel.top3": 16.03,
+      "rel.cn": 178.8,
+      "rel.us": 23.7,
+      "rel.kr": 51.41,
+      "rel.jp": 84.79
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 30.71,
+      "rel.eu": 50.31,
+      "rel.top3": 19.71,
+      "rel.cn": 310.87,
+      "rel.us": 41.21,
+      "rel.kr": 89.37,
+      "rel.jp": 147.42
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 59.18,
+      "rel.eu": 70.77,
+      "rel.top3": 41.03,
+      "rel.cn": 149.01,
+      "rel.us": 21.53,
+      "rel.kr": 51.91,
+      "rel.jp": 162.67
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 68.07,
+      "rel.eu": 87.87,
+      "rel.top3": 44.67,
+      "rel.cn": 197.97,
+      "rel.us": 35.39,
+      "rel.kr": 103.63,
+      "rel.jp": 567.85
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 113.42,
+      "rel.eu": 156.83,
+      "rel.top3": 75.72,
+      "rel.cn": 624.96,
+      "rel.us": 90.77,
+      "rel.kr": 220.12,
+      "rel.jp": 706.73
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 277.51,
+      "rel.eu": 325.56,
+      "rel.top3": 77.58,
+      "rel.cn": 460.11,
+      "rel.us": 171.97,
+      "rel.kr": 699.17,
+      "rel.jp": 5969.99
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 89.33,
+      "rel.eu": 101.09,
+      "rel.top3": 53.67,
+      "rel.cn": 184.94,
+      "rel.us": 31.35,
+      "rel.kr": 88.05,
+      "rel.jp": 441.64
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 61.9,
+      "rel.eu": 76.6,
+      "rel.top3": 42.63,
+      "rel.cn": 112.02,
+      "rel.us": 17.19,
+      "rel.kr": 44.17,
+      "rel.jp": 174.53
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 76.92,
+      "rel.eu": 94.15,
+      "rel.top3": 51.95
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 132.85,
+      "rel.eu": 178.96,
+      "rel.top3": 80.37,
+      "rel.cn": 584.65,
+      "rel.us": 97.97,
+      "rel.kr": 272.61,
+      "rel.jp": 1337.77
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 70.51,
+      "rel.eu": 90.45,
+      "rel.top3": 44.46,
+      "rel.cn": 182.65,
+      "rel.us": 34.1,
+      "rel.kr": 103,
+      "rel.jp": 598.85
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 99.11,
+      "rel.eu": 110.82,
+      "rel.top3": 43.94,
+      "rel.cn": 127.84,
+      "rel.us": 35.95,
+      "rel.kr": 133.84,
+      "rel.jp": 1045.67
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 63.32,
+      "rel.eu": 77.15,
+      "rel.top3": 46.17,
+      "rel.cn": 141.3,
+      "rel.us": 18.73,
+      "rel.kr": 40.62,
+      "rel.jp": 67.01
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 75.02,
+      "rel.eu": 89.48,
+      "rel.top3": 46.99,
+      "rel.cn": 145.13,
+      "rel.us": 27.76,
+      "rel.kr": 85.26,
+      "rel.jp": 510.48
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 203.22,
+      "rel.eu": 256.02,
+      "rel.top3": 50.59,
+      "rel.cn": 305.5,
+      "rel.us": 85.41,
+      "rel.kr": 317.25,
+      "rel.jp": 2472.57
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 97.67,
+      "rel.eu": 117.19,
+      "rel.top3": 20.71,
+      "rel.cn": 95.8,
+      "rel.us": 36.16,
+      "rel.kr": 147.39,
+      "rel.jp": 1261.42
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 57.16,
+      "rel.eu": 93.75,
+      "rel.top3": 38.98,
+      "rel.cn": 543.48,
+      "rel.us": 72.05,
+      "rel.kr": 156.25,
+      "rel.jp": 257.73
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 49.15,
+      "rel.eu": 59.29,
+      "rel.top3": 34.58,
+      "rel.cn": 149.68,
+      "rel.us": 20.31,
+      "rel.kr": 45.42,
+      "rel.jp": 95.22
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 17.79,
+      "rel.eu": 31.74,
+      "rel.top3": 10.17,
+      "rel.cn": 108.08,
+      "rel.us": 15.27,
+      "rel.kr": 35.88,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 56.9,
+      "rel.eu": 84.54,
+      "rel.top3": 22.08,
+      "rel.cn": 197.65,
+      "rel.us": 34.65,
+      "rel.kr": 100,
+      "rel.jp": 531.79
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 153.07,
+      "rel.eu": 173.66,
+      "rel.top3": 58.88,
+      "rel.cn": 231.58,
+      "rel.us": 70,
+      "rel.kr": 267.31,
+      "rel.jp": 2146.45
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 92.92,
+      "rel.eu": 119.76,
+      "rel.top3": 59.14,
+      "rel.cn": 283.84,
+      "rel.us": 48.71,
+      "rel.kr": 138.21,
+      "rel.jp": 708.91
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 69.65,
+      "rel.eu": 76.14,
+      "rel.top3": 40.48,
+      "rel.cn": 111.96,
+      "rel.us": 14.84,
+      "rel.kr": 32.19,
+      "rel.jp": 53.09
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 75.95,
+      "rel.eu": 78.9,
+      "rel.top3": 47.27
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 39.03,
+      "rel.eu": 57.68,
+      "rel.top3": 14.96,
+      "rel.cn": 132.87,
+      "rel.us": 23.51,
+      "rel.kr": 68.32,
+      "rel.jp": 368.64
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 98.44,
+      "rel.eu": 134.15,
+      "rel.top3": 64.84,
+      "rel.cn": 450.54,
+      "rel.us": 69.98,
+      "rel.kr": 181.91,
+      "rel.jp": 745.12
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 63.71,
+      "rel.eu": 84.89,
+      "rel.top3": 44.2,
+      "rel.cn": 352.32,
+      "rel.us": 51.01,
+      "rel.kr": 123.3,
+      "rel.jp": 390.33
+    },
+    {
+      "iso2": "NZ"
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 62.76,
+      "rel.eu": 81.45,
+      "rel.top3": 42.77,
+      "rel.cn": 358.7,
+      "rel.us": 47.55,
+      "rel.kr": 103.12,
+      "rel.jp": 170.1
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 62.06,
+      "rel.eu": 71.72,
+      "rel.top3": 42.8,
+      "rel.cn": 146.74,
+      "rel.us": 19.45,
+      "rel.kr": 42.19,
+      "rel.jp": 69.59
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 59.59,
+      "rel.eu": 64.53,
+      "rel.top3": 39.41,
+      "rel.cn": 65.76,
+      "rel.us": 8.72,
+      "rel.kr": 18.91,
+      "rel.jp": 31.19
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 106.35,
+      "rel.eu": 138.99,
+      "rel.top3": 68.68,
+      "rel.cn": 284.37,
+      "rel.us": 53.8,
+      "rel.kr": 164.02,
+      "rel.jp": 969.5
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 49.46,
+      "rel.eu": 57.65,
+      "rel.top3": 30.94,
+      "rel.cn": 106.52,
+      "rel.us": 14.12,
+      "rel.kr": 30.62,
+      "rel.jp": 50.52
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 52.89,
+      "rel.eu": 59.48,
+      "rel.top3": 31.61,
+      "rel.cn": 100,
+      "rel.us": 13.26,
+      "rel.kr": 28.75,
+      "rel.jp": 47.42
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 110.88,
+      "rel.eu": 116.56,
+      "rel.top3": 57.46,
+      "rel.cn": 111.76,
+      "rel.us": 21.13,
+      "rel.kr": 64.39,
+      "rel.jp": 380.27
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 110.84,
+      "rel.eu": 148.45,
+      "rel.top3": 66.79,
+      "rel.cn": 271.35,
+      "rel.us": 60.21,
+      "rel.kr": 201.84,
+      "rel.jp": 1385.03
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 195.69,
+      "rel.eu": 267.79,
+      "rel.top3": 61.81,
+      "rel.cn": 479.51,
+      "rel.us": 100,
+      "rel.kr": 323.96,
+      "rel.jp": 2115.64
+    }
+  ],
+  "B5": [
+    {
+      "iso2": "AT",
+      "rel.inno": 152.23,
+      "rel.eu": 186.33,
+      "rel.top3": 78.72,
+      "rel.cn": 1458.63,
+      "rel.us": 161.01,
+      "rel.kr": 1366.36,
+      "rel.jp": 524.62
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 78.65,
+      "rel.eu": 99.97,
+      "rel.top3": 43.33,
+      "rel.cn": 250.2,
+      "rel.us": 67,
+      "rel.kr": 196.06,
+      "rel.jp": 136.17
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 124.77,
+      "rel.eu": 154.81,
+      "rel.top3": 65.43,
+      "rel.cn": 898.62,
+      "rel.us": 122.18,
+      "rel.kr": 822.84,
+      "rel.jp": 361.78
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 15.77,
+      "rel.eu": 16.94,
+      "rel.top3": 12.02,
+      "rel.cn": 22.41,
+      "rel.us": 19.49,
+      "rel.kr": 13.77,
+      "rel.jp": 26.23
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 106.25,
+      "rel.eu": 123.65,
+      "rel.top3": 49.43,
+      "rel.cn": 1455.15,
+      "rel.us": 95.22,
+      "rel.kr": 1396.55,
+      "rel.jp": 470.74
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 77.93,
+      "rel.eu": 101.07,
+      "rel.top3": 54.04,
+      "rel.cn": 507.08,
+      "rel.us": 103.05,
+      "rel.kr": 430.81,
+      "rel.jp": 211.06
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 20.36,
+      "rel.eu": 24.38,
+      "rel.top3": 14.82,
+      "rel.cn": 33.39,
+      "rel.us": 18.23,
+      "rel.kr": 35.25,
+      "rel.jp": 29.75
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 57.45,
+      "rel.eu": 74.91,
+      "rel.top3": 33.12,
+      "rel.cn": 100,
+      "rel.us": 54.84,
+      "rel.kr": 52.96,
+      "rel.jp": 97.94
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 19.99,
+      "rel.eu": 23.39,
+      "rel.top3": 15.43,
+      "rel.cn": 9.21,
+      "rel.us": 18.13,
+      "rel.kr": 17.28,
+      "rel.jp": 20.11
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 20.49,
+      "rel.eu": 23.64,
+      "rel.top3": 16.33,
+      "rel.cn": 66.37,
+      "rel.us": 19.8,
+      "rel.kr": 70.16,
+      "rel.jp": 32.82
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 29.55,
+      "rel.eu": 37.03,
+      "rel.top3": 19.98,
+      "rel.cn": 59.53,
+      "rel.us": 37.76,
+      "rel.kr": 25.29,
+      "rel.jp": 65.18
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 107.07,
+      "rel.eu": 115.91,
+      "rel.top3": 54.44,
+      "rel.cn": 2298.2,
+      "rel.us": 121.73,
+      "rel.kr": 2324.01,
+      "rel.jp": 698.12
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 79.85,
+      "rel.eu": 100.4,
+      "rel.top3": 52.71,
+      "rel.cn": 581.15,
+      "rel.us": 94.25,
+      "rel.kr": 523.1,
+      "rel.jp": 241.37
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 78.58,
+      "rel.eu": 103.36,
+      "rel.top3": 52.54,
+      "rel.cn": 335.75,
+      "rel.us": 98.75,
+      "rel.kr": 248.39,
+      "rel.jp": 172.18
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 62.86,
+      "rel.eu": 78.37,
+      "rel.top3": 41.95,
+      "rel.cn": 454.51,
+      "rel.us": 76.43,
+      "rel.kr": 407.12,
+      "rel.jp": 191.48
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 69.18,
+      "rel.eu": 81.41,
+      "rel.top3": 41.13,
+      "rel.cn": 837.69,
+      "rel.us": 79.45,
+      "rel.kr": 812.87,
+      "rel.jp": 290.36
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 66.14,
+      "rel.eu": 80.63,
+      "rel.top3": 40.88,
+      "rel.cn": 498.5,
+      "rel.us": 71.98,
+      "rel.kr": 459.81,
+      "rel.jp": 210.89
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 96.49,
+      "rel.eu": 115.41,
+      "rel.top3": 54.74,
+      "rel.cn": 850.59,
+      "rel.us": 104.72,
+      "rel.kr": 779.66,
+      "rel.jp": 330.44
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 84.34,
+      "rel.eu": 103.33,
+      "rel.top3": 52.87,
+      "rel.cn": 925.29,
+      "rel.us": 101.34,
+      "rel.kr": 880.46,
+      "rel.jp": 332.92
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 136.95,
+      "rel.eu": 171.51,
+      "rel.top3": 69.95,
+      "rel.cn": 700.87,
+      "rel.us": 128.17,
+      "rel.kr": 594.21,
+      "rel.jp": 337.25
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 64.97,
+      "rel.eu": 81.95,
+      "rel.top3": 34.95,
+      "rel.cn": 119.16,
+      "rel.us": 72.88,
+      "rel.kr": 51.53,
+      "rel.jp": 101.06
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 103.3,
+      "rel.eu": 123.48,
+      "rel.top3": 56.6,
+      "rel.cn": 1060.42,
+      "rel.us": 100.85,
+      "rel.kr": 1015.68,
+      "rel.jp": 423.95
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 100.89,
+      "rel.eu": 109.92,
+      "rel.top3": 47.87,
+      "rel.cn": 1720.3,
+      "rel.us": 103.42,
+      "rel.kr": 1738.43,
+      "rel.jp": 527.12
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 150.94,
+      "rel.eu": 160.4,
+      "rel.top3": 69.55,
+      "rel.cn": 4180.94,
+      "rel.us": 157.2,
+      "rel.kr": 4143.55,
+      "rel.jp": 1178.25
+    },
+    {
+      "iso2": "IN"
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 102.69,
+      "rel.eu": 119.25,
+      "rel.top3": 57.86,
+      "rel.cn": 1704.08,
+      "rel.us": 120.15,
+      "rel.kr": 1686.4,
+      "rel.jp": 555.41
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 78.11,
+      "rel.eu": 93.59,
+      "rel.top3": 44.97,
+      "rel.cn": 650.44,
+      "rel.us": 83.84,
+      "rel.kr": 611.39,
+      "rel.jp": 247.18
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 67.56,
+      "rel.eu": 86.7,
+      "rel.top3": 42.53,
+      "rel.cn": 141.46,
+      "rel.us": 68.14,
+      "rel.kr": 94.26,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 132.56,
+      "rel.eu": 174.52,
+      "rel.top3": 76.95,
+      "rel.cn": 231.92,
+      "rel.us": 122.88,
+      "rel.kr": 100,
+      "rel.jp": 241.35
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 76.16,
+      "rel.eu": 76.68,
+      "rel.top3": 38.22,
+      "rel.cn": 2024.65,
+      "rel.us": 93.13,
+      "rel.kr": 2075.32,
+      "rel.jp": 575.83
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 51.54,
+      "rel.eu": 59.83,
+      "rel.top3": 34.4,
+      "rel.cn": 499.45,
+      "rel.us": 61.89,
+      "rel.kr": 480.02,
+      "rel.jp": 184.13
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 53.92,
+      "rel.eu": 55.05,
+      "rel.top3": 30.23,
+      "rel.cn": 1278.43,
+      "rel.us": 67.11,
+      "rel.kr": 1308.72,
+      "rel.jp": 373.17
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 32.5,
+      "rel.eu": 37.78,
+      "rel.top3": 25.51,
+      "rel.cn": 65.62,
+      "rel.us": 49.18,
+      "rel.kr": 32.93,
+      "rel.jp": 55.66
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 16.37,
+      "rel.eu": 19.78,
+      "rel.top3": 10.6,
+      "rel.cn": 131.51,
+      "rel.us": 15.51,
+      "rel.kr": 124.55,
+      "rel.jp": 51.52
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 112.46,
+      "rel.eu": 140.1,
+      "rel.top3": 62.15,
+      "rel.cn": 816.54,
+      "rel.us": 118.48,
+      "rel.kr": 733.37,
+      "rel.jp": 339.49
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 110.64,
+      "rel.eu": 138.43,
+      "rel.top3": 62.91,
+      "rel.cn": 819.59,
+      "rel.us": 120.1,
+      "rel.kr": 727.86,
+      "rel.jp": 349.63
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 81.32,
+      "rel.eu": 96.58,
+      "rel.top3": 41.92,
+      "rel.cn": 1005.87,
+      "rel.us": 71.97,
+      "rel.kr": 960.42,
+      "rel.jp": 356.63
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 79.91,
+      "rel.eu": 99.08,
+      "rel.top3": 48.19,
+      "rel.cn": 583.06,
+      "rel.us": 87.2,
+      "rel.kr": 524.12,
+      "rel.jp": 260.04
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 105.93,
+      "rel.eu": 133.98,
+      "rel.top3": 57.48,
+      "rel.cn": 393.29,
+      "rel.us": 106.92,
+      "rel.kr": 298.16,
+      "rel.jp": 210.64
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 41.41,
+      "rel.eu": 42.52,
+      "rel.top3": 25.23,
+      "rel.cn": 705.48,
+      "rel.us": 46.27,
+      "rel.kr": 726.83,
+      "rel.jp": 218.92
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 99.85,
+      "rel.eu": 124.64,
+      "rel.top3": 60.07,
+      "rel.cn": 941.04,
+      "rel.us": 113.73,
+      "rel.kr": 875.8,
+      "rel.jp": 363.05
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 110.7,
+      "rel.eu": 124.76,
+      "rel.top3": 56.42,
+      "rel.cn": 1823.43,
+      "rel.us": 115.12,
+      "rel.kr": 1824.47,
+      "rel.jp": 591.42
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 60.01,
+      "rel.eu": 66.03,
+      "rel.top3": 34.81,
+      "rel.cn": 905.81,
+      "rel.us": 69.09,
+      "rel.kr": 908.22,
+      "rel.jp": 286.66
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 74.79,
+      "rel.eu": 94.69,
+      "rel.top3": 42.57,
+      "rel.cn": 207.93,
+      "rel.us": 71.55,
+      "rel.kr": 147.77,
+      "rel.jp": 143.53
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 146.98,
+      "rel.eu": 182.33,
+      "rel.top3": 72.41,
+      "rel.cn": 949.05,
+      "rel.us": 132.91,
+      "rel.kr": 855.4,
+      "rel.jp": 411.83
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 107.13,
+      "rel.eu": 134.72,
+      "rel.top3": 59.32,
+      "rel.cn": 632.83,
+      "rel.us": 100,
+      "rel.kr": 564.5,
+      "rel.jp": 299.08
+    }
+  ],
+  "C1": [
+    {
+      "iso2": "AT",
+      "rel.inno": 77.63,
+      "rel.eu": 94.65,
+      "rel.top3": 55.8,
+      "rel.cn": 28.2,
+      "rel.us": 54.88,
+      "rel.kr": 27.27,
+      "rel.jp": 64.96
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 65.83,
+      "rel.eu": 80.97,
+      "rel.top3": 41.24,
+      "rel.cn": 41.29,
+      "rel.us": 82.45,
+      "rel.kr": 44.67,
+      "rel.jp": 69.39
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 84.44,
+      "rel.eu": 107.12,
+      "rel.top3": 63.08,
+      "rel.cn": 33.2,
+      "rel.us": 49.32,
+      "rel.kr": 30.3,
+      "rel.jp": 62
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 57.75,
+      "rel.eu": 66.97,
+      "rel.top3": 40.22,
+      "rel.cn": 18.66,
+      "rel.us": 32.49,
+      "rel.kr": 23.97,
+      "rel.jp": 45.46
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 109.28,
+      "rel.eu": 135.03,
+      "rel.top3": 62.18,
+      "rel.cn": 67.41,
+      "rel.us": 115.27,
+      "rel.kr": 68.44,
+      "rel.jp": 108.64
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 82.51,
+      "rel.eu": 91.23,
+      "rel.top3": 54.23,
+      "rel.cn": 24.2,
+      "rel.us": 68.8,
+      "rel.kr": 30.94,
+      "rel.jp": 45.61
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 83.83,
+      "rel.eu": 96.22,
+      "rel.top3": 46.33,
+      "rel.cn": 27.05,
+      "rel.us": 135.44,
+      "rel.kr": 48.18,
+      "rel.jp": 65.11
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 197.14,
+      "rel.eu": 252.06,
+      "rel.top3": 113.76,
+      "rel.cn": 100,
+      "rel.us": 153.8,
+      "rel.kr": 128.44,
+      "rel.jp": 216.96
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 46.78,
+      "rel.eu": 52.65,
+      "rel.top3": 30.98,
+      "rel.us": 136.91,
+      "rel.kr": 31.79,
+      "rel.jp": 33.02
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 87.59,
+      "rel.eu": 92.1,
+      "rel.top3": 46.84,
+      "rel.us": 195.42,
+      "rel.kr": 45.38,
+      "rel.jp": 47.13
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 72.88,
+      "rel.eu": 86.13,
+      "rel.top3": 50.68,
+      "rel.cn": 47.53,
+      "rel.us": 58.37,
+      "rel.kr": 61.05,
+      "rel.jp": 82.08
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 81.42,
+      "rel.eu": 97.28,
+      "rel.top3": 58.42,
+      "rel.cn": 19.37,
+      "rel.us": 67.18,
+      "rel.kr": 24.24,
+      "rel.jp": 65.09
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 79.35,
+      "rel.eu": 97.69,
+      "rel.top3": 57.23,
+      "rel.cn": 35.94,
+      "rel.us": 49.12,
+      "rel.kr": 34.25,
+      "rel.jp": 55.89
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 98.34,
+      "rel.eu": 124.22,
+      "rel.top3": 72.12,
+      "rel.cn": 23.18,
+      "rel.us": 99.68,
+      "rel.kr": 38.57,
+      "rel.jp": 69.29
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 97.48,
+      "rel.eu": 117.32,
+      "rel.top3": 66.45,
+      "rel.cn": 73.52,
+      "rel.us": 155.08,
+      "rel.kr": 80.95,
+      "rel.jp": 149.68
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 59.88,
+      "rel.eu": 71.49,
+      "rel.top3": 41.54,
+      "rel.cn": 46.19,
+      "rel.us": 63.92,
+      "rel.kr": 39.72,
+      "rel.jp": 88.77
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 81,
+      "rel.eu": 98.18,
+      "rel.top3": 58.16,
+      "rel.cn": 29.32,
+      "rel.us": 142.62,
+      "rel.kr": 56.57,
+      "rel.jp": 81.86
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 80.94,
+      "rel.eu": 98.49,
+      "rel.top3": 57.48,
+      "rel.us": 66.8,
+      "rel.jp": 92.38
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 111.64,
+      "rel.eu": 138.27,
+      "rel.top3": 79.6,
+      "rel.cn": 67.57,
+      "rel.us": 140.74,
+      "rel.kr": 81.64,
+      "rel.jp": 108.37
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 81.74,
+      "rel.eu": 99.48,
+      "rel.top3": 57.16,
+      "rel.cn": 44.07,
+      "rel.us": 129.84,
+      "rel.kr": 59.22,
+      "rel.jp": 101.29
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 73.94,
+      "rel.eu": 90.83,
+      "rel.top3": 52.47,
+      "rel.cn": 37.14,
+      "rel.us": 55.32,
+      "rel.kr": 47.71,
+      "rel.jp": 77.56
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 78.32,
+      "rel.eu": 92.95,
+      "rel.top3": 54.87,
+      "rel.cn": 53.99,
+      "rel.us": 97.55,
+      "rel.kr": 60.35,
+      "rel.jp": 83.99
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 105.84,
+      "rel.eu": 127.92,
+      "rel.top3": 72.52,
+      "rel.cn": 46.21,
+      "rel.us": 78.89,
+      "rel.kr": 51.33,
+      "rel.jp": 66.69
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 89.35,
+      "rel.eu": 110.48,
+      "rel.top3": 53.88,
+      "rel.cn": 65.04,
+      "rel.us": 114.56,
+      "rel.kr": 66.81,
+      "rel.jp": 105.62
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 151.78,
+      "rel.eu": 194.07,
+      "rel.top3": 87.59,
+      "rel.cn": 76.99,
+      "rel.us": 118.42,
+      "rel.kr": 98.89,
+      "rel.jp": 167.05
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 87.27,
+      "rel.eu": 105.94,
+      "rel.top3": 57.49,
+      "rel.cn": 11.4,
+      "rel.us": 145.4,
+      "rel.kr": 40.81,
+      "rel.jp": 48.74
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 66.49,
+      "rel.eu": 81.36,
+      "rel.top3": 48.85,
+      "rel.cn": 18.38,
+      "rel.us": 56.41,
+      "rel.kr": 22.81,
+      "rel.jp": 52.34
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 113.1,
+      "rel.eu": 131.43,
+      "rel.top3": 63.37,
+      "rel.cn": 46.09,
+      "rel.us": 157.18,
+      "rel.kr": 71.56,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 166.66,
+      "rel.eu": 198.48,
+      "rel.top3": 93.45,
+      "rel.cn": 77.85,
+      "rel.us": 223.37,
+      "rel.kr": 100,
+      "rel.jp": 147.23
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 82.42,
+      "rel.eu": 99.2,
+      "rel.top3": 56.95,
+      "rel.cn": 55.91,
+      "rel.us": 162.46,
+      "rel.kr": 77.84,
+      "rel.jp": 115.37
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 75.43,
+      "rel.eu": 94.32,
+      "rel.top3": 56.23,
+      "rel.cn": 19.07,
+      "rel.us": 98.47,
+      "rel.kr": 38.73,
+      "rel.jp": 53.95
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 67.9,
+      "rel.eu": 79.89,
+      "rel.top3": 47.37,
+      "rel.cn": 15.68,
+      "rel.us": 116.44,
+      "rel.kr": 42.05,
+      "rel.jp": 55.83
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 118.98,
+      "rel.eu": 147.54,
+      "rel.top3": 81.94,
+      "rel.cn": 68.6,
+      "rel.us": 123.13,
+      "rel.kr": 88.11,
+      "rel.jp": 172.23
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 65.23,
+      "rel.eu": 76.58,
+      "rel.top3": 36.37,
+      "rel.cn": 26.77,
+      "rel.us": 94.5,
+      "rel.kr": 38.49,
+      "rel.jp": 54.89
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 92.42,
+      "rel.eu": 116.26,
+      "rel.top3": 67.76,
+      "rel.cn": 43.82,
+      "rel.us": 95.29,
+      "rel.kr": 48.74,
+      "rel.jp": 91.37
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 79.96,
+      "rel.eu": 99.45,
+      "rel.top3": 57.41,
+      "rel.cn": 25.21,
+      "rel.us": 139.17,
+      "rel.kr": 47.9,
+      "rel.jp": 63.8
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 96.48,
+      "rel.eu": 111.96,
+      "rel.top3": 53.55,
+      "rel.cn": 35.15,
+      "rel.us": 148.26,
+      "rel.kr": 56.16,
+      "rel.jp": 77.9
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 67.47,
+      "rel.eu": 80.58,
+      "rel.top3": 47.7,
+      "rel.cn": 34,
+      "rel.us": 84,
+      "rel.kr": 44.62,
+      "rel.jp": 59.72
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 78.4,
+      "rel.eu": 95.77,
+      "rel.top3": 56.47,
+      "rel.cn": 32.04,
+      "rel.us": 121.13,
+      "rel.kr": 51.52,
+      "rel.jp": 79.38
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 63.83,
+      "rel.eu": 75.03,
+      "rel.top3": 43.56,
+      "rel.cn": 60.46,
+      "rel.us": 78.16,
+      "rel.kr": 77.65,
+      "rel.jp": 109.81
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 113.17,
+      "rel.eu": 138.67,
+      "rel.top3": 79.65,
+      "rel.cn": 85.87,
+      "rel.us": 195.47,
+      "rel.kr": 104.28,
+      "rel.jp": 158.75
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 79.11,
+      "rel.eu": 94.27,
+      "rel.top3": 56.74,
+      "rel.cn": 7.41,
+      "rel.us": 85.54,
+      "rel.kr": 26.32,
+      "rel.jp": 44.79
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 75.56,
+      "rel.eu": 89.13,
+      "rel.top3": 53.69,
+      "rel.cn": 25.86,
+      "rel.us": 84.38,
+      "rel.kr": 38.25,
+      "rel.jp": 57.83
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 49.15,
+      "rel.eu": 58.63,
+      "rel.top3": 34.19,
+      "rel.cn": 20.68,
+      "rel.us": 70.15,
+      "rel.kr": 29.08,
+      "rel.jp": 41.72
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 83.39,
+      "rel.eu": 102.37,
+      "rel.top3": 56.32,
+      "rel.cn": 48.18,
+      "rel.us": 71.29,
+      "rel.kr": 45.47,
+      "rel.jp": 84.09
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 104.61,
+      "rel.eu": 127.59,
+      "rel.top3": 60,
+      "rel.cn": 65.02,
+      "rel.us": 100,
+      "rel.kr": 63.42,
+      "rel.jp": 111.13
+    }
+  ],
+  "C2": [
+    {
+      "iso2": "AT",
+      "rel.inno": 89.11,
+      "rel.eu": 115.8,
+      "rel.top3": 42.43,
+      "rel.cn": 288.09,
+      "rel.us": 189.4,
+      "rel.kr": 95.86,
+      "rel.jp": 77.39
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 78.64,
+      "rel.eu": 76.26,
+      "rel.top3": 30.11,
+      "rel.cn": 268.91,
+      "rel.us": 156.06,
+      "rel.kr": 167.48,
+      "rel.jp": 124.97
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 66.07,
+      "rel.eu": 79.97,
+      "rel.top3": 30.96,
+      "rel.cn": 278.92,
+      "rel.us": 121.04,
+      "rel.kr": 74.84,
+      "rel.jp": 55.62
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 64.07,
+      "rel.eu": 67.79,
+      "rel.top3": 27.76,
+      "rel.cn": 362.35,
+      "rel.us": 159.66,
+      "rel.kr": 83.93,
+      "rel.jp": 66.9
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 75,
+      "rel.eu": 82.48,
+      "rel.top3": 31.29,
+      "rel.cn": 308.33,
+      "rel.us": 159.66,
+      "rel.kr": 221.44,
+      "rel.jp": 130.26
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 109.23,
+      "rel.eu": 128.18,
+      "rel.top3": 44.65,
+      "rel.cn": 263.58,
+      "rel.us": 280.76,
+      "rel.kr": 81.27,
+      "rel.jp": 89.91
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 155.78,
+      "rel.eu": 150.66,
+      "rel.top3": 59.5,
+      "rel.cn": 533.53,
+      "rel.us": 308.92,
+      "rel.kr": 331.44,
+      "rel.jp": 246.59
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 34.69,
+      "rel.eu": 43.38,
+      "rel.top3": 16.51,
+      "rel.cn": 100,
+      "rel.us": 74.19,
+      "rel.kr": 81.83,
+      "rel.jp": 77.56
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 71.17,
+      "rel.eu": 108.45,
+      "rel.top3": 40.34,
+      "rel.cn": 167.87,
+      "rel.us": 162.88,
+      "rel.kr": 183.74,
+      "rel.jp": 203.96
+    },
+    {
+      "iso2": "CR"
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 40.9,
+      "rel.eu": 42.66,
+      "rel.top3": 16.91,
+      "rel.cn": 287.78,
+      "rel.us": 110.57,
+      "rel.kr": 34.19,
+      "rel.jp": 26
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 87.06,
+      "rel.eu": 103.19,
+      "rel.top3": 38.44,
+      "rel.cn": 325.51,
+      "rel.us": 257.42,
+      "rel.kr": 104.99,
+      "rel.jp": 81.22
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 122.68,
+      "rel.eu": 157.16,
+      "rel.top3": 54.88,
+      "rel.cn": 234.38,
+      "rel.us": 308.86,
+      "rel.kr": 115.95,
+      "rel.jp": 92.37
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 112.13,
+      "rel.eu": 149.75,
+      "rel.top3": 53.75,
+      "rel.cn": 270.77,
+      "rel.us": 231.96,
+      "rel.kr": 112.56,
+      "rel.jp": 90.5
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 71.16,
+      "rel.eu": 80.25,
+      "rel.top3": 32.63,
+      "rel.cn": 117.64,
+      "rel.us": 149,
+      "rel.kr": 39.48,
+      "rel.jp": 40.93
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 89.78,
+      "rel.eu": 102.97,
+      "rel.top3": 38.12,
+      "rel.cn": 185.15,
+      "rel.us": 247.76,
+      "rel.kr": 83.98,
+      "rel.jp": 70.39
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 85.31,
+      "rel.eu": 100.25,
+      "rel.top3": 36.14,
+      "rel.cn": 240,
+      "rel.us": 285.96,
+      "rel.kr": 96.12,
+      "rel.jp": 83.95
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 105.89,
+      "rel.eu": 135.61,
+      "rel.top3": 48.64,
+      "rel.us": 329.65,
+      "rel.kr": 66.13,
+      "rel.jp": 61.74
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 135.51,
+      "rel.eu": 169.84,
+      "rel.top3": 60.13,
+      "rel.cn": 408.39,
+      "rel.us": 481.91,
+      "rel.kr": 172.25,
+      "rel.jp": 149.84
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 97.45,
+      "rel.eu": 126.76,
+      "rel.top3": 44.65,
+      "rel.cn": 281.68,
+      "rel.us": 271.51,
+      "rel.kr": 126.2,
+      "rel.jp": 100.94
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 50.25,
+      "rel.eu": 57.42,
+      "rel.top3": 21.59,
+      "rel.cn": 140.64,
+      "rel.us": 167.54,
+      "rel.kr": 50.83,
+      "rel.jp": 52.73
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 87.17,
+      "rel.eu": 98.64,
+      "rel.top3": 37.17,
+      "rel.cn": 187.27,
+      "rel.us": 300.11,
+      "rel.kr": 89.84,
+      "rel.jp": 78.67
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 51.66,
+      "rel.eu": 63.95,
+      "rel.top3": 24.27,
+      "rel.cn": 154.4,
+      "rel.us": 170.61,
+      "rel.kr": 52.1,
+      "rel.jp": 47.02
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 36.35,
+      "rel.eu": 35.49,
+      "rel.top3": 12.97,
+      "rel.cn": 110.48,
+      "rel.us": 80.79,
+      "rel.kr": 69.6,
+      "rel.jp": 40.6
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 43.53,
+      "rel.eu": 45.09,
+      "rel.top3": 17.62,
+      "rel.cn": 143.35,
+      "rel.us": 87.96,
+      "rel.kr": 95.05,
+      "rel.jp": 75.79
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 57.32,
+      "rel.eu": 69.4,
+      "rel.top3": 25.9,
+      "rel.cn": 568.8,
+      "rel.us": 157.22,
+      "rel.kr": 149.78,
+      "rel.jp": 116.76
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 97.16,
+      "rel.eu": 110.58,
+      "rel.top3": 40.92,
+      "rel.cn": 247.33,
+      "rel.us": 262.61,
+      "rel.kr": 90.47,
+      "rel.jp": 74
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 187.7,
+      "rel.eu": 244.66,
+      "rel.top3": 72.73,
+      "rel.cn": 189.87,
+      "rel.us": 378.85,
+      "rel.kr": 121.25,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 142.78,
+      "rel.eu": 190.24,
+      "rel.top3": 57.94,
+      "rel.cn": 137.93,
+      "rel.us": 308.71,
+      "rel.kr": 100,
+      "rel.jp": 89.99
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 75.53,
+      "rel.eu": 84.3,
+      "rel.top3": 33.91,
+      "rel.cn": 452.5,
+      "rel.us": 170.85,
+      "rel.kr": 104.69,
+      "rel.jp": 68.61
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 69.5,
+      "rel.eu": 82.75,
+      "rel.top3": 31.56,
+      "rel.cn": 246.49,
+      "rel.us": 185.54,
+      "rel.kr": 66.24,
+      "rel.jp": 51.76
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 127.32,
+      "rel.eu": 135.25,
+      "rel.top3": 52.34,
+      "rel.cn": 846.78,
+      "rel.us": 593.8,
+      "rel.kr": 228.48,
+      "rel.jp": 165.46
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 75.22,
+      "rel.eu": 83.35,
+      "rel.top3": 33.46,
+      "rel.cn": 848.32,
+      "rel.us": 189.1,
+      "rel.kr": 109.15,
+      "rel.jp": 63.91
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 129.4,
+      "rel.eu": 114.38,
+      "rel.top3": 45.85,
+      "rel.cn": 463.79,
+      "rel.us": 250.69,
+      "rel.kr": 266.52,
+      "rel.jp": 180.02
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 85.37,
+      "rel.eu": 109.77,
+      "rel.top3": 41.07,
+      "rel.cn": 178.15,
+      "rel.us": 118.44,
+      "rel.kr": 59.27,
+      "rel.jp": 44.98
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 113.84,
+      "rel.eu": 136.86,
+      "rel.top3": 47.99,
+      "rel.cn": 447.92,
+      "rel.us": 313.9,
+      "rel.kr": 152.7,
+      "rel.jp": 130.31
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 111.92,
+      "rel.eu": 119.08,
+      "rel.top3": 44.49,
+      "rel.cn": 406.51,
+      "rel.us": 243.43,
+      "rel.kr": 285.07,
+      "rel.jp": 169.84
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 38.38,
+      "rel.eu": 43.11,
+      "rel.top3": 17.53,
+      "rel.cn": 112.53,
+      "rel.us": 73.4,
+      "rel.kr": 32.07,
+      "rel.jp": 24.95
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 78.29,
+      "rel.eu": 91.58,
+      "rel.top3": 35,
+      "rel.cn": 372.55,
+      "rel.us": 308.9,
+      "rel.kr": 117.94,
+      "rel.jp": 91.48
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 100.52,
+      "rel.eu": 109.92,
+      "rel.top3": 42.4,
+      "rel.cn": 396.15,
+      "rel.us": 420.8,
+      "rel.kr": 119.73,
+      "rel.jp": 104.66
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 101.25,
+      "rel.eu": 135.53,
+      "rel.top3": 49.09,
+      "rel.cn": 379.74,
+      "rel.us": 308.54,
+      "rel.kr": 144.51,
+      "rel.jp": 125.77
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 110.25,
+      "rel.eu": 128.25,
+      "rel.top3": 46.62,
+      "rel.cn": 377.64,
+      "rel.us": 443.62,
+      "rel.kr": 149.08,
+      "rel.jp": 122.7
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 78.24,
+      "rel.eu": 88.21,
+      "rel.top3": 34.51,
+      "rel.cn": 375.74,
+      "rel.us": 270.96,
+      "rel.kr": 106.55,
+      "rel.jp": 85.98
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 27.5,
+      "rel.eu": 30.85,
+      "rel.top3": 11.41,
+      "rel.cn": 197.05,
+      "rel.us": 66.02,
+      "rel.kr": 48.35,
+      "rel.jp": 35.85
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 97.97,
+      "rel.eu": 119.05,
+      "rel.top3": 39.98,
+      "rel.cn": 203.95,
+      "rel.us": 226.95,
+      "rel.kr": 79.83,
+      "rel.jp": 68.86
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 48.84,
+      "rel.eu": 62.99,
+      "rel.top3": 20.75,
+      "rel.cn": 148.89,
+      "rel.us": 100,
+      "rel.kr": 55.82,
+      "rel.jp": 41.81
+    }
+  ],
+  "C3": [
+    {
+      "iso2": "AT",
+      "rel.inno": 109.07,
+      "rel.eu": 131.47,
+      "rel.top3": 63.77,
+      "rel.cn": 825.84,
+      "rel.us": 326.62,
+      "rel.kr": 103.31,
+      "rel.jp": 130.16
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 42.92,
+      "rel.eu": 48.96,
+      "rel.top3": 21.25,
+      "rel.cn": 133.28,
+      "rel.us": 62.77,
+      "rel.kr": 35.61,
+      "rel.jp": 40.13
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 113.23,
+      "rel.eu": 130.91,
+      "rel.top3": 66.28,
+      "rel.cn": 555.76,
+      "rel.us": 287.65,
+      "rel.kr": 92.81,
+      "rel.jp": 107.67
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 78.81,
+      "rel.eu": 77.74,
+      "rel.top3": 46.56,
+      "rel.cn": 106.21,
+      "rel.us": 222.02,
+      "rel.kr": 64.21,
+      "rel.jp": 76.47
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 62.78,
+      "rel.eu": 70.88,
+      "rel.top3": 29.58,
+      "rel.cn": 213.25,
+      "rel.us": 124.11,
+      "rel.kr": 55.28,
+      "rel.jp": 61.56
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 125.85,
+      "rel.eu": 227.42,
+      "rel.top3": 60.84,
+      "rel.cn": 1697.98,
+      "rel.us": 343.45,
+      "rel.kr": 134.85,
+      "rel.jp": 175.81
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 59.36,
+      "rel.eu": 57.42,
+      "rel.top3": 27.9,
+      "rel.cn": 64.77,
+      "rel.us": 65.42,
+      "rel.kr": 49.71,
+      "rel.jp": 46.46
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 56.35,
+      "rel.eu": 56.74,
+      "rel.top3": 25.6,
+      "rel.cn": 100,
+      "rel.us": 142.3,
+      "rel.kr": 49.33,
+      "rel.jp": 55.76
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 1.71,
+      "rel.eu": 1.48,
+      "rel.top3": 0.54,
+      "rel.cn": 3.67,
+      "rel.us": 11.49,
+      "rel.kr": 1.95,
+      "rel.jp": 2.39
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 5,
+      "rel.eu": 5.81,
+      "rel.top3": 1.78,
+      "rel.cn": 30.17,
+      "rel.us": 29.1,
+      "rel.kr": 5.76,
+      "rel.jp": 7.18
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 73.19,
+      "rel.eu": 74.29,
+      "rel.top3": 45.66,
+      "rel.cn": 145.53,
+      "rel.us": 96.99,
+      "rel.kr": 45.45,
+      "rel.jp": 57.15
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 96.69,
+      "rel.eu": 94.91,
+      "rel.top3": 53.27,
+      "rel.cn": 170.21,
+      "rel.us": 448.97,
+      "rel.kr": 93.41,
+      "rel.jp": 114.29
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 96.85,
+      "rel.eu": 118.64,
+      "rel.top3": 58.35,
+      "rel.cn": 780.55,
+      "rel.us": 173.72,
+      "rel.kr": 75.67,
+      "rel.jp": 97.25
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 112.9,
+      "rel.eu": 153.85,
+      "rel.top3": 67.6,
+      "rel.cn": 1404.99,
+      "rel.us": 387.35,
+      "rel.kr": 121.9,
+      "rel.jp": 181.9
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 90.44,
+      "rel.eu": 91.54,
+      "rel.top3": 48.69,
+      "rel.cn": 215,
+      "rel.us": 321.72,
+      "rel.kr": 81.72,
+      "rel.jp": 94.59
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 57.46,
+      "rel.eu": 57.59,
+      "rel.top3": 37.11,
+      "rel.cn": 91.98,
+      "rel.us": 61.75,
+      "rel.kr": 42.95,
+      "rel.jp": 44.41
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 78.02,
+      "rel.eu": 78.93,
+      "rel.top3": 45.96,
+      "rel.cn": 160.24,
+      "rel.us": 143.79,
+      "rel.kr": 49.44,
+      "rel.jp": 57.28
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 114.89,
+      "rel.eu": 117.63,
+      "rel.top3": 65.53
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 80.89,
+      "rel.eu": 99.9,
+      "rel.top3": 47.54,
+      "rel.cn": 870.54,
+      "rel.us": 256.55,
+      "rel.kr": 91.56,
+      "rel.jp": 116.3
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 92.69,
+      "rel.eu": 106.23,
+      "rel.top3": 55.65,
+      "rel.cn": 440.2,
+      "rel.us": 160.27,
+      "rel.kr": 65.14,
+      "rel.jp": 78.7
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 82.47,
+      "rel.eu": 78.25,
+      "rel.top3": 48.41,
+      "rel.cn": 56.65,
+      "rel.us": 186.45,
+      "rel.kr": 39.04,
+      "rel.jp": 44.45
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 100.71,
+      "rel.eu": 96.1,
+      "rel.top3": 55.59,
+      "rel.cn": 141.8,
+      "rel.us": 434.71,
+      "rel.kr": 95.77,
+      "rel.jp": 108.96
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 82.83,
+      "rel.eu": 90.8,
+      "rel.top3": 49.53,
+      "rel.cn": 477.75,
+      "rel.us": 127.43,
+      "rel.kr": 65,
+      "rel.jp": 71.11
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 59.75,
+      "rel.eu": 87.13,
+      "rel.top3": 28.32,
+      "rel.cn": 515.22,
+      "rel.us": 127.59,
+      "rel.kr": 59.5,
+      "rel.jp": 68.86
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 52.02,
+      "rel.eu": 50,
+      "rel.top3": 24.22,
+      "rel.cn": 53.78,
+      "rel.us": 73.77,
+      "rel.kr": 43.87,
+      "rel.jp": 42.71
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 56.28,
+      "rel.eu": 70.28,
+      "rel.top3": 38.97,
+      "rel.cn": 287.17,
+      "rel.us": 88.01,
+      "rel.kr": 35.23,
+      "rel.jp": 50.68
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 96.82,
+      "rel.eu": 102.45,
+      "rel.top3": 58.46,
+      "rel.cn": 197.42,
+      "rel.us": 170.01,
+      "rel.kr": 47.33,
+      "rel.jp": 58.03
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 88.22,
+      "rel.eu": 117.49,
+      "rel.top3": 41.11,
+      "rel.cn": 578.6,
+      "rel.us": 217.17,
+      "rel.kr": 84.36,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 106.32,
+      "rel.eu": 155.81,
+      "rel.top3": 51.36,
+      "rel.cn": 842.06,
+      "rel.us": 287.71,
+      "rel.kr": 100,
+      "rel.jp": 131.92
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 95.94,
+      "rel.eu": 94.18,
+      "rel.top3": 55.6,
+      "rel.cn": 157.57,
+      "rel.us": 218.09,
+      "rel.kr": 70.39,
+      "rel.jp": 76.24
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 105.6,
+      "rel.eu": 152.9,
+      "rel.top3": 62.36,
+      "rel.cn": 1800.56,
+      "rel.us": 335.11,
+      "rel.kr": 147.23,
+      "rel.jp": 184.17
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 85.81,
+      "rel.eu": 84.44,
+      "rel.top3": 50.85,
+      "rel.cn": 99.95,
+      "rel.us": 179.21,
+      "rel.kr": 52.36,
+      "rel.jp": 60.47
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 108.32,
+      "rel.eu": 116.29,
+      "rel.top3": 61.28,
+      "rel.cn": 447.02,
+      "rel.us": 174.56,
+      "rel.kr": 93.44,
+      "rel.jp": 95.95
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 63.28,
+      "rel.eu": 59.12,
+      "rel.top3": 27.44,
+      "rel.cn": 71.74,
+      "rel.us": 168.7,
+      "rel.kr": 57.1,
+      "rel.jp": 60.61
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 105.06,
+      "rel.eu": 131.81,
+      "rel.top3": 62.33,
+      "rel.cn": 806.9,
+      "rel.us": 255.09,
+      "rel.kr": 94.38,
+      "rel.jp": 113.3
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 79.65,
+      "rel.eu": 101.06,
+      "rel.top3": 51.26,
+      "rel.cn": 470.93,
+      "rel.us": 147.12,
+      "rel.kr": 62.16,
+      "rel.jp": 84.03
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 46.53,
+      "rel.eu": 51.04,
+      "rel.top3": 22.48,
+      "rel.cn": 125.04,
+      "rel.us": 76.05,
+      "rel.kr": 39.25,
+      "rel.jp": 43.23
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 85.93,
+      "rel.eu": 84.07,
+      "rel.top3": 49.81,
+      "rel.cn": 94.97,
+      "rel.us": 195.95,
+      "rel.kr": 53.95,
+      "rel.jp": 59.57
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 74.2,
+      "rel.eu": 74.46,
+      "rel.top3": 43.69,
+      "rel.cn": 157.18,
+      "rel.us": 156.7,
+      "rel.kr": 54.48,
+      "rel.jp": 60.6
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 75.42,
+      "rel.eu": 72.49,
+      "rel.top3": 44.18,
+      "rel.cn": 95.45,
+      "rel.us": 210.69,
+      "rel.kr": 73.26,
+      "rel.jp": 75.25
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 87.92,
+      "rel.eu": 109.97,
+      "rel.top3": 51.12,
+      "rel.cn": 931.6,
+      "rel.us": 280.93,
+      "rel.kr": 96.44,
+      "rel.jp": 124.49
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 90.72,
+      "rel.eu": 92.6,
+      "rel.top3": 50.56,
+      "rel.cn": 271.99,
+      "rel.us": 406.6,
+      "rel.kr": 95.1,
+      "rel.jp": 111.34
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 103.93,
+      "rel.eu": 99.67,
+      "rel.top3": 55.87,
+      "rel.cn": 182.94,
+      "rel.us": 580.79,
+      "rel.kr": 115.79,
+      "rel.jp": 140.49
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 31.46,
+      "rel.eu": 30.51,
+      "rel.top3": 13.8,
+      "rel.cn": 44.93,
+      "rel.us": 101.71,
+      "rel.kr": 28.16,
+      "rel.jp": 33.35
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 101.7,
+      "rel.eu": 107.25,
+      "rel.top3": 62.77,
+      "rel.cn": 334,
+      "rel.us": 94.42,
+      "rel.kr": 58.12,
+      "rel.jp": 65.23
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 56.17,
+      "rel.eu": 75.23,
+      "rel.top3": 26.95,
+      "rel.cn": 368.67,
+      "rel.us": 100,
+      "rel.kr": 52.57,
+      "rel.jp": 59.15
+    }
+  ],
+  "C4": [
+    {
+      "iso2": "AT",
+      "rel.inno": 105.76,
+      "rel.eu": 136.13,
+      "rel.top3": 75.12,
+      "rel.cn": 756.47,
+      "rel.us": 2421.28,
+      "rel.kr": 141.35,
+      "rel.jp": 160
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 87.26,
+      "rel.eu": 122.4,
+      "rel.top3": 68.45,
+      "rel.cn": 643.17,
+      "rel.us": 2538.73,
+      "rel.kr": 114.48,
+      "rel.jp": 111.34
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 91.16,
+      "rel.eu": 117.08,
+      "rel.top3": 64.83,
+      "rel.cn": 560.13,
+      "rel.us": 1643.77,
+      "rel.kr": 116.82,
+      "rel.jp": 138.41
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 55.93,
+      "rel.eu": 59.78,
+      "rel.top3": 36.72,
+      "rel.us": 1226.51,
+      "rel.kr": 52.37,
+      "rel.jp": 95.56
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 98.95,
+      "rel.eu": 131.42,
+      "rel.top3": 72.61,
+      "rel.cn": 660.16,
+      "rel.us": 2469.06,
+      "rel.kr": 135.29,
+      "rel.jp": 144.06
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 106.34,
+      "rel.eu": 136.49,
+      "rel.top3": 81.1,
+      "rel.cn": 717.42,
+      "rel.us": 2970.03,
+      "rel.kr": 149.06,
+      "rel.jp": 148.65
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 43.48,
+      "rel.eu": 60.16,
+      "rel.top3": 37.38,
+      "rel.cn": 372.38,
+      "rel.us": 236.72,
+      "rel.kr": 66.46,
+      "rel.jp": 66.3
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 26.48,
+      "rel.eu": 34.37,
+      "rel.top3": 20.19,
+      "rel.cn": 100,
+      "rel.kr": 29.21,
+      "rel.jp": 45.31
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 8.68,
+      "rel.eu": 8.85,
+      "rel.top3": 9.84,
+      "rel.kr": 20.53,
+      "rel.jp": 37.54
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 60.83,
+      "rel.eu": 77.63,
+      "rel.top3": 49.47,
+      "rel.cn": 225.83,
+      "rel.us": 3003.59,
+      "rel.kr": 99.27,
+      "rel.jp": 100.88
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 58.08,
+      "rel.eu": 70.83,
+      "rel.top3": 42.18,
+      "rel.cn": 243.3,
+      "rel.us": 1181.67,
+      "rel.kr": 59.43,
+      "rel.jp": 79.24
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 78.53,
+      "rel.eu": 98.09,
+      "rel.top3": 56.62,
+      "rel.cn": 436.82,
+      "rel.us": 2502.3,
+      "rel.kr": 105.75,
+      "rel.jp": 117.07
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 86.07,
+      "rel.eu": 110.48,
+      "rel.top3": 65.23,
+      "rel.cn": 624.02,
+      "rel.us": 1992.02,
+      "rel.kr": 111.8,
+      "rel.jp": 107.46
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 104.71,
+      "rel.eu": 135.18,
+      "rel.top3": 79.21,
+      "rel.cn": 771.62,
+      "rel.us": 2509.44,
+      "rel.kr": 144.27,
+      "rel.jp": 144.85
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 89.65,
+      "rel.eu": 110.75,
+      "rel.top3": 64.86,
+      "rel.cn": 546.91,
+      "rel.us": 2005.64,
+      "rel.kr": 102.5,
+      "rel.jp": 123.99
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 59.61,
+      "rel.eu": 71.05,
+      "rel.top3": 42.6,
+      "rel.cn": 167.71,
+      "rel.us": 446.93,
+      "rel.kr": 55.28,
+      "rel.jp": 74.85
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 71.16,
+      "rel.eu": 89.1,
+      "rel.top3": 52.44,
+      "rel.cn": 372.16,
+      "rel.us": 1534.19,
+      "rel.kr": 90.75,
+      "rel.jp": 98.95
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 97.2,
+      "rel.eu": 118.01,
+      "rel.top3": 62.48,
+      "rel.cn": 148.89,
+      "rel.us": 69.35,
+      "rel.kr": 52.99,
+      "rel.jp": 157.01
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 107.44,
+      "rel.eu": 138.47,
+      "rel.top3": 81.63,
+      "rel.cn": 817.66,
+      "rel.us": 2594.28,
+      "rel.kr": 150.72,
+      "rel.jp": 149.53
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 102.14,
+      "rel.eu": 129.41,
+      "rel.top3": 70.84,
+      "rel.cn": 580.43,
+      "rel.us": 1046.29,
+      "rel.kr": 124.24,
+      "rel.jp": 153.97
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 69.33,
+      "rel.eu": 81.48,
+      "rel.top3": 47.35,
+      "rel.cn": 141.28,
+      "rel.us": 1857.22,
+      "rel.kr": 75.24,
+      "rel.jp": 102.27
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 77.57,
+      "rel.eu": 92.35,
+      "rel.top3": 51.31,
+      "rel.cn": 245.61,
+      "rel.us": 2261.39,
+      "rel.kr": 88.29,
+      "rel.jp": 129.8
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 114.51,
+      "rel.eu": 141.94,
+      "rel.top3": 81.23,
+      "rel.cn": 609.18,
+      "rel.us": 2263.92,
+      "rel.kr": 117.33,
+      "rel.jp": 135.89
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 35.7,
+      "rel.eu": 54,
+      "rel.top3": 31.54,
+      "rel.cn": 411.21,
+      "rel.kr": 41.97,
+      "rel.jp": 49.7
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 4.54,
+      "rel.eu": 5.3,
+      "rel.top3": 6.36,
+      "rel.cn": 14.42,
+      "rel.kr": 7.96,
+      "rel.jp": 15.42
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 96.71,
+      "rel.eu": 128.78,
+      "rel.top3": 75.33,
+      "rel.cn": 698.24,
+      "rel.us": 4065.77,
+      "rel.kr": 148.62,
+      "rel.jp": 147.05
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 65.73,
+      "rel.eu": 79.74,
+      "rel.top3": 46.51,
+      "rel.cn": 121.4,
+      "rel.us": 1515.25,
+      "rel.kr": 64.22,
+      "rel.jp": 81.23
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 78.91,
+      "rel.eu": 105.71,
+      "rel.top3": 59.94,
+      "rel.cn": 612.8,
+      "rel.us": 2667.88,
+      "rel.kr": 107.42,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 87.05,
+      "rel.eu": 119.42,
+      "rel.top3": 61.64,
+      "rel.cn": 479.71,
+      "rel.us": 1991.28,
+      "rel.kr": 100,
+      "rel.jp": 118.3
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 80.45,
+      "rel.eu": 98.55,
+      "rel.top3": 58.39,
+      "rel.cn": 435.44,
+      "rel.us": 2151.34,
+      "rel.kr": 105.15,
+      "rel.jp": 123.27
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 84.68,
+      "rel.eu": 112.69,
+      "rel.top3": 66.81,
+      "rel.cn": 689.66,
+      "rel.us": 3151.15,
+      "rel.kr": 146.53,
+      "rel.jp": 139.95
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 67.08,
+      "rel.eu": 82.89,
+      "rel.top3": 49.78,
+      "rel.cn": 382.22,
+      "rel.us": 1816.89,
+      "rel.kr": 96.03,
+      "rel.jp": 106.92
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 57.8,
+      "rel.eu": 72.63,
+      "rel.top3": 43.48,
+      "rel.cn": 321.81,
+      "rel.us": 2508.59,
+      "rel.kr": 73.69,
+      "rel.jp": 72.18
+    },
+    {
+      "iso2": "MX",
+      "rel.jp": 3.08
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 98.4,
+      "rel.eu": 129.04,
+      "rel.top3": 72.36,
+      "rel.cn": 696.76,
+      "rel.us": 2412.02,
+      "rel.kr": 131.12,
+      "rel.jp": 139.11
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 105.19,
+      "rel.eu": 136.67,
+      "rel.top3": 77.21,
+      "rel.cn": 799.05,
+      "rel.us": 2903.85,
+      "rel.kr": 153.61,
+      "rel.jp": 163.62
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 105.11,
+      "rel.eu": 144.1,
+      "rel.top3": 82.03,
+      "rel.cn": 703.9,
+      "rel.us": 4251.23,
+      "rel.kr": 147.78,
+      "rel.jp": 146.14
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 63.25,
+      "rel.eu": 74.92,
+      "rel.top3": 42.86,
+      "rel.cn": 171.72,
+      "rel.us": 1353.06,
+      "rel.kr": 59.95,
+      "rel.jp": 84.17
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 92.13,
+      "rel.eu": 114.83,
+      "rel.top3": 63.96,
+      "rel.cn": 494.46,
+      "rel.us": 2494.37,
+      "rel.kr": 111.57,
+      "rel.jp": 133.15
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 59.59,
+      "rel.eu": 67.73,
+      "rel.top3": 41.69,
+      "rel.cn": 177.24,
+      "rel.us": 1406.18,
+      "rel.kr": 61.54,
+      "rel.jp": 85.06
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 98.66,
+      "rel.eu": 127.48,
+      "rel.top3": 73.61,
+      "rel.cn": 692.38,
+      "rel.us": 2721.64,
+      "rel.kr": 143.71,
+      "rel.jp": 151.31
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 84.99,
+      "rel.eu": 105.56,
+      "rel.top3": 60.05,
+      "rel.cn": 445.45,
+      "rel.us": 2008.77,
+      "rel.kr": 105.38,
+      "rel.jp": 127.09
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 61.73,
+      "rel.eu": 75,
+      "rel.top3": 44.8,
+      "rel.cn": 293.18,
+      "rel.us": 1488,
+      "rel.kr": 87.05,
+      "rel.jp": 103.23
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 35.69,
+      "rel.eu": 38.39,
+      "rel.top3": 21.6,
+      "rel.kr": 5.76,
+      "rel.jp": 59.16
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 109.45,
+      "rel.eu": 139.48,
+      "rel.top3": 75.6,
+      "rel.cn": 612.19,
+      "rel.us": 1475.09,
+      "rel.kr": 121.54,
+      "rel.jp": 153.4
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 77.49,
+      "rel.eu": 103.84,
+      "rel.top3": 56.03,
+      "rel.cn": 594.4,
+      "rel.us": 100,
+      "rel.kr": 94.31,
+      "rel.jp": 110.91
+    }
+  ],
+  "C5": [
+    {
+      "iso2": "AT",
+      "rel.inno": 85.92,
+      "rel.eu": 87.27,
+      "rel.top3": 57.15,
+      "rel.us": 69.64,
+      "rel.kr": 86.64,
+      "rel.jp": 120.88
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 65.43,
+      "rel.eu": 78.85,
+      "rel.top3": 10.93,
+      "rel.us": 116.7,
+      "rel.kr": 44.68,
+      "rel.jp": 78.39
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 84.3,
+      "rel.eu": 86.67,
+      "rel.top3": 53.78,
+      "rel.us": 173.63,
+      "rel.kr": 115.43,
+      "rel.jp": 169.2
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 119.04,
+      "rel.eu": 121.09,
+      "rel.top3": 78.04
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 60.37,
+      "rel.eu": 72.74,
+      "rel.top3": 10.09,
+      "rel.us": 107.66,
+      "rel.kr": 41.22,
+      "rel.jp": 72.32
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 81.31,
+      "rel.eu": 83.27,
+      "rel.top3": 52.61,
+      "rel.us": 121.95,
+      "rel.kr": 111.8,
+      "rel.jp": 162.66
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 83.4,
+      "rel.eu": 87.24,
+      "rel.top3": 53.38,
+      "rel.us": 81.47,
+      "rel.kr": 102.5,
+      "rel.jp": 149.81
+    },
+    {
+      "iso2": "CN"
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 83.19,
+      "rel.eu": 100.25,
+      "rel.top3": 13.9,
+      "rel.us": 148.38,
+      "rel.kr": 56.8,
+      "rel.jp": 99.67
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 102.73,
+      "rel.eu": 106.99,
+      "rel.top3": 67.23,
+      "rel.us": 87.51,
+      "rel.kr": 127.91,
+      "rel.jp": 186.06
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 80.92,
+      "rel.eu": 80.55,
+      "rel.top3": 55.99
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 83.88,
+      "rel.eu": 86.01,
+      "rel.top3": 51.75,
+      "rel.us": 178.74,
+      "rel.kr": 86.27,
+      "rel.jp": 125.05
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 86.87,
+      "rel.eu": 89.27,
+      "rel.top3": 55.45,
+      "rel.us": 116.69,
+      "rel.kr": 84.94,
+      "rel.jp": 120.03
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 106.91,
+      "rel.eu": 110.4,
+      "rel.top3": 67.48,
+      "rel.us": 113.7,
+      "rel.kr": 106.84,
+      "rel.jp": 153.04
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 119.77,
+      "rel.eu": 125.48,
+      "rel.top3": 71.96,
+      "rel.us": 210,
+      "rel.kr": 123.63,
+      "rel.jp": 179.4
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 110.05,
+      "rel.eu": 113.9,
+      "rel.top3": 67.5,
+      "rel.us": 224.54,
+      "rel.kr": 123.93,
+      "rel.jp": 183.95
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 90.49,
+      "rel.eu": 92.16,
+      "rel.top3": 59.34,
+      "rel.us": 130.76,
+      "rel.kr": 120.3,
+      "rel.jp": 174.3
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 94.81,
+      "rel.eu": 95.51,
+      "rel.top3": 63.38
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 115.49,
+      "rel.eu": 121.28,
+      "rel.top3": 68.25,
+      "rel.us": 261.82,
+      "rel.kr": 116.61,
+      "rel.jp": 169.91
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 96.64,
+      "rel.eu": 98.98,
+      "rel.top3": 61.75,
+      "rel.us": 135.54,
+      "rel.kr": 100.84,
+      "rel.jp": 145.6
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 108.77,
+      "rel.eu": 109.04,
+      "rel.top3": 70.85
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 74.96,
+      "rel.eu": 76.21,
+      "rel.top3": 49.08,
+      "rel.us": 89.31,
+      "rel.kr": 85.14,
+      "rel.jp": 120.39
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 127.47,
+      "rel.eu": 133.89,
+      "rel.top3": 76.26,
+      "rel.us": 104.28,
+      "rel.kr": 106.99,
+      "rel.jp": 151.69
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 68.59,
+      "rel.eu": 75.4,
+      "rel.top3": 27.79,
+      "rel.us": 118.34,
+      "rel.kr": 45.31,
+      "rel.jp": 79.49
+    },
+    {
+      "iso2": "IN"
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 131,
+      "rel.eu": 137.32,
+      "rel.top3": 76.13,
+      "rel.us": 391.13,
+      "rel.kr": 166.83,
+      "rel.jp": 251.4
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 83.92,
+      "rel.eu": 84.27,
+      "rel.top3": 57.13,
+      "rel.us": 63,
+      "rel.kr": 97.44,
+      "rel.jp": 137.37
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 63.94,
+      "rel.eu": 69.95,
+      "rel.top3": 32.78,
+      "rel.us": 148.87,
+      "rel.kr": 68.43,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 97.79,
+      "rel.eu": 108.26,
+      "rel.top3": 45.62,
+      "rel.us": 261.21,
+      "rel.kr": 100,
+      "rel.jp": 150.6
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 105.85,
+      "rel.eu": 109.44,
+      "rel.top3": 66.04,
+      "rel.us": 257.67,
+      "rel.kr": 142.29,
+      "rel.jp": 208.29
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 73.96,
+      "rel.eu": 76.38,
+      "rel.top3": 46.78,
+      "rel.us": 177.16,
+      "rel.kr": 86.87,
+      "rel.jp": 125.92
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 102.6,
+      "rel.eu": 104.89,
+      "rel.top3": 67.12,
+      "rel.us": 139.62,
+      "rel.kr": 132.73,
+      "rel.jp": 190.97
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 101.17,
+      "rel.eu": 101.82,
+      "rel.top3": 66.49
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 80.32,
+      "rel.eu": 85.09,
+      "rel.top3": 49,
+      "rel.us": 109.66,
+      "rel.kr": 95.33,
+      "rel.jp": 137.57
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 85.44,
+      "rel.eu": 87.59,
+      "rel.top3": 55.5,
+      "rel.us": 124.6,
+      "rel.kr": 106.44,
+      "rel.jp": 152.35
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 212.65,
+      "rel.eu": 239.32,
+      "rel.top3": 80.91,
+      "rel.us": 2011,
+      "rel.kr": 350.22,
+      "rel.jp": 577.24
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 69.52,
+      "rel.eu": 77.37,
+      "rel.top3": 28.83,
+      "rel.us": 127.94,
+      "rel.kr": 68.75,
+      "rel.jp": 113.6
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 108.97,
+      "rel.eu": 112.19,
+      "rel.top3": 67.08,
+      "rel.us": 240.54,
+      "rel.kr": 122.68,
+      "rel.jp": 179.92
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 99.47,
+      "rel.eu": 101.01,
+      "rel.top3": 65.82,
+      "rel.us": 124.6,
+      "rel.kr": 123.34,
+      "rel.jp": 176.73
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 134.25,
+      "rel.eu": 136.36,
+      "rel.top3": 89.76,
+      "rel.kr": 166.59,
+      "rel.jp": 232.32
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 132.46,
+      "rel.eu": 141.27,
+      "rel.top3": 71.06,
+      "rel.us": 611.52,
+      "rel.kr": 173.03,
+      "rel.jp": 267.68
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 135.83,
+      "rel.eu": 145.96,
+      "rel.top3": 68.59,
+      "rel.us": 779.95,
+      "rel.kr": 191.34,
+      "rel.jp": 300.83
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 134.08,
+      "rel.eu": 146.11,
+      "rel.top3": 62.16,
+      "rel.us": 969.46,
+      "rel.kr": 202.73,
+      "rel.jp": 322.08
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 96.02,
+      "rel.eu": 98.44,
+      "rel.top3": 60.24,
+      "rel.us": 231.05,
+      "rel.kr": 124.39,
+      "rel.jp": 183.62
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 95.64,
+      "rel.eu": 97.38,
+      "rel.top3": 62.4,
+      "rel.us": 92.34,
+      "rel.kr": 99.89,
+      "rel.jp": 140.58
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 56.07,
+      "rel.eu": 67.57,
+      "rel.top3": 9.37,
+      "rel.us": 100,
+      "rel.kr": 38.28,
+      "rel.jp": 67.17
+    }
+  ],
+  "C6": [
+    {
+      "iso2": "AT",
+      "rel.inno": 96.37,
+      "rel.eu": 135.38,
+      "rel.top3": 59.73,
+      "rel.cn": 358.19,
+      "rel.us": 76.83,
+      "rel.kr": 71.52,
+      "rel.jp": 57.08
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 42.32,
+      "rel.eu": 53.31,
+      "rel.top3": 37.41,
+      "rel.cn": 85.95,
+      "rel.us": 23.77,
+      "rel.kr": 30.87,
+      "rel.jp": 25.98
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 81.62,
+      "rel.eu": 116.44,
+      "rel.top3": 59.51,
+      "rel.cn": 325.55,
+      "rel.us": 62.46,
+      "rel.kr": 63.89,
+      "rel.jp": 52.88
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 48.39,
+      "rel.eu": 51.76,
+      "rel.top3": 52.7,
+      "rel.cn": 27.36,
+      "rel.us": 33.8,
+      "rel.kr": 49.71,
+      "rel.jp": 42.34
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 63.55,
+      "rel.eu": 81.1,
+      "rel.top3": 37.5,
+      "rel.cn": 118.91,
+      "rel.us": 29.87,
+      "rel.kr": 33.9,
+      "rel.jp": 27.33
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 106.03,
+      "rel.eu": 164.2,
+      "rel.top3": 71.34,
+      "rel.cn": 516.38,
+      "rel.us": 86.77,
+      "rel.kr": 78.78,
+      "rel.jp": 67.28
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 23.75,
+      "rel.eu": 26.04,
+      "rel.top3": 30.09,
+      "rel.cn": 28.66,
+      "rel.us": 14.55,
+      "rel.kr": 23,
+      "rel.jp": 19.82
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 412.85,
+      "rel.eu": 488.17,
+      "rel.top3": 105.57,
+      "rel.cn": 100,
+      "rel.us": 87.91,
+      "rel.kr": 126.47,
+      "rel.jp": 92.05
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 57.34,
+      "rel.eu": 66.61,
+      "rel.top3": 73.81,
+      "rel.cn": 33.26,
+      "rel.us": 43.58,
+      "rel.kr": 74.58,
+      "rel.jp": 65.16
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 111.32,
+      "rel.eu": 104.4,
+      "rel.top3": 100.07,
+      "rel.cn": 50.26,
+      "rel.us": 65.88,
+      "rel.kr": 79.73,
+      "rel.jp": 73.15
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 47.78,
+      "rel.eu": 51.07,
+      "rel.top3": 51.94,
+      "rel.cn": 29.11,
+      "rel.us": 32.45,
+      "rel.kr": 46.92,
+      "rel.jp": 42.53
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 58.22,
+      "rel.eu": 56.9,
+      "rel.top3": 47,
+      "rel.cn": 51.33,
+      "rel.us": 36.52,
+      "rel.kr": 40.4,
+      "rel.jp": 33.15
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 281.88,
+      "rel.eu": 356.32,
+      "rel.top3": 85.51,
+      "rel.cn": 366.9,
+      "rel.us": 88.26,
+      "rel.kr": 99.38,
+      "rel.jp": 69.5
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 85.36,
+      "rel.eu": 133.57,
+      "rel.top3": 69.81,
+      "rel.cn": 395.68,
+      "rel.us": 87.04,
+      "rel.kr": 107.85,
+      "rel.jp": 100.73
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 70.56,
+      "rel.eu": 72.49,
+      "rel.top3": 56.43,
+      "rel.cn": 66.68,
+      "rel.us": 47.15,
+      "rel.kr": 51.07,
+      "rel.jp": 39.78
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 34.01,
+      "rel.eu": 35.64,
+      "rel.top3": 34.42,
+      "rel.cn": 31.71,
+      "rel.us": 22.51,
+      "rel.kr": 30.65,
+      "rel.jp": 25.79
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 62.75,
+      "rel.eu": 73.46,
+      "rel.top3": 50.63,
+      "rel.cn": 83.1,
+      "rel.us": 37.48,
+      "rel.kr": 51.52,
+      "rel.jp": 40.6
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 585.39,
+      "rel.eu": 705.85,
+      "rel.top3": 104.85,
+      "rel.cn": 251.84,
+      "rel.us": 88.52,
+      "rel.kr": 145.61,
+      "rel.jp": 88.5
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 97.6,
+      "rel.eu": 147.29,
+      "rel.top3": 68.3,
+      "rel.cn": 430.45,
+      "rel.us": 85.76,
+      "rel.kr": 78.81,
+      "rel.jp": 65.12
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 160.01,
+      "rel.eu": 202.36,
+      "rel.top3": 60.9,
+      "rel.cn": 243.09,
+      "rel.us": 62.46,
+      "rel.kr": 73.71,
+      "rel.jp": 55.77
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 45.09,
+      "rel.eu": 45.11,
+      "rel.top3": 48.39,
+      "rel.cn": 25.51,
+      "rel.us": 28.36,
+      "rel.kr": 38.76,
+      "rel.jp": 32.24
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 59.29,
+      "rel.eu": 59.99,
+      "rel.top3": 47.26,
+      "rel.cn": 52.22,
+      "rel.us": 39.08,
+      "rel.kr": 45.26,
+      "rel.jp": 37.7
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 87.84,
+      "rel.eu": 90.97,
+      "rel.top3": 55.89,
+      "rel.cn": 148.84,
+      "rel.us": 55.56,
+      "rel.kr": 48.42,
+      "rel.jp": 45.19
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 183.57,
+      "rel.eu": 206.87,
+      "rel.top3": 91.44,
+      "rel.cn": 321.08,
+      "rel.us": 119.09,
+      "rel.kr": 99.91,
+      "rel.jp": 94.78
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 55.9,
+      "rel.eu": 69.46,
+      "rel.top3": 43.4,
+      "rel.cn": 27.08,
+      "rel.us": 33.98,
+      "rel.kr": 56.76,
+      "rel.jp": 48.26
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 47.51,
+      "rel.eu": 57.31,
+      "rel.top3": 52.03,
+      "rel.cn": 89.84,
+      "rel.us": 35.63,
+      "rel.kr": 42.6,
+      "rel.jp": 31.73
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 68.79,
+      "rel.eu": 92.84,
+      "rel.top3": 9.32,
+      "rel.cn": 156.99,
+      "rel.us": 18.8,
+      "rel.kr": 15.84,
+      "rel.jp": 9.42
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 756.39,
+      "rel.eu": 936.28,
+      "rel.top3": 119.04,
+      "rel.cn": 735.43,
+      "rel.us": 168.38,
+      "rel.kr": 175.32,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 331.44,
+      "rel.eu": 403.7,
+      "rel.top3": 88.13,
+      "rel.cn": 533.06,
+      "rel.us": 127.07,
+      "rel.kr": 100,
+      "rel.jp": 80.38
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 47.85,
+      "rel.eu": 62.39,
+      "rel.top3": 49,
+      "rel.cn": 68.5,
+      "rel.us": 43.64,
+      "rel.kr": 65.58,
+      "rel.jp": 58.77
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 70.61,
+      "rel.eu": 104.62,
+      "rel.top3": 54.24,
+      "rel.cn": 423.03,
+      "rel.us": 71.76,
+      "rel.kr": 55.86,
+      "rel.jp": 42.28
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 42.23,
+      "rel.eu": 41.63,
+      "rel.top3": 41.22,
+      "rel.cn": 32.21,
+      "rel.us": 26.15,
+      "rel.kr": 32.36,
+      "rel.jp": 28.66
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 230.77,
+      "rel.eu": 191.75,
+      "rel.top3": 100.73,
+      "rel.cn": 112.9,
+      "rel.us": 125.42,
+      "rel.kr": 81.66,
+      "rel.jp": 85.39
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 56.53,
+      "rel.eu": 49,
+      "rel.top3": 36.4,
+      "rel.cn": 22.73,
+      "rel.us": 32.51,
+      "rel.kr": 30.97,
+      "rel.jp": 29.45
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 145.25,
+      "rel.eu": 195.51,
+      "rel.top3": 79.1,
+      "rel.cn": 418.77,
+      "rel.us": 91.61,
+      "rel.kr": 85.98,
+      "rel.jp": 72.27
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 41.19,
+      "rel.eu": 53.67,
+      "rel.top3": 45.63,
+      "rel.cn": 126.71,
+      "rel.us": 29.74,
+      "rel.kr": 35.2,
+      "rel.jp": 30.18
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 39.38,
+      "rel.eu": 45.74,
+      "rel.top3": 49.56,
+      "rel.cn": 62.27,
+      "rel.us": 26.41,
+      "rel.kr": 37.83,
+      "rel.jp": 33.69
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 54.14,
+      "rel.eu": 55.66,
+      "rel.top3": 47.9,
+      "rel.cn": 44.28,
+      "rel.us": 33.9,
+      "rel.kr": 43.48,
+      "rel.jp": 34.58
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 42.36,
+      "rel.eu": 46.06,
+      "rel.top3": 40.8,
+      "rel.cn": 59.5,
+      "rel.us": 27.44,
+      "rel.kr": 33.67,
+      "rel.jp": 28.59
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 42.1,
+      "rel.eu": 41.44,
+      "rel.top3": 41.65,
+      "rel.cn": 22.58,
+      "rel.us": 25.76,
+      "rel.kr": 33.65,
+      "rel.jp": 28.05
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 92.81,
+      "rel.eu": 134.55,
+      "rel.top3": 56.59,
+      "rel.cn": 380.6,
+      "rel.us": 66.02,
+      "rel.kr": 54.47,
+      "rel.jp": 43.85
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 48.53,
+      "rel.eu": 54.52,
+      "rel.top3": 51.85,
+      "rel.cn": 87.67,
+      "rel.us": 34.33,
+      "rel.kr": 43.16,
+      "rel.jp": 36.47
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 33.39,
+      "rel.eu": 34.64,
+      "rel.top3": 35.95,
+      "rel.cn": 40.34,
+      "rel.us": 21.16,
+      "rel.kr": 27.84,
+      "rel.jp": 24.08
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 47.1,
+      "rel.eu": 51.16,
+      "rel.top3": 50.21,
+      "rel.cn": 33.3,
+      "rel.us": 27.3,
+      "rel.kr": 41.25,
+      "rel.jp": 33.15
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 122.81,
+      "rel.eu": 149.99,
+      "rel.top3": 61.33,
+      "rel.cn": 172.9,
+      "rel.us": 51.33,
+      "rel.kr": 63.39,
+      "rel.jp": 50.08
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 630.67,
+      "rel.eu": 772.28,
+      "rel.top3": 113.99,
+      "rel.cn": 313.93,
+      "rel.us": 100,
+      "rel.kr": 153.03,
+      "rel.jp": 95.51
+    }
+  ],
+  "D1": [
+    {
+      "iso2": "AT",
+      "rel.inno": 102.23,
+      "rel.eu": 115.46,
+      "rel.top3": 70.48,
+      "rel.cn": 307.17,
+      "rel.us": 86.45,
+      "rel.kr": 126.89,
+      "rel.jp": 136.21
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 93.71,
+      "rel.eu": 107.37,
+      "rel.top3": 76.77,
+      "rel.cn": 280.9,
+      "rel.us": 79.06,
+      "rel.kr": 115.09,
+      "rel.jp": 123.56
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 98.11,
+      "rel.eu": 111.6,
+      "rel.top3": 68.39,
+      "rel.cn": 292.98,
+      "rel.us": 82.46,
+      "rel.kr": 119.96,
+      "rel.jp": 128.79
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 85.8,
+      "rel.eu": 91.04,
+      "rel.top3": 58.37,
+      "rel.cn": 148.24,
+      "rel.us": 41.72,
+      "rel.kr": 59.18,
+      "rel.jp": 64.44
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 96.72,
+      "rel.eu": 110.17,
+      "rel.top3": 79.85,
+      "rel.cn": 271.04,
+      "rel.us": 76.28,
+      "rel.kr": 118.85,
+      "rel.jp": 127.49
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 133.42,
+      "rel.eu": 154.01,
+      "rel.top3": 87.9,
+      "rel.cn": 397.4,
+      "rel.us": 111.85,
+      "rel.kr": 144.6,
+      "rel.jp": 155.51
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 46.71,
+      "rel.eu": 58.48,
+      "rel.top3": 33.57,
+      "rel.cn": 142.33,
+      "rel.us": 40.06,
+      "rel.kr": 56.82,
+      "rel.jp": 61.87
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 32.82,
+      "rel.eu": 41.09,
+      "rel.top3": 23.58,
+      "rel.cn": 100,
+      "rel.us": 28.14,
+      "rel.kr": 39.92,
+      "rel.jp": 43.47
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 68.75,
+      "rel.eu": 74.64,
+      "rel.top3": 60.23,
+      "rel.cn": 85.86,
+      "rel.us": 24.17,
+      "rel.kr": 84.88,
+      "rel.jp": 90.41
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 39.82,
+      "rel.eu": 49.86,
+      "rel.top3": 28.62,
+      "rel.cn": 121.35,
+      "rel.us": 34.15,
+      "rel.kr": 48.44,
+      "rel.jp": 52.75
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 81.73,
+      "rel.eu": 91.68,
+      "rel.top3": 57.52,
+      "rel.cn": 180.43,
+      "rel.us": 50.78,
+      "rel.kr": 72.03,
+      "rel.jp": 78.43
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 113.24,
+      "rel.eu": 123,
+      "rel.top3": 75.33,
+      "rel.cn": 225.71,
+      "rel.us": 63.53,
+      "rel.kr": 104.89,
+      "rel.jp": 112.43
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 121.86,
+      "rel.eu": 136.68,
+      "rel.top3": 80.24,
+      "rel.cn": 296.73,
+      "rel.us": 83.51,
+      "rel.kr": 118.25,
+      "rel.jp": 127
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 112.38,
+      "rel.eu": 128.71,
+      "rel.top3": 75.82,
+      "rel.cn": 329.53,
+      "rel.us": 92.75,
+      "rel.kr": 125.61,
+      "rel.jp": 135
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 92.13,
+      "rel.eu": 100.27,
+      "rel.top3": 64.94,
+      "rel.cn": 207.35,
+      "rel.us": 58.36,
+      "rel.kr": 100.4,
+      "rel.jp": 107.57
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 77.65,
+      "rel.eu": 86.42,
+      "rel.top3": 56.38,
+      "rel.cn": 174.32,
+      "rel.us": 49.06,
+      "rel.kr": 90.53,
+      "rel.jp": 96.92
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 80.66,
+      "rel.eu": 91.42,
+      "rel.top3": 57.92,
+      "rel.cn": 221.15,
+      "rel.us": 62.24,
+      "rel.kr": 103.16,
+      "rel.jp": 110.57
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 93.46,
+      "rel.eu": 106.42,
+      "rel.top3": 61.12
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 89.25,
+      "rel.eu": 99.3,
+      "rel.top3": 64.7,
+      "rel.cn": 270.92,
+      "rel.us": 76.25,
+      "rel.kr": 118.83,
+      "rel.jp": 127.46
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 93.59,
+      "rel.eu": 106.13,
+      "rel.top3": 65.35,
+      "rel.cn": 252.39,
+      "rel.us": 71.03,
+      "rel.kr": 106.12,
+      "rel.jp": 113.89
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 78.88,
+      "rel.eu": 86.94,
+      "rel.top3": 54.64,
+      "rel.cn": 188.6,
+      "rel.us": 53.08,
+      "rel.kr": 75.29,
+      "rel.jp": 81.99
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 93.18,
+      "rel.eu": 100.94,
+      "rel.top3": 64.43,
+      "rel.cn": 194.4,
+      "rel.us": 54.71,
+      "rel.kr": 92.08,
+      "rel.jp": 98.68
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 127.28,
+      "rel.eu": 148.61,
+      "rel.top3": 84.16,
+      "rel.cn": 504.69,
+      "rel.us": 142.04,
+      "rel.kr": 160.57,
+      "rel.jp": 173.07
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 93.16,
+      "rel.eu": 105.52,
+      "rel.top3": 77.46,
+      "rel.cn": 244.08,
+      "rel.us": 68.7,
+      "rel.kr": 114.53,
+      "rel.jp": 122.75
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 12.83,
+      "rel.eu": 16.07,
+      "rel.top3": 9.22,
+      "rel.cn": 39.1,
+      "rel.us": 11.01,
+      "rel.kr": 15.61,
+      "rel.jp": 17
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 93.17,
+      "rel.eu": 102.12,
+      "rel.top3": 65.58,
+      "rel.cn": 305.52,
+      "rel.us": 85.99,
+      "rel.kr": 125.91,
+      "rel.jp": 135.17
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 91.24,
+      "rel.eu": 103.94,
+      "rel.top3": 63.58,
+      "rel.cn": 243.53,
+      "rel.us": 68.54,
+      "rel.kr": 107.62,
+      "rel.jp": 115.43
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 75.84,
+      "rel.eu": 86.99,
+      "rel.top3": 62.04,
+      "rel.cn": 230.03,
+      "rel.us": 64.74,
+      "rel.kr": 93.13,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 81.45,
+      "rel.eu": 93.54,
+      "rel.top3": 66.52,
+      "rel.cn": 250.5,
+      "rel.us": 70.5,
+      "rel.kr": 100,
+      "rel.jp": 107.4
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 92.94,
+      "rel.eu": 101.31,
+      "rel.top3": 65.18,
+      "rel.cn": 219.68,
+      "rel.us": 61.83,
+      "rel.kr": 101.23,
+      "rel.jp": 108.51
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 108.25,
+      "rel.eu": 123.92,
+      "rel.top3": 72.61,
+      "rel.kr": 121.31,
+      "rel.jp": 128.47
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 84.33,
+      "rel.eu": 91.41,
+      "rel.top3": 58.89,
+      "rel.cn": 181.4,
+      "rel.us": 51.05,
+      "rel.kr": 91.13,
+      "rel.jp": 97.59
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 116.78,
+      "rel.eu": 130.93,
+      "rel.top3": 75.35,
+      "rel.cn": 267.44,
+      "rel.us": 75.27,
+      "rel.kr": 106.76,
+      "rel.jp": 116.26
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 74.15,
+      "rel.eu": 81.15,
+      "rel.top3": 64.35,
+      "rel.cn": 111.36,
+      "rel.us": 31.34,
+      "rel.kr": 91.48,
+      "rel.jp": 97.55
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 120.32,
+      "rel.eu": 137.95,
+      "rel.top3": 78.88,
+      "rel.cn": 325.76,
+      "rel.us": 91.68,
+      "rel.kr": 127.32,
+      "rel.jp": 136.78
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 116.5,
+      "rel.eu": 132.11,
+      "rel.top3": 78.64,
+      "rel.cn": 370.01,
+      "rel.us": 104.14,
+      "rel.kr": 139.27,
+      "rel.jp": 149.7
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 91.69,
+      "rel.eu": 104.15,
+      "rel.top3": 75.97,
+      "rel.cn": 248.44,
+      "rel.us": 69.92,
+      "rel.kr": 112.7,
+      "rel.jp": 120.84
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 93.02,
+      "rel.eu": 100.5,
+      "rel.top3": 63.97,
+      "rel.cn": 207.32,
+      "rel.us": 58.35,
+      "rel.kr": 102.86,
+      "rel.jp": 110.17
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 80.96,
+      "rel.eu": 89.73,
+      "rel.top3": 57.8,
+      "rel.cn": 196.66,
+      "rel.us": 55.35,
+      "rel.kr": 96.63,
+      "rel.jp": 103.51
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 79.01,
+      "rel.eu": 84.8,
+      "rel.top3": 53.94,
+      "rel.cn": 178.67,
+      "rel.us": 50.29,
+      "rel.kr": 71.33,
+      "rel.jp": 77.67
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 96.04,
+      "rel.eu": 108.31,
+      "rel.top3": 69.2,
+      "rel.cn": 304.38,
+      "rel.us": 85.66,
+      "rel.kr": 122.23,
+      "rel.jp": 131.26
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 97.07,
+      "rel.eu": 107.06,
+      "rel.top3": 67.36,
+      "rel.cn": 225.51,
+      "rel.us": 63.47,
+      "rel.kr": 106.49,
+      "rel.jp": 114.12
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 83.12,
+      "rel.eu": 90.67,
+      "rel.top3": 58.96,
+      "rel.cn": 182.41,
+      "rel.us": 51.34,
+      "rel.kr": 94.61,
+      "rel.jp": 101.28
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 57.25,
+      "rel.eu": 66.42,
+      "rel.top3": 39.17,
+      "rel.cn": 182.26,
+      "rel.us": 51.3,
+      "rel.kr": 83.1,
+      "rel.jp": 89.1
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 114.03,
+      "rel.eu": 132.46,
+      "rel.top3": 78.99,
+      "rel.cn": 261.64,
+      "rel.us": 73.64,
+      "rel.kr": 114.03,
+      "rel.jp": 122.32
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 116.6,
+      "rel.eu": 146,
+      "rel.top3": 83.79,
+      "rel.cn": 355.31,
+      "rel.us": 100,
+      "rel.kr": 141.84,
+      "rel.jp": 154.46
+    }
+  ],
+  "D2": [
+    {
+      "iso2": "AT",
+      "rel.inno": 90.32,
+      "rel.eu": 141.14,
+      "rel.top3": 58.94,
+      "rel.cn": 465.24,
+      "rel.us": 115.37,
+      "rel.kr": 232.38,
+      "rel.jp": 169.8
+    },
+    {
+      "iso2": "AU",
+      "rel.inno": 69.89,
+      "rel.eu": 113.99,
+      "rel.top3": 41.07,
+      "rel.cn": 375.31,
+      "rel.us": 98.01,
+      "rel.kr": 925.72,
+      "rel.jp": 195.45
+    },
+    {
+      "iso2": "BE",
+      "rel.inno": 90.49,
+      "rel.eu": 140.75,
+      "rel.top3": 59,
+      "rel.cn": 430.11,
+      "rel.us": 112.93,
+      "rel.kr": 400.13,
+      "rel.jp": 166.74
+    },
+    {
+      "iso2": "BG",
+      "rel.inno": 39.82,
+      "rel.eu": 47.96,
+      "rel.top3": 25.77,
+      "rel.cn": 71.88,
+      "rel.us": 38.38,
+      "rel.kr": 26.39,
+      "rel.jp": 33.44
+    },
+    {
+      "iso2": "CA",
+      "rel.inno": 66.91,
+      "rel.eu": 103.32,
+      "rel.top3": 41.09,
+      "rel.cn": 289.03,
+      "rel.us": 85.95,
+      "rel.kr": 320.59,
+      "rel.jp": 157.99
+    },
+    {
+      "iso2": "CH",
+      "rel.inno": 141.87,
+      "rel.eu": 254.51,
+      "rel.top3": 87.19,
+      "rel.cn": 1062.86,
+      "rel.us": 190.8,
+      "rel.kr": 1255.25,
+      "rel.jp": 220.83
+    },
+    {
+      "iso2": "CL",
+      "rel.inno": 39.62,
+      "rel.eu": 42.11,
+      "rel.top3": 18.46,
+      "rel.cn": 46.44,
+      "rel.us": 38.41,
+      "rel.kr": 26.73,
+      "rel.jp": 54.58
+    },
+    {
+      "iso2": "CN",
+      "rel.inno": 45.79,
+      "rel.eu": 66.99,
+      "rel.top3": 24.44,
+      "rel.cn": 100,
+      "rel.us": 44.99,
+      "rel.kr": 108.67,
+      "rel.jp": 197.29
+    },
+    {
+      "iso2": "CO",
+      "rel.inno": 31.11,
+      "rel.eu": 34.92,
+      "rel.top3": 14.06,
+      "rel.cn": 45.83,
+      "rel.us": 23.83,
+      "rel.kr": 28.57,
+      "rel.jp": 143.74
+    },
+    {
+      "iso2": "CR",
+      "rel.inno": 12.57,
+      "rel.eu": 15.64,
+      "rel.top3": 8.87,
+      "rel.cn": 38.93,
+      "rel.us": 16.55,
+      "rel.kr": 11.73,
+      "rel.jp": 14.29
+    },
+    {
+      "iso2": "CY",
+      "rel.inno": 47.69,
+      "rel.eu": 58.92,
+      "rel.top3": 33.24,
+      "rel.cn": 113.37,
+      "rel.us": 44.08,
+      "rel.kr": 89.11,
+      "rel.jp": 51.56
+    },
+    {
+      "iso2": "CZ",
+      "rel.inno": 65.27,
+      "rel.eu": 84.85,
+      "rel.top3": 42.85,
+      "rel.cn": 175.74,
+      "rel.us": 84.34,
+      "rel.kr": 58.7,
+      "rel.jp": 86.78
+    },
+    {
+      "iso2": "DE",
+      "rel.inno": 90.25,
+      "rel.eu": 140.28,
+      "rel.top3": 58.39,
+      "rel.cn": 475.66,
+      "rel.us": 114.91,
+      "rel.kr": 181.37,
+      "rel.jp": 176.16
+    },
+    {
+      "iso2": "DK",
+      "rel.inno": 104.8,
+      "rel.eu": 173.35,
+      "rel.top3": 68.66,
+      "rel.cn": 665.78,
+      "rel.us": 149.75,
+      "rel.kr": 668.66,
+      "rel.jp": 203.43
+    },
+    {
+      "iso2": "EE",
+      "rel.inno": 108.83,
+      "rel.eu": 138.4,
+      "rel.top3": 49.38,
+      "rel.cn": 252.5,
+      "rel.us": 99.2,
+      "rel.kr": 147.48,
+      "rel.jp": 914.46
+    },
+    {
+      "iso2": "GR",
+      "rel.inno": 52.94,
+      "rel.eu": 67.81,
+      "rel.top3": 35.29,
+      "rel.cn": 145.41,
+      "rel.us": 67.93,
+      "rel.kr": 62.4,
+      "rel.jp": 112.26
+    },
+    {
+      "iso2": "ES",
+      "rel.inno": 54.61,
+      "rel.eu": 71.1,
+      "rel.top3": 36.95,
+      "rel.cn": 157.93,
+      "rel.us": 64.85,
+      "rel.kr": 59.7,
+      "rel.jp": 78.64
+    },
+    {
+      "iso2": "EU27_2020",
+      "rel.inno": 81.8,
+      "rel.eu": 107.65,
+      "rel.top3": 55.27,
+      "rel.cn": 610.31,
+      "rel.us": 86.41,
+      "rel.kr": 58.04,
+      "rel.jp": 57.45
+    },
+    {
+      "iso2": "FI",
+      "rel.inno": 99.95,
+      "rel.eu": 155.69,
+      "rel.top3": 62.92,
+      "rel.cn": 528.99,
+      "rel.us": 128.2,
+      "rel.kr": 188.19,
+      "rel.jp": 277.29
+    },
+    {
+      "iso2": "FR",
+      "rel.inno": 68.82,
+      "rel.eu": 100.77,
+      "rel.top3": 44.6,
+      "rel.cn": 290.92,
+      "rel.us": 83.99,
+      "rel.kr": 146.38,
+      "rel.jp": 150.51
+    },
+    {
+      "iso2": "HR",
+      "rel.inno": 56.49,
+      "rel.eu": 68.77,
+      "rel.top3": 32.75,
+      "rel.cn": 103.01,
+      "rel.us": 45.57,
+      "rel.kr": 49.38,
+      "rel.jp": 210.87
+    },
+    {
+      "iso2": "HU",
+      "rel.inno": 55.06,
+      "rel.eu": 70.14,
+      "rel.top3": 36.65,
+      "rel.cn": 130.72,
+      "rel.us": 70.73,
+      "rel.kr": 45.86,
+      "rel.jp": 57.04
+    },
+    {
+      "iso2": "IE",
+      "rel.inno": 86.13,
+      "rel.eu": 123.81,
+      "rel.top3": 55.9,
+      "rel.cn": 348.35,
+      "rel.us": 102.7,
+      "rel.kr": 405.35,
+      "rel.jp": 156.94
+    },
+    {
+      "iso2": "IL",
+      "rel.inno": 125.72,
+      "rel.eu": 212.11,
+      "rel.top3": 65.21,
+      "rel.cn": 543.51,
+      "rel.us": 121.98,
+      "rel.kr": 205.68,
+      "rel.jp": 482.77
+    },
+    {
+      "iso2": "IN",
+      "rel.inno": 40.18,
+      "rel.eu": 47.16,
+      "rel.top3": 14.11,
+      "rel.cn": 45.02,
+      "rel.us": 22.63,
+      "rel.kr": 50.71,
+      "rel.jp": 428.95
+    },
+    {
+      "iso2": "IS",
+      "rel.inno": 69.89,
+      "rel.eu": 118.08,
+      "rel.top3": 47.28,
+      "rel.cn": 387.95,
+      "rel.us": 106.5,
+      "rel.kr": 282.59,
+      "rel.jp": 113.86
+    },
+    {
+      "iso2": "IT",
+      "rel.inno": 55.92,
+      "rel.eu": 76.58,
+      "rel.top3": 37.8,
+      "rel.cn": 201.39,
+      "rel.us": 62.9,
+      "rel.kr": 144.39,
+      "rel.jp": 64.12
+    },
+    {
+      "iso2": "JP",
+      "rel.inno": 100.85,
+      "rel.eu": 173.04,
+      "rel.top3": 60.54,
+      "rel.cn": 586.67,
+      "rel.us": 118.71,
+      "rel.kr": 83.65,
+      "rel.jp": 100
+    },
+    {
+      "iso2": "KR",
+      "rel.inno": 109.4,
+      "rel.eu": 180.86,
+      "rel.top3": 66.45,
+      "rel.cn": 481.26,
+      "rel.us": 123.51,
+      "rel.kr": 100,
+      "rel.jp": 183.22
+    },
+    {
+      "iso2": "LT",
+      "rel.inno": 71.23,
+      "rel.eu": 88.05,
+      "rel.top3": 40.17,
+      "rel.cn": 172.02,
+      "rel.us": 80.08,
+      "rel.kr": 80.44,
+      "rel.jp": 357.86
+    },
+    {
+      "iso2": "LU",
+      "rel.inno": 78.17,
+      "rel.eu": 122.22,
+      "rel.top3": 52.24,
+      "rel.cn": 462.12,
+      "rel.us": 115.57,
+      "rel.kr": 358.41,
+      "rel.jp": 194.43
+    },
+    {
+      "iso2": "LV",
+      "rel.inno": 40.56,
+      "rel.eu": 49.97,
+      "rel.top3": 28.45,
+      "rel.cn": 108.06,
+      "rel.us": 52.57,
+      "rel.kr": 34.86,
+      "rel.jp": 43.48
+    },
+    {
+      "iso2": "MT",
+      "rel.inno": 49.18,
+      "rel.eu": 62.67,
+      "rel.top3": 33.76,
+      "rel.cn": 126.52,
+      "rel.us": 50.54,
+      "rel.kr": 36.75,
+      "rel.jp": 48.53
+    },
+    {
+      "iso2": "MX",
+      "rel.inno": 31.47,
+      "rel.eu": 34.72,
+      "rel.top3": 17.75,
+      "rel.cn": 32.03,
+      "rel.us": 30.08,
+      "rel.kr": 24.54,
+      "rel.jp": 66.07
+    },
+    {
+      "iso2": "NL",
+      "rel.inno": 93.67,
+      "rel.eu": 156.56,
+      "rel.top3": 60.23,
+      "rel.cn": 608.6,
+      "rel.us": 121.5,
+      "rel.kr": 957.95,
+      "rel.jp": 184.39
+    },
+    {
+      "iso2": "NO",
+      "rel.inno": 72.88,
+      "rel.eu": 117.94,
+      "rel.top3": 49.69,
+      "rel.cn": 384.71,
+      "rel.us": 110.97,
+      "rel.kr": 180.58,
+      "rel.jp": 150.57
+    },
+    {
+      "iso2": "NZ",
+      "rel.inno": 48.04,
+      "rel.eu": 75.89,
+      "rel.top3": 32.37,
+      "rel.cn": 226.02,
+      "rel.us": 77.96,
+      "rel.kr": 135.26,
+      "rel.jp": 76.77
+    },
+    {
+      "iso2": "PL",
+      "rel.inno": 48.15,
+      "rel.eu": 61.53,
+      "rel.top3": 32.75,
+      "rel.cn": 123.52,
+      "rel.us": 62.62,
+      "rel.kr": 41.47,
+      "rel.jp": 52.52
+    },
+    {
+      "iso2": "PT",
+      "rel.inno": 59.59,
+      "rel.eu": 81.48,
+      "rel.top3": 41.05,
+      "rel.cn": 183.22,
+      "rel.us": 80.98,
+      "rel.kr": 59.22,
+      "rel.jp": 78.22
+    },
+    {
+      "iso2": "RO",
+      "rel.inno": 34.56,
+      "rel.eu": 40.06,
+      "rel.top3": 22.84,
+      "rel.cn": 51.16,
+      "rel.us": 37.51,
+      "rel.kr": 25.1,
+      "rel.jp": 29.8
+    },
+    {
+      "iso2": "SE",
+      "rel.inno": 111.09,
+      "rel.eu": 184.93,
+      "rel.top3": 70.49,
+      "rel.cn": 679.15,
+      "rel.us": 143.04,
+      "rel.kr": 495.21,
+      "rel.jp": 258.7
+    },
+    {
+      "iso2": "SI",
+      "rel.inno": 64.34,
+      "rel.eu": 88.53,
+      "rel.top3": 43.67,
+      "rel.cn": 224.02,
+      "rel.us": 85.34,
+      "rel.kr": 128.81,
+      "rel.jp": 82.95
+    },
+    {
+      "iso2": "SK",
+      "rel.inno": 55.42,
+      "rel.eu": 66.61,
+      "rel.top3": 36.78,
+      "rel.cn": 121.67,
+      "rel.us": 73.39,
+      "rel.kr": 47.24,
+      "rel.jp": 57.12
+    },
+    {
+      "iso2": "TR",
+      "rel.inno": 40.23,
+      "rel.eu": 49.74,
+      "rel.top3": 24.23,
+      "rel.cn": 75.26,
+      "rel.us": 39.17,
+      "rel.kr": 30.94,
+      "rel.jp": 82.33
+    },
+    {
+      "iso2": "GB",
+      "rel.inno": 98.7,
+      "rel.eu": 145.81,
+      "rel.top3": 59.89,
+      "rel.cn": 407.81,
+      "rel.us": 110.45,
+      "rel.kr": 821.11,
+      "rel.jp": 276.99
+    },
+    {
+      "iso2": "US",
+      "rel.inno": 103.68,
+      "rel.eu": 171.61,
+      "rel.top3": 55.95,
+      "rel.cn": 440.97,
+      "rel.us": 100,
+      "rel.kr": 493.98,
+      "rel.jp": 370.08
+    }
+  ]
+}

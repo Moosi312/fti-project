@@ -1,0 +1,115 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 5040090, 2022-06-01T07:15:59-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed fonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: TTNormsPro-Lt by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/light/
+ *
+ * Webfont: TTNormsPro-LtIt by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/light-ital/
+ *
+ * Webfont: TTNormsPro-Rg by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/regular/
+ *
+ * Webfont: TTNormsPro-It by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/ital/
+ *
+ * Webfont: TTNormsPro-Md by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/medium/
+ *
+ * Webfont: TTNormsPro-MdIt by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/med-ital/
+ *
+ * Webfont: TTNormsPro-Bd by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/bold/
+ *
+ * Webfont: TTNormsPro-BdIt by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-norms/bold-ital/
+ *
+ *
+ * fonts copyright: Copyright (c) 2016-2021 by TypeType. All rights reserved.
+ *
+ * © 2022 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+/* @import url("//hello.myfonts.net/count/4ce7da"); */
+
+@font-face {
+  font-family: "TTNormsPro-LtIt";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProLtIt/font.woff2') format('woff2'), url('/fonts/TTNormsProLtIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TTNormsPro-Bd";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProBd/font.woff2') format('woff2'), url('/fonts/TTNormsProBd/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TTNormsPro-It";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProIt/font.woff2') format('woff2'), url('/fonts/TTNormsProIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TTNormsPro-Lt";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProLt/font.woff2') format('woff2'), url('/fonts/TTNormsProLt/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TTNormsPro-BdIt";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProBdIt/font.woff2') format('woff2'), url('/fonts/TTNormsProBdIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TTNormsPro-MdIt";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProMdIt/font.woff2') format('woff2'), url('/fonts/TTNormsProMdIt/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TTNormsPro-Rg";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProRg/font.woff2') format('woff2'), url('/fonts/TTNormsProRg/font.woff') format('woff');
+}
+@font-face {
+  font-family: "TTNormsPro-Md";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProMd/font.woff2') format('woff2'), url('/fonts/TTNormsProMd/font.woff') format('woff');
+}
+
+
+
+/* CUSTOM */
+@font-face {
+  font-family: "TTNormsPro";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProRg/font.woff2') format('woff2'), url('/fonts/TTNormsProRg/font.woff') format('woff');
+}
+
+@font-face {
+  font-family: "TTNormsPro";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProBd/font.woff2') format('woff2'), url('/fonts/TTNormsProBd/font.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "TTNormsPro";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProIt/font.woff2') format('woff2'), url('/fonts/TTNormsProIt/font.woff') format('woff');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TTNormsPro";
+  /* webpackIgnore: true */
+  src: url('/fonts/TTNormsProBdIt/font.woff2') format('woff2'), url('/fonts/TTNormsProBdIt/font.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}

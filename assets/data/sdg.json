@@ -1,0 +1,358 @@
+[
+    {
+        "no": 3,
+        "name": "Good health and well-being",
+        "sub-no": 1,
+        "subtheme": "Healthy lives",
+        "indicator": "Healthy life years at birth",
+        "name-de": "Gesundheit und Wohlergehen",
+        "subtheme-de": "Gesundes Leben",
+        "indicator-de": "Gesunde Lebensjahre bei der Geburt",
+        "indicator-no": "3.11",
+        "bereiche": [
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=03&indicator=03.11&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#4C9F38"
+    },
+    {
+        "no": 4,
+        "name": "Quality education",
+        "sub-no": 1,
+        "subtheme": "Basic education",
+        "indicator": "Low achieving 15-year-olds in reading",
+        "name-de": "Hochwertige Bildung",
+        "subtheme-de": "Grundbildung",
+        "indicator-de": "15-Jährige mit schlechten Leistungen im Lesen",
+        "indicator-no": "4.40",
+        "bereiche": [
+            "A2",
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=04&indicator=04.40&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#C5192D"
+    },
+    {
+        "no": 4,
+        "name": "Quality education",
+        "sub-no": 1,
+        "subtheme": "Basic education",
+        "indicator": "Participation in early childhood education",
+        "name-de": "Hochwertige Bildung",
+        "subtheme-de": "Grundbildung",
+        "indicator-de": "Teilnahme an Vorschulbildung",
+        "indicator-no": "4.31",
+        "bereiche": [
+            "A2"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=04&indicator=04.31&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#C5192D"
+    },
+    {
+        "no": 4,
+        "name": "Quality education",
+        "sub-no": 1,
+        "subtheme": "Basic education",
+        "indicator": "Early leavers from education and training",
+        "name-de": "Hochwertige Bildung",
+        "subtheme-de": "Grundbildung",
+        "indicator-de": "Frühzeitige Schul- und Ausbildungsabgänger",
+        "indicator-no": "4.10",
+        "bereiche": [
+            "A2",
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=04&indicator=04.10&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#C5192D"
+    },
+    {
+        "no": 4,
+        "name": "Quality education",
+        "sub-no": 2,
+        "subtheme": "Tertiary education",
+        "indicator": "Tertiary educational attainment",
+        "name-de": "Hochwertige Bildung",
+        "subtheme-de": "Tertiäre Bildung",
+        "indicator-de": "Bildungsabschluss im Tertiärbereich",
+        "indicator-no": "4.20",
+        "bereiche": [
+            "B1",
+            "C4",
+            "D2"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=04&indicator=04.20&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#C5192D"
+    },
+    {
+        "no": 4,
+        "name": "Quality education",
+        "sub-no": 3,
+        "subtheme": "Adult learning",
+        "indicator": "Adult participation in learning",
+        "name-de": "Hochwertige Bildung",
+        "subtheme-de": "Erwachsenenlernen",
+        "indicator-de": "Beteiligung Erwachsener an Bildungsmaßnahmen",
+        "indicator-no": "4.60",
+        "bereiche": [
+            "C1",
+            "C4"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=04&indicator=04.60&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#C5192D"
+    },
+    {
+        "no": 5,
+        "name": "Gender equality",
+        "sub-no": 2,
+        "subtheme": "Education",
+        "indicator": "Gender gap for early leavers from education and training",
+        "name-de": "Geschlechtergerechtigkeit",
+        "subtheme-de": "Bildung",
+        "indicator-de": "Frühzeitige Schul- und Ausbildungsabgänger nach Geschlecht",
+        "indicator-no": "4.10",
+        "bereiche": [
+            "A2",
+            "C5"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=05&indicator=04.10&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#FF3A21"
+    },
+    {
+        "no": 5,
+        "name": "Gender equality",
+        "sub-no": 2,
+        "subtheme": "Education",
+        "indicator": "Gender gap for tertiary educational attainment",
+        "name-de": "Geschlechtergerechtigkeit",
+        "subtheme-de": "Bildung",
+        "indicator-de": "Bildungsabschluss im Tertiärbereich nach Geschlecht",
+        "indicator-no": "4.20",
+        "bereiche": [
+            "B1",
+            "C5"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=05&indicator=04.20&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#FF3A21"
+    },
+    {
+        "no": 8,
+        "name": "Decent work and economic growth",
+        "sub-no": 1,
+        "subtheme": "Sustainable economic growth",
+        "indicator": "Real GDP per capita",
+        "name-de": "Menschenwürdige Arbeit und Wirtschaftswachstum",
+        "subtheme-de": "Nachhaltiges Wirtschaftswachstum",
+        "indicator-de": "Reales BIP pro Kopf",
+        "indicator-no": "8.10",
+        "bereiche": [
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=08&indicator=08.10&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#A21942"
+    },
+    {
+        "no": 8,
+        "name": "Decent work and economic growth",
+        "sub-no": 2,
+        "subtheme": "Employment",
+        "indicator": "Young people neither in employment nor in education and training (NEET)",
+        "name-de": "Menschenwürdige Arbeit und Wirtschaftswachstum",
+        "subtheme-de": "Beschäftigung",
+        "indicator-de": "Jugendliche, weder beschäftigt noch in Aus- oder Weiterbildung (NEET)",
+        "indicator-no": "8.20",
+        "bereiche": [
+            "A2",
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=08&indicator=08.20&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#A21942"
+    },
+    {
+        "no": 9,
+        "name": "Industry, innovation and infrastructure",
+        "sub-no": 1,
+        "subtheme": "R&D and innovation",
+        "indicator": "Gross domestic expenditure on R&D",
+        "name-de": "Industrie, Innovation und Infrastruktur",
+        "subtheme-de": "F&E und Innovation",
+        "indicator-de": "Bruttoinlandsaufwendungen für F&E",
+        "indicator-no": "9.10",
+        "bereiche": [
+            "B5",
+            "C4"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=09&indicator=09.10&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#FD6925"
+    },
+    {
+        "no": 9,
+        "name": "Industry, innovation and infrastructure",
+        "sub-no": 1,
+        "subtheme": "R&D and innovation",
+        "indicator": "Patent applications to the European Patent Office (EPO)",
+        "name-de": "Industrie, Innovation und Infrastruktur",
+        "subtheme-de": "F&E und Innovation",
+        "indicator-de": "Patentanmeldungen beim Europäischen Patentamt (EPO)",
+        "indicator-no": "9.40",
+        "bereiche": [
+            "A3",
+            "B3",
+            "C3",
+            "C6"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=09&indicator=09.40&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#FD6925"
+    },
+    {
+        "no": 9,
+        "name": "Industry, innovation and infrastructure",
+        "sub-no": 1,
+        "subtheme": "R&D and innovation",
+        "indicator": "R&D personnel",
+        "name-de": "Industrie, Innovation und Infrastruktur",
+        "subtheme-de": "F&E und Innovation",
+        "indicator-de": "F&E-Personal",
+        "indicator-no": "9.30",
+        "bereiche": [
+            "B1",
+            "B2",
+            "B3",
+            "C5",
+            "D2"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=09&indicator=09.30&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#FD6925"
+    },
+    {
+        "no": 9,
+        "name": "Industry, innovation and infrastructure",
+        "sub-no": 1,
+        "subtheme": "R&D and innovation",
+        "indicator": "Tertiary educational attainment",
+        "name-de": "Industrie, Innovation und Infrastruktur",
+        "subtheme-de": "F&E und Innovation",
+        "indicator-de": "Bildungsabschluss im Tertiärbereich",
+        "indicator-no": "4.20",
+        "bereiche": [
+            "C4",
+            "D2"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=09&indicator=04.20&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#FD6925"
+    },
+    {
+        "no": 12,
+        "name": "Responsible consumption and production",
+        "sub-no": 1,
+        "subtheme": "Decoupling environmental pressures from economic growth",
+        "indicator": "Energy productivity (€ per kgoe)",
+        "name-de": "Nachhaltiger Konsum und Produktion",
+        "subtheme-de": "Umweltbelastung von Wirtschaftswachstum entkoppeln",
+        "indicator-de": "Energieproduktivität",
+        "indicator-no": "7.30",
+        "bereiche": [
+            "C2",
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=12&indicator=07.30&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#BF8B2E"
+    },
+    {
+        "no": 12,
+        "name": "Responsible consumption and production",
+        "sub-no": 3,
+        "subtheme": "Waste generation and management",
+        "indicator": "Circular material use rate",
+        "name-de": "Nachhaltiger Konsum und Produktion",
+        "subtheme-de": "Abfallenstehung und -management",
+        "indicator-de": "Rohstoffverbrauch (RMC)",
+        "indicator-no": "12.21",
+        "bereiche": [
+            "C2",
+            "C3"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=12&indicator=12.21&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#BF8B2E"
+    },
+    {
+        "no": 12,
+        "name": "Responsible consumption and production",
+        "sub-no": 3,
+        "subtheme": "Waste generation and management",
+        "indicator": "Generation of waste",
+        "name-de": "Nachhaltiger Konsum und Produktion",
+        "subtheme-de": "Abfallenstehung und -management",
+        "indicator-de": "Abfallaufkommen",
+        "indicator-no": "12.51",
+        "bereiche": [
+            "C3"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=12&indicator=12.51&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#BF8B2E"
+    },
+    {
+        "no": 13,
+        "name": "Climate action",
+        "sub-no": 1,
+        "subtheme": "Climate mitigation",
+        "indicator": "Net greenhouse gas emissions",
+        "name-de": "Maßnahmen zum Klimaschutz",
+        "subtheme-de": "Klimaschutz",
+        "indicator-de": "Netto-THG-Emissionen",
+        "indicator-no": "13.10",
+        "bereiche": [
+            "C2",
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=13&indicator=13.10&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#3F7E44"
+    },
+    {
+        "no": 16,
+        "name": "Peace, justice and strong institutions",
+        "sub-no": 2,
+        "subtheme": "Access to justice",
+        "indicator": "General government total expenditure on law courts",
+        "name-de": "Frieden, Gerechtigkeit und starke Institutionen",
+        "subtheme-de": "Zugang zur Justiz",
+        "indicator-de": "Gesamtausgaben des Staates für Gerichte",
+        "indicator-no": "16.30",
+        "bereiche": [
+            "C4"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=16&indicator=16.30&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#00689D"
+    },
+    {
+        "no": 16,
+        "name": "Peace, justice and strong institutions",
+        "sub-no": 3,
+        "subtheme": "Trust in institutions",
+        "indicator": "Corruption Perceptions Index",
+        "name-de": "Frieden, Gerechtigkeit und starke Institutionen",
+        "subtheme-de": "Vertrauen in Institutionen",
+        "indicator-de": "Index der Korruptionswahrnehmung",
+        "indicator-no": "16.50",
+        "bereiche": [
+            "C4"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=16&indicator=16.50&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#00689D"
+    },
+    {
+        "no": 17,
+        "name": "Partnerships for the goals",
+        "sub-no": 2,
+        "subtheme": "Financial governance within the EU",
+        "indicator": "General government gross debt",
+        "name-de": "Partnerschaft zur Erreichung der Ziele",
+        "subtheme-de": "Finanzielles Gebaren in der EU",
+        "indicator-de": "Öffentlicher Bruttoschuldenstand",
+        "indicator-no": "17.40",
+        "bereiche": [
+            "D1"
+        ],
+        "url": "https://ec.europa.eu/eurostat/cache/website/sdg/sdg_indicators/index.html?goal=17&indicator=17.40&countries=EU27_2020,AT,BE,DK,FI,NL,SE&lang=de",
+        "color": "#19486A"
+    }
+]

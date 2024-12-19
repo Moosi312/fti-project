@@ -1,0 +1,28 @@
+// $container-max-widths: (
+//     sm: 540px,
+//     md: 720px,
+//     lg: 960px,
+//     xl: 1140px,
+//     xxl: 1520px
+// );
+//
+//
+@import "~bootstrap/scss/bootstrap";
+
+// @import 'bootstrap/dist/css/bootstrap.min.css';
+
+@include media-breakpoint-down(md) {
+    #menu {
+        width: 400px;
+        margin: 0 auto;
+    }
+}
+
+.btn-sm {
+    --bs-btn-border-radius: 10px;
+}
+
+.btn {
+    padding-bottom: 0px;
+    padding-top: 2px;
+}

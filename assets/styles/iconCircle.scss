@@ -1,0 +1,87 @@
+g.iconCircle {
+    font-size: 11px;
+    font-weight: bold;
+    fill: #FFF;
+
+    cursor: pointer;
+
+    @each $name, $color in $colors {
+        &.color-#{$name} circle.fore {
+            //fill: $color;
+            stroke: $color;
+        }
+    }
+
+    circle.fore {
+        stroke-width: 8px;
+    }
+
+    circle.back {
+        stroke: #000;
+        fill: #FFF;
+    }
+
+    > g > circle.back {
+        fill: #FFF;
+        stroke: #FFF;
+    }
+
+    > g > text {
+        fill: #000;
+    }
+
+    text, circle,
+    svg.icon > g,
+    svg.icon > path {
+        transition: 0.5s ease;
+    }
+
+    &.activated,
+    &:hover {
+        transition: 1s;
+        svg.icon {
+            > g,
+            > path {
+                fill: white;
+            }
+        }
+        text {
+            fill: white;
+        }
+        // circle {
+        //     // fill: map.get($colors, "g2");
+        //     fill: #333;
+        // }
+
+        @each $name, $color in $colors {
+            &.color-#{$name} circle.fore {
+                fill: darken($color, 10);
+                // fill: darken(saturate($color, 100), 10);
+                // stroke: $color;
+            }
+        }
+    }
+}
+
+#system-bar-chart .icons .icon {
+    path {
+        fill: map.get($colors, "b1");
+        // fill: map.get($colors, "b2");
+    }
+    circle {
+        fill: #FFF;
+    }
+    &.activated {
+        circle {
+            fill: map.get($colors, "blue_rfte");
+        }
+        path {
+            fill: #FFF;
+        }
+    }
+}
+
+#icon-icon_FTISystem1, #icon-icon_FTISystem2 {
+    .st0{fill:none;stroke:#000000;stroke-width:2.5;stroke-miterlimit:10;}
+    .st1{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+}

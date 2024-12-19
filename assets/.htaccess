@@ -1,0 +1,27 @@
+RewriteEngine on
+
+# RewriteCond %{HTTPS} != on
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+#ewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{HTTP_HOST} ^fti-monitor.rfte\.at$
+RewriteRule ^(.*)$ https://fti-monitor.forwit.at/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} ^/2022
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /2022/index.html [L,QSA]
+
+RewriteCond %{REQUEST_URI} ^/2023
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /2023/index.html [L,QSA]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.html [L,QSA]
+
+

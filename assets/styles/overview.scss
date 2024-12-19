@@ -1,0 +1,210 @@
+@use "sass:map";
+
+div.overview {
+    z-index: 1;
+    padding: 0;
+
+    svg.overview {
+        margin: auto;
+        display: block;
+
+        g.iconCircleGroup > circle.back {
+            stroke: map.get($colors, "g2");
+            // stroke-width: 3px;
+            // fill: rgba(255,255,255,0.4);
+            fill: white;
+        }
+
+        .fti-full {
+            stroke: none;
+            fill: map.get($colors, "c6");
+        }
+
+        .arrows {
+            stroke: map.get($colors, "g2");
+            // stroke: #999;
+            stroke-width: 4px;
+        }
+
+        #arrowhead {
+            stroke: none;
+            fill: map.get($colors, "g2");
+            stroke-width: 0
+            // fill: #999;
+        }
+
+
+        // path.arc {
+        //     fill: map.get($colors, "g2");
+        // }
+
+        g.fti-full-text > text {
+            fill: map.get($colors, "g2");
+            text-anchor: middle;
+
+            &:nth-child(1) {
+                font-weight: bold;
+            }
+        }
+
+        g.group > text {
+            fill: map.get($colors, "b1");
+            text-anchor: middle;
+
+            &:nth-child(1) {
+                font-weight: bold;
+            }
+
+            @for $i from 1 through 3 {
+                &:nth-child(#{$i + 1}) {
+                    transform: translate(0, $i * 16px);
+                }
+            }
+        }
+        g.group.green {
+            text {
+                // font-weight: bold;
+                fill: #2f795e;
+
+                &:nth-child(2) {
+                    font-weight: bold;
+                }
+            }
+            // path {
+            //     stroke: #2f795e;
+            //     stroke-width: 6;
+            // }
+            g.ecto {
+                .back {
+                    fill: transparent
+                }
+                circle {
+                    stroke: none;
+                }
+            }
+
+            > line {
+                stroke: #2f795e;
+                stroke-width: 5px;
+                stroke-dasharray: 12 4;
+            }
+        }
+        
+    }
+
+    .block .block-content {
+        background-color: transparent;
+        border: white solid 4px;
+    }
+}
+
+.badge.target {
+    display: inline-block;
+    color: black;
+    border: 1px solid black;
+    font-weight: normal;
+    font-size: 11px;
+    padding: 2px 0 0 0;
+}
+
+.block-overview-targets.block {
+    ul.parent {
+        list-style: none;
+        // list-style-position: outside;
+        font-weight: bold;
+        padding: 0px;
+        // padding-left: 14px;
+        // text-indent: -14px;
+
+        > li {
+            font-size: 13px;
+            line-height: 1.2em;
+            margin-top: 20px;
+            &:first-of-type {
+                margin-top: 7px;
+            }
+            > div {
+                margin-bottom: 5px;
+                text-indent: 1px;
+                margin-left: 5px;
+            }
+
+            ul {
+                margin-top: 5px;
+                list-style: none;
+                padding: 0px;
+                margin-bottom: 10px;
+                //margin-left: -20px;
+                font-weight: normal;
+            }
+        }
+
+    }
+}
+
+// .badge-container {
+//     position: absolute;
+//     width: 40px;
+//     text-align: center;
+
+//     .badge.target {
+//         //g: -3px;
+//         // right: 0px;
+//         width: 36px;
+//         text-align: center;
+//     }
+// }
+
+
+
+li.target {
+    // margin: 0px;
+    margin: 0px 2px 3px 0;
+    position: relative;
+
+    svg {
+        position: absolute;
+    }
+
+    .target {
+        position: absolute;
+        left: 20px;
+        font-size: 12px;
+        padding: 3px 3px 1px 3px;
+        // font-weight: bold;
+    }
+
+    .text {
+        display: block;
+        position: relative;
+        left: 55px;
+        margin-right: 50px;
+        top: 2px;
+    }
+    line-height: 1.1em;
+    font-size: 13px;
+    //padding: 3px;
+    padding: 2px 2px 2px 0;
+
+    &.highlighted,
+    &:hover {
+        span {
+            &.target {
+                font-weight: bold;
+                color: white;
+                background: #291F6C;
+            }
+            &.text {
+                color: #291F6C;
+            }
+        }
+        .pie-small-chart {
+            circle {
+                stroke: map.get($colors, "blue_rfte");
+            }
+            path.pie-fg {
+                fill: map.get($colors, "blue_rfte");
+            }
+        }
+    }
+}

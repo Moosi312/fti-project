@@ -1,0 +1,182 @@
+
+svg.legend {
+    text {
+        font-size: 13px;
+        fill: map.get($colors, "b1");
+    }
+}
+
+svg.bar-chart, svg.single-chart, svg.line-chart, svg.lines-chart {
+    text {
+        font-size: 13px;
+        fill: map.get($colors, "b1");
+        letter-spacing: -0.3px;
+    }
+
+    text.wo {
+        font-size: 10px;
+        font-weight: bold;
+    }
+
+    .bars rect {
+        // fill: #BBBBBB88;
+        fill: #b5b5b566;
+        &.major {
+            fill: #b5b5b5CC;
+        }
+    }
+
+    .barsPrev rect {
+        // fill: #BBBBBB88;
+        fill: #b5b5b540;
+    }
+
+    // .prev {
+    //     opacity: 0.5;
+    // }
+
+    .x-100 line {
+        stroke-width: 1;
+        stroke: #00000044;
+    }
+
+    .s {
+        rect {
+            fill: #77777787;
+        }
+        text {
+            font-weight: bold;
+            dominant-baseline: middle;
+        }
+    }
+}
+
+svg.single-chart {
+    .y-axis .tick text {
+        // font-size: 17px;
+        letter-spacing: 0px;
+    }
+
+    .x-axis path.domain {
+        visibility: hidden;
+    }
+
+    .x-100 line {
+        stroke-width: 1;
+        stroke: #333;
+    }
+
+    g > g.circle {
+        circle {
+            fill: #FFF;
+            stroke-width: 5px;
+            text-anchor: middle;
+        }
+        text {
+            text-anchor: middle;
+            dominant-baseline: central;
+            font-weight: bold;
+            font-size: 12px;
+        }
+    }
+}
+
+svg.pie-chart {
+    text {
+        font-size: 14px;
+    }
+}
+
+
+
+
+
+
+// svg.bar-chart0 {
+//     g.tick line {
+//         stroke: #CCC;
+//     }
+//     .y-axis path {
+//         stroke: #CCC !important;
+//     }
+// }
+
+.map-container {
+    position: relative; 
+    .europe-map-info {
+        font-weight: bold;
+        font-size: 1.1em;
+        color: map.get($colors, "b1");
+    }
+}
+
+.map-control {
+    position: absolute; 
+    bottom: 8px; 
+    right: 250px;
+    .btn-sm {
+        --bs-btn-padding-y: 0.05rem;
+        --bs-btn-padding-x: 0.2rem;
+        font-size: 11px;
+    }
+}
+
+
+
+.lines-chart {
+    .legend {
+        margin-bottom: 15px;
+        text-align: center;
+        > div {
+            display: inline-block;
+            margin: 0 10px;
+            // width: 170px;
+            span {
+                margin-left: 5px;
+                display: inline-block;
+                font-size: 13px;
+            }
+        }
+    }
+    svg.lines-chart {
+        g.data path { stroke-width: 3; }
+    }
+}
+
+.pie-small-chart {
+    circle {
+        fill: none;
+        stroke: black;
+        stroke-width: 2;
+    }
+    path.pie-fg {
+        fill: map.get($colors, "b1");
+    }
+    path.pie-bg {
+        fill: map.get($colors, "w");
+    }
+}
+
+svg.line-chart {
+    g.paths {
+        path {
+            fill: none;
+            stroke: black;
+            stroke-width: 3;
+            &.type-p {
+                stroke-dasharray: 4;
+            }
+        }
+    }
+
+}
+
+svg.bar-chart .y-axis circle, svg.bar-chart .l circle  {
+    stroke: black;
+    &.i {
+        fill: transparent
+    }
+    &.o {
+        fill: black
+    }
+}

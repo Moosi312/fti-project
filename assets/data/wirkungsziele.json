@@ -1,0 +1,494 @@
+[
+    {
+        "nr": "1",
+        "name": "Hoher Nutzen der (digitalen) Informations- und Serviceleistungen",
+        "topicIds": [
+            "C1"
+        ],
+        "ug": {
+            "nr": 10,
+            "name": "Bundeskanzleramt"
+        },
+        "org": {
+            "name": "Bundeskanzleramt",
+            "short": "BKA"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bka-ug-10-w0001"
+    },
+    {
+        "nr": "2",
+        "name": "Sicherstellung öst. Interessen in Außen-, Sicherheits-, Europa- und Wirtschaftspolitik und Wirtschaftsfragen",
+        "topicIds": [
+            "C6"
+        ],
+        "ug": {
+            "nr": 12,
+            "name": "Äußeres"
+        },
+        "org": {
+            "name": "Bundesministerium für europäische und internationale Angelegenheiten",
+            "short": "BMEIA"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmeia-ug-12-w0002"
+    },
+    {
+        "nr": "4",
+        "name": "Erweiterung des eGovernment",
+        "topicIds": [
+            "C1"
+        ],
+        "ug": {
+            "nr": 15,
+            "name": "Finanzverwaltung"
+        },
+        "org": {
+            "name": "Bundesministerium für Finanzen",
+            "short": "BMF"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmf-ug-15-w0004"
+    },
+    {
+        "nr": "1",
+        "name": "Verbesserung der Wettbewerbsfähigkeit Österreichs mit einem weiter optimierten Steuersystem im internationalen Kontext mit Aufkommensrelevanz",
+        "topicIds": [
+            "A1",
+            "A3"
+        ],
+        "ug": {
+            "nr": 16,
+            "name": "Öffentliche Abgaben"
+        },
+        "org": {
+            "name": "Bundesministerium für Finanzen",
+            "short": "BMF"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmf-ug-16-w0001"
+    },
+    {
+        "nr": "2",
+        "name": "Innovation in der Bundesverwaltung",
+        "topicIds": [
+            "C4"
+        ],
+        "ug": {
+            "nr": 17,
+            "name": "Öffentlicher Dienst"
+        },
+        "org": {
+            "name": "Bundesministerium für Kunst, Kultur, öffentlichen Dienst und Sport",
+            "short": "BMKÖS"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmkoes-ug-17-w0002"
+    },
+    {
+        "nr": "2",
+        "name": "Bedarfs- und Qualitätsorientierung im Bereich der legalen Migration",
+        "topicIds": [
+            "C4"
+        ],
+        "ug": {
+            "nr": 18,
+            "name": "Fremdenwesen"
+        },
+        "org": {
+            "name": "Bundesministerium für Inneres",
+            "short": "BMI"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmi-ug-18-w0002"
+    },
+    {
+        "nr": "1",
+        "name": "Erhöhung des Leistungs- und Bildungsniveaus der Schüler:innen und von Zielgruppen in der Erwachsenenbildung",
+        "topicIds": [
+            "A2"
+        ],
+        "ug": {
+            "nr": 30,
+            "name": "Bildung"
+        },
+        "org": {
+            "name": "Bundesministerium für Bildung, Wissenschaft und Forschung",
+            "short": "BMBWF"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmbwf-ug-30-w0001"
+    },
+    {
+        "nr": "2",
+        "name": "Verbesserung der Chancen- und Geschlechtergerechtigkeit im Bildungswesen",
+        "topicIds": [
+            "A2",
+            "C5"
+        ],
+        "ug": {
+            "nr": 30,
+            "name": "Bildung"
+        },
+        "org": {
+            "name": "Bundesministerium für Bildung, Wissenschaft und Forschung",
+            "short": "BMBWF"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmbwf-ug-30-w0002"
+    },
+    {
+        "nr": "3",
+        "name": "Steigerung der Effizienz und Effektivität in der Schulorganisation und Bildungsverwaltung",
+        "topicIds": [
+            "A2"
+        ],
+        "ug": {
+            "nr": 30,
+            "name": "Bildung"
+        },
+        "org": {
+            "name": "Bundesministerium für Bildung, Wissenschaft und Forschung",
+            "short": "BMBWF"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmbwf-ug-30-w0003"
+    },
+    {
+        "nr": "4",
+        "name": "Verbesserung der Bedarfsorientierung im Bildungswesen",
+        "topicIds": [
+            "A2"
+        ],
+        "ug": {
+            "nr": 30,
+            "name": "Bildung"
+        },
+        "org": {
+            "name": "Bundesministerium für Bildung, Wissenschaft und Forschung",
+            "short": "BMBWF"
+        },
+        "year": 2020,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmbwf-ug-30-w0004"
+    },
+    {
+        "nr": "1",
+        "name": "Hebung des tertiären Bildungsniveaus",
+        "topicIds": [
+            "B1"
+        ],
+        "ug": {
+            "nr": 31,
+            "name": "Wissenschaft und Forschung"
+        },
+        "org": {
+            "name": "Bundesministerium für Bildung, Wissenschaft und Forschung",
+            "short": "BMBWF"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmbwf-ug-31-w0001"
+    },
+    {
+        "nr": "2",
+        "name": "Hochschul- und Forschungsraum",
+        "topicIds": [
+            "B2"
+        ],
+        "ug": {
+            "nr": 31,
+            "name": "Wissenschaft und Forschung"
+        },
+        "org": {
+            "name": "Bundesministerium für Bildung, Wissenschaft und Forschung",
+            "short": "BMBWF"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmbwf-ug-31-w0002"
+    },
+    {
+        "nr": "3",
+        "name": "Ausgeglichene Geschlechterverhältnisse",
+        "topicIds": [
+            "C5"
+        ],
+        "ug": {
+            "nr": 31,
+            "name": "Wissenschaft und Forschung"
+        },
+        "org": {
+            "name": "Bundesministerium für Bildung, Wissenschaft und Forschung",
+            "short": "BMBWF"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmbwf-ug-31-w0003"
+    },
+    {
+        "nr": "4",
+        "name": "Spitzenforschung, exzellente Grundlagenforschung und Europäischer Forschungsraum",
+        "topicIds": [
+            "A3",
+            "B2",
+            "C6"
+        ],
+        "ug": {
+            "nr": 31,
+            "name": "Wissenschaft und Forschung"
+        },
+        "org": {
+            "name": "Bundesministerium für Bildung, Wissenschaft und Forschung",
+            "short": "BMBWF"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmbwf-ug-31-w0004"
+    },
+    {
+        "nr": "1",
+        "name": "Stärkung der Innovationskraft der österreichischen Unternehmen",
+        "topicIds": [
+            "B3",
+            "C6"
+        ],
+        "ug": {
+            "nr": 33,
+            "name": "Wirtschaft (Forschung)"
+        },
+        "org": {
+            "name": "Bundesministerium für Arbeit und Wirtschaft",
+            "short": "BMAW"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmaw-ug-33-w0001"
+    },
+    {
+        "nr": "2",
+        "name": "Bessere Entfaltung des in Österreich vorhandenen Potenzials an Innovator:innen",
+        "topicIds": [
+            "B3",
+            "B4"
+        ],
+        "ug": {
+            "nr": 33,
+            "name": "Wirtschaft (Forschung)"
+        },
+        "org": {
+            "name": "Bundesministerium für Arbeit und Wirtschaft",
+            "short": "BMAW"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmaw-ug-33-w0002"
+    },
+    {
+        "nr": "1",
+        "name": "Steigerung der FTI-Intensität des Unternehmenssektors",
+        "topicIds": [
+            "B3",
+            "C6"
+        ],
+        "ug": {
+            "nr": 34,
+            "name": "Innovation und Technologie (Forschung)"
+        },
+        "org": {
+            "name": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+            "short": "BMK"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmk-ug-34-w0001"
+    },
+    {
+        "nr": "2",
+        "name": "Entwicklung von modernen, effizienten, leistungsfähigen und sicheren Technologien",
+        "topicIds": [
+            "B2",
+            "B3",
+            "C2",
+            "C3",
+            "C6"
+        ],
+        "ug": {
+            "nr": 34,
+            "name": "Innovation und Technologie (Forschung)"
+        },
+        "org": {
+            "name": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+            "short": "BMK"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmk-ug-34-w0002"
+    },
+    {
+        "nr": "3",
+        "name": "Steigerung der Beschäftigung und Gleichstellung im FTI-Sektor",
+        "topicIds": [
+            "C5"
+        ],
+        "ug": {
+            "nr": 34,
+            "name": "Innovation und Technologie (Forschung)"
+        },
+        "org": {
+            "name": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+            "short": "BMK"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmk-ug-34-w0003"
+    },
+    {
+        "nr": "1",
+        "name": "Stärkung der Wettbewerbsfähigkeit der österreichischen Wirtschaft mit Fokus auf KMU",
+        "topicIds": [
+            "B4"
+        ],
+        "ug": {
+            "nr": 40,
+            "name": "Wirtschaft"
+        },
+        "org": {
+            "name": "Bundesministerium für Arbeit und Wirtschaft",
+            "short": "BMAW"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmaw-ug-40-w0001"
+    },
+    {
+        "nr": "2",
+        "name": "Erhöhung der Attraktivität des Wirtschaftsstandortes",
+        "topicIds": [
+            "C4",
+            "C6"
+        ],
+        "ug": {
+            "nr": 40,
+            "name": "Wirtschaft"
+        },
+        "org": {
+            "name": "Bundesministerium für Arbeit und Wirtschaft",
+            "short": "BMAW"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmaw-ug-40-w0002"
+    },
+    {
+        "nr": "3",
+        "name": "Stärkung der österreichischen Außenwirtschaft",
+        "topicIds": [
+            "A3",
+            "C6"
+        ],
+        "ug": {
+            "nr": 40,
+            "name": "Wirtschaft"
+        },
+        "org": {
+            "name": "Bundesministerium für Arbeit und Wirtschaft",
+            "short": "BMAW"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmaw-ug-40-w0003"
+    },
+    {
+        "nr": "4",
+        "name": "Steigerung des Digitalisierungsgrades zum Nutzen für die Gesellschaft, Wirtschaft und Verwaltung",
+        "topicIds": [
+            "C1"
+        ],
+        "ug": {
+            "nr": 40,
+            "name": "Finanzen"
+        },
+        "org": {
+            "name": "Bundesministerium für Finanzen",
+            "short": "BMF"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmaw-ug-40-w0004"
+    },
+    {
+        "nr": "5",
+        "name": "Stärkung der Position von Frauen insbesondere auch in technischen Berufen durch Schaffung geschlechterfreundlicher Rahmenbedingungen",
+        "topicIds": [
+            "C5"
+        ],
+        "ug": {
+            "nr": 40,
+            "name": "Wirtschaft"
+        },
+        "org": {
+            "name": "Bundesministerium für Arbeit und Wirtschaft",
+            "short": "BMAW"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmaw-ug-40-w0005"
+    },
+    {
+        "nr": "1",
+        "name": "Stärkung der innovativen Umwelt- und Energietechnologien, green jobs und der ökologischen Beschaffung",
+        "topicIds": [
+            "C2",
+            "C6"
+        ],
+        "ug": {
+            "nr": 43,
+            "name": "Klima, Umwelt und Energie"
+        },
+        "org": {
+            "name": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+            "short": "BMK"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmk-ug-43-w0001"
+    },
+    {
+        "nr": "2",
+        "name": "Weniger Treibhausgase und Realisierung eines nachhaltigen, wettbewerbsfähigen Energiesystems durch mehr erneuerbare Energie",
+        "topicIds": [
+            "C2"
+        ],
+        "ug": {
+            "nr": 43,
+            "name": "Klima, Umwelt und Energie"
+        },
+        "org": {
+            "name": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+            "short": "BMK"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmk-ug-43-w0002"
+    },
+    {
+        "nr": "3",
+        "name": "Erhaltung und Verbesserung der Umwelt- und Lebensqualität, der Biodiversität und der Ökosystemleistung",
+        "topicIds": [
+            "C2"
+        ],
+        "ug": {
+            "nr": 43,
+            "name": "Klima, Umwelt und Energie"
+        },
+        "org": {
+            "name": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+            "short": "BMK"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmk-ug-43-w0003"
+    },
+    {
+        "nr": "4",
+        "name": "Nachhaltige Nutzung von Ressourcen, Forcierung der Kreislaufwirtschaft, Entkoppelung des Anteils an zu beseitigenden Abfällen vom Wirtschaftswachstum",
+        "topicIds": [
+            "C2",
+            "C3",
+            "C6"
+        ],
+        "ug": {
+            "nr": 43,
+            "name": "Klima, Umwelt und Energie"
+        },
+        "org": {
+            "name": "Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie",
+            "short": "BMK"
+        },
+        "year": 2021,
+        "url": "https://wirkungsmonitoring.gv.at/wirkungsziel-detail/2022-bmk-ug-43-w0004"
+    }
+]

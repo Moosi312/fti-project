@@ -1,0 +1,466 @@
+{
+    "innovationLeaders": [
+        [
+            "DK"
+        ],
+        [
+            "SE"
+        ],
+        [
+            "FI"
+        ],
+        [
+            "NL"
+        ],
+        [
+            "BE"
+        ]
+    ],
+    "topics": {
+        "A1": {
+            "icon": "icon_RegulierungSteuern",
+            "name": "Regulierung, Finanz- & Steuersystem",
+            "splitted": [
+                "Regulierung,",
+                "Finanz- & Steuer-",
+                "system"
+            ]
+        },
+        "A2": {
+            "icon": "icon_Bildung",
+            "name": "Bildung",
+            "splitted": [
+                "Bildung"
+            ]
+        },
+        "A3": {
+            "icon": "icon_InternationaleVerflechung",
+            "name": "Internationale Verflechtung",
+            "splitted": [
+                "Internationale",
+                "Verflechtung"
+            ]
+        },
+        "B1": {
+            "icon": "icon_TertiaereBildung",
+            "name": "Tertiäre Bildung",
+            "splitted": [
+                "Tertiäre",
+                "Bildung"
+            ]
+        },
+        "B2": {
+            "icon": "icon_AkademischeBildung",
+            "name": "Forschung Hochschule & außeruniversitär",
+            "splitted": [
+                "Forschung Hoch-",
+                "schule & außer-",
+                "universitär"
+            ]
+        },
+        "B3": {
+            "icon": "icon_UnternehmensFTI",
+            "name": "Unternehmens-FTI",
+            "splitted": [
+                "Unternehmen",
+                "FTI"
+            ]
+        },
+        "B4": {
+            "icon": "icon_Gruendungen",
+            "name": "Gründungen",
+            "splitted": [
+                "Gründungen"
+            ]
+        },
+        "B5": {
+            "icon": "icon_Finanzierung",
+            "name": "Finanzierung",
+            "splitted": [
+                "Finanzierung"
+            ]
+        },
+        "C1": {
+            "icon": "icon_Digitalisierung",
+            "name": "Digitalisierung",
+            "splitted": [
+                "Digitali-",
+                "sierung"
+            ]
+        },
+        "C2": {
+            "icon": "icon_UmweltKlima",
+            "name": "Umwelt und Klima",
+            "splitted": [
+                "Umwelt",
+                "und Klima"
+            ]
+        },
+        "C3": {
+            "icon": "icon_Kreislaufwirtschaft",
+            "name": "Kreislaufwirtschaft",
+            "splitted": [
+                "Kreislauf-",
+                "wirtschaft"
+            ]
+        },
+        "C4": {
+            "icon": "icon_Standortattraktivitaet",
+            "name": "Standortattraktivität",
+            "splitted": [
+                "Standort-",
+                "attraktivität"
+            ]
+        },
+        "C5": {
+            "icon": "icon_Geschlechtergerechtigkeit",
+            "name": "Geschlechtergerechtigkeit",
+            "splitted": [
+                "Geschlechter-",
+                "gerechtigkeit"
+            ]
+        },
+        "C6": {
+            "icon": "icon_Souveraenitaet",
+            "name": "Souveränität",
+            "splitted": [
+                "Souveränität"
+            ],
+            "comp": [
+                "us",
+                "cn",
+                "jp",
+                "kr"
+            ],
+            "mapDefault": "world"
+        },
+        "D1": {
+            "icon": "icon_Effektivitaet",
+            "name": "Effektivität",
+            "splitted": [
+                "Effektivität"
+            ]
+        },
+        "D2": {
+            "icon": "icon_Effizienz",
+            "name": "Effizienz",
+            "splitted": [
+                "Effizienz"
+            ]
+        }
+    },
+    "areas": {
+        "A": {
+            "name": "FTI-Rahmenbedingungen"
+        },
+        "B": {
+            "name": "FTI-Kernsystem"
+        },
+        "C": {
+            "name": "FTI-Querschnittsthemen"
+        },
+        "D": {
+            "name": "Wirkung"
+        }
+    },
+    "targets": [
+        {
+            "nr": "1",
+            "type": "fti",
+            "name": "Zum internationalen Spitzenfeld aufschließen und den FTI-Standort Österreich stärken",
+            "nameShort": "Zum internationalen Spitzenfeld aufschließen ...",
+            "children": [
+                {
+                    "nr": "1.1",
+                    "topics": [
+                        "D1"
+                    ],
+                    "name": "Rangverbesserung EIS von Top 8 auf Top 5",
+                    "format": "r",
+                    "desc": "Rang Österreichs im Gesamtindex",
+                    "source": "European Innovation Scoreboard Index (EIS)"
+                },
+                {
+                    "nr": "1.2",
+                    "topics": [
+                        "A2",
+                        "B1",
+                        "C1"
+                    ],
+                    "name": "Rangverbesserung in DESI-Teilkomponenten von Top 13 auf Top 5",
+                    "format": "r",
+                    "desc": "Rang bei DESI-Teilkomponenten",
+                    "source": "Digital Economy and Society Index (DESI)"
+                },
+                {
+                    "nr": "1.3",
+                    "topics": [
+                        "D1"
+                    ],
+                    "name": "Rangverbesserung GII von Top 19 auf Top 10",
+                    "format": "r",
+                    "desc": "Rang Österreichs im Gesamtindex",
+                    "source": "Global Innovation Index"
+                },
+                {
+                    "nr": "2",
+                    "topics": [
+                        "A1",
+                        "B2",
+                        "B3",
+                        "C4"
+                    ],
+                    "name": "5-10 neue FTI-intensive Leitbetriebe anwerben und bestehende ausbauen",
+                    "desc": "Vorschlag aus ABA-Daten",
+                    "source": "Austrian Business Agency, Medienmonitoring/BMAW"
+                },
+                {
+                    "nr": "3",
+                    "topics": [
+                        "B3",
+                        "B4",
+                        "C4"
+                    ],
+                    "name": "Anzahl F&E-betreibender Unternehmen um 20 % steigern",
+                    "desc": "Anzahl der F&E durchführenden Erhebungseinheiten",
+                    "source": "F&E Erhebung Statistik Austria"
+                },
+                {
+                    "nr": "4",
+                    "topics": [
+                        "A3",
+                        "B3",
+                        "B5",
+                        "C6"
+                    ],
+                    "name": "Teilnahme an mindestens 3 weiteren IPCEI",
+                    "desc": "Stärkere Positionierung Österreichs in den europäischen Wertschöpfungsketten durch Teilnahme an zumindest 3 weiteren „Important Projects of Common European Interest“ (IPCEIs)",
+                    "source": "Austrian Business Agency, Medienmonitoring/BMAW"
+                },
+                {
+                    "nr": "5",
+                    "topics": [
+                        "A2",
+                        "B1",
+                        "C1",
+                        "C6"
+                    ],
+                    "name": "Digitalisierung stärken und Transformation vorantreiben",
+                    "desc": "Durchschnitt aller Indikatoren des Bereichs C.1. Digitalisierung im Vergleich zu den Innovation Leaders"
+                }
+            ]
+        },
+        {
+            "nr": "2",
+            "type": "fti",
+            "name": "Auf Wirksamkeit und Exzellenz fokussieren",
+            "children": [
+                {
+                    "nr": "1",
+                    "topics": [
+                        "B5"
+                    ],
+                    "name": "OECD-Top-5 bei F&E-Quote",
+                    "format": "r",
+                    "desc": "Platzierung Österreich nach F&E-Ausgaben (GERD) in % des BIP",
+                    "source": "OECD MSTI"
+                },
+                {
+                    "nr": "2",
+                    "topics": [
+                        "A1",
+                        "B4",
+                        "C6"
+                    ],
+                    "name": "Venture Capital-Investitionen auf 0,1 % des BIP heben",
+                    "desc": "Risikokapitalintensität in % des BIP (Marktstatistik)",
+                    "source": "Invest Europe"
+                },
+                {
+                    "nr": "3",
+                    "topics": [
+                        "B2",
+                        "B4"
+                    ],
+                    "name": "100 % mehr wirtschaftlich erfolgreiche akademische Spin-offs",
+                    "desc": "Anzahl der Spin-offs von Universitäten, FHs und ÖAW",
+                    "source": "ASM 2023, AIT"
+                },
+                {
+                    "nr": "4",
+                    "topics": [
+                        "B2"
+                    ],
+                    "name": "Top 10-Platzierung bei ERC Grants",
+                    "format": "r",
+                    "desc": "Summe aus Starting, Advanced und Consolidator grants pro Mio Einwohner",
+                    "source": "European Research Council"
+                },
+                {
+                    "nr": "5.1",
+                    "topics": [
+                        "A3",
+                        "B2",
+                        "B3",
+                        "B5"
+                    ],
+                    "name": "Beteiligung an Horizon Europe stärken",
+                    "desc": "Anteil Österreichs an allen Horizon Europe Beteiligungen",
+                    "source": "EU PM (FFG)"
+                },
+                {
+                    "nr": "5.2",
+                    "topics": [
+                        "A3",
+                        "B2",
+                        "B3",
+                        "B5"
+                    ],
+                    "name": "Top 3-Platzierung bei Erfolgsquote Horizon Europe",
+                    "format": "r",
+                    "desc": "Erfolgsquote der österreichischen Horizon Europe Beteiligungen",
+                    "source": "EU PM (FFG)"
+                },
+                {
+                    "nr": "6",
+                    "topics": [
+                        "A3",
+                        "B3"
+                    ],
+                    "name": "Steigerung Erfolgsquote des Unternehmenssektors in Horizon Europe von 18,2 % auf mindestens 20 %",
+                    "desc": "Erfolgsquote der österreichischen Horizon Europe Beteiligungen des Unternehmenssektors",
+                    "source": "EU PM (FFG)"
+                }
+            ]
+        },
+        {
+            "nr": "3",
+            "type": "fti",
+            "name": "Auf Wissen, Talente und Fertigkeiten setzen",
+            "children": [
+                {
+                    "nr": "1.1",
+                    "topics": [
+                        "B1",
+                        "C1",
+                        "C4"
+                    ],
+                    "name": "Steigerung der MINT-Absolvent:innen um 20 %",
+                    "desc": "Anzahl der ordentlichen MINT-Hochschulabschlüsse",
+                    "source": "Statistik Austria"
+                },
+                {
+                    "nr": "1.2",
+                    "topics": [
+                        "B1",
+                        "C5"
+                    ],
+                    "name": "Steigerung des Frauenanteils an Absolvent:innen in technischen Fächern um 5 %",
+                    "desc": "Frauenanteil an den Hochschulabschlüssen (ISCED 6-8) in den Bereichen F06 - Informatik & Kommunikationstechnologie und F07 - Ingenieurwesen, verarbeitendes Gewerbe und Baugewerbe (ohne Architektur und Baugewerbe)",
+                    "source": "Statistik Austria"
+                },
+                {
+                    "nr": "2",
+                    "topics": [
+                        "A1",
+                        "A2",
+                        "B1"
+                    ],
+                    "name": "Top 3-Platzierung im IMD World Talent Ranking",
+                    "format": "r",
+                    "desc": "Rang Österreichs im Gesamtindex",
+                    "source": "IMD Ranking"
+                },
+                {
+                    "nr": "3",
+                    "topics": [
+                        "B1",
+                        "B2"
+                    ],
+                    "name": "Zwei österreichische Universitäten in den THE Top 100",
+                    "desc": "Summe der Ränge der beiden bestplatzierten österreichischen Universitäten",
+                    "source": "Times Higher Education Ranking"
+                },
+                {
+                    "nr": "4",
+                    "topics": [
+                        "A3",
+                        "B2"
+                    ],
+                    "name": "Auslandsanteil an neuen Anwerbungen an Universitäten auf 45 % heben",
+                    "desc": "Anteil des aus dem Ausland angeworbenen Wissenschafts- und Forschungspersonals",
+                    "source": "Statistik Austria"
+                },
+                {
+                    "nr": "5",
+                    "topics": [
+                        "B1"
+                    ],
+                    "name": "100 % mehr österreichische MINT-Student:innen mit Auslandssemester",
+                    "desc": "Anzahl MINT-AbsolventInnen mit Auslandsaufenthalt während des Studiums",
+                    "source": "Statistik Austria"
+                }
+            ]
+        },
+        {
+            "nr": "K",
+            "type": "klw",
+            "name": "Ziele der Kreislaufwirtschaftsstrategie",
+            "children": [
+                {
+                    "nr": "1.1",
+                    "topics": [
+                        "B3",
+                        "C2",
+                        "C3"
+                    ],
+                    "name": "Inländischen Materialverbrauch (DMC) bis 2030 auf 14 Tonnen pro Kopf und Jahr senken",
+                    "desc": "Inländischer Materialverbrauch in Tonnen pro Kopf und Jahr",
+                    "source": "Eurostat (env_ac_mfa)"
+                },
+                {
+                    "nr": "1.2",
+                    "topics": [
+                        "B3",
+                        "C2",
+                        "C3"
+                    ],
+                    "name": "Material-Fußabdruck (MF) bis 2050 auf 7 Tonnen pro Kopf und Jahr senken",
+                    "desc": "Material-Fußabdruck (Raw Material Consumption (RMC)) pro Kopf",
+                    "source": "Eurostat (env_ac_rme)"
+                },
+                {
+                    "nr": "2",
+                    "topics": [
+                        "B3",
+                        "C2",
+                        "C3",
+                        "D1"
+                    ],
+                    "name": "Steigerung der inländischen Ressourcenproduktivität um 50 % bis 2030",
+                    "desc": "BIP je Tonne Materialeinsatz (DMC)",
+                    "source": "Eurostat (sdg_12_20)"
+                },
+                {
+                    "nr": "3",
+                    "topics": [
+                        "C3"
+                    ],
+                    "name": "Steigerung der Zirkularitätsrate auf 18 % bis 2030",
+                    "desc": "Nutzungsrate wiedervewendbarer Stoffe",
+                    "source": "Eurostat (env_ac_cur)"
+                },
+                {
+                    "nr": "4",
+                    "topics": [
+                        "C2",
+                        "C3"
+                    ],
+                    "name": "Reduktion des materiellen Konsums in privaten Haushalten um 10 % bis 2030",
+                    "desc": "Aufkommen von Siedlungsabfällen pro Kopf",
+                    "source": "Eurostat (cei_pc031)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+@use "sass:map";
+
+@import 'bootstrap';
+@import 'theme';
+// @import 'fonts';
+@import 'iconCircle';
+@import 'str';
+@import 'overview';
+@import 'topic';
+@import 'charts';
+@import 'print';
+
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+@import 'fonts.css';
+
+body {
+    // background-color: #FFF;
+    max-width: 1320px; //  1320px;
+    margin: 0px auto 30px auto;
+    font-family: 'TTNormsPro', sans-serif;
+    color: map.get($colors, "b1");
+}
+
+// body::after {
+//     background-image: url("../img/background-min.png");
+//     background-size: cover;
+//     opacity: 0.25;
+//     content: "";
+//     top: 0;
+//     left: 0;
+//     bottom: 0;
+//     right: 0;
+//     position: fixed;
+//     z-index: -1;   
+// }
+
+a {
+    color: map.get($colors, "b1");
+    text-decoration: none;
+    &:hover {
+        color: map.get($colors, "blue_rfte");
+        //color: #291F6C;
+    }
+}
+svg {
+    text {
+        font-family: 'TTNormsPro', sans-serif;
+    }
+}
+
+svg.icon {
+    // background-color: map.get($colors, "c1");
+    > g,
+    > path {
+        fill: map.get($colors, "b1");
+    }
+    width: 50px;
+    // background-size: 50px 50px;
+    // background-size: contain;
+    &.ecto {
+        .back {fill: #e4e4e4}
+        .backW {fill: #fff}
+        circle {stroke: #2b2b2a}
+        .greenF {fill: #51ab5f}
+        .greenS {stroke: #51ab5f; fill: none;}
+
+        width: 36px;
+
+    }
+}
+
+svg.icon-circle {
+    width: 100px;
+    height: 100px;
+}

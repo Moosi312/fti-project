@@ -1,0 +1,242 @@
+short,year,value,rel.inno,year.p,name_a,source
+"Regulierung, Finanz- und Steuersystem",2024,,96.9006576538086,2023,Zusammengesetzter Indikator,
+Bildung,2024,,96.5372314453125,2023,Zusammengesetzter Indikator,
+Internationale Verflechtung,2024,,106.017997741699,2023,Zusammengesetzter Indikator,
+Nutzung künstlicher Intelligenz,2023,10.8000001907349,79.5287170410156,,Nutzung künstlicher Intelligenz in Unternehmen,Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_AI_TANY)
+Steuer- und Abgabenquote,2022,43.101,95.8882598876953,,Steuer- und Abgabenquote (in % des BIP),OECD Revenue Statistics
+Arbeitslosenquote,2022,4.80000019073486,116.249992370606,,Arbeitslosenquote,Eurostat (lfsa_urgan)
+Ausgaben pro Schüler:in (Primarbereich),2020,8908.400390625,108.374961853027,,Ausgaben pro Schüler:in (Primarbereich),Eurostat (educ_uoe_fine09)
+Ausgaben relativ zum BIP - Sekundarstufe,2020,2.05999994277954,87.1404342651367,,Ausgaben relativ zum BIP (Sekundarbereich),Eurostat (educ_uoe_fine06)
+Ausgaben pro Schüler:in (Sekundarbereich),2020,22499.30078125,113.429000854492,,Ausgaben pro Schüler:in (Sekundarbereich),Eurostat (educ_uoe_fine09)
+Ausgaben relativ zum BIP - Primarstufe,2020,0.949999988079071,59.1531715393067,,Ausgaben relativ zum BIP (Primarbereich),Eurostat (educ_uoe_fine06)
+Bildungsausgaben in % des BIP,2020,3.0872419,77.9514465332031,,Bildungsausgaben im vortertiären Bereich (in % des BIP),OECD Education at a Glance
+Bildungsausgaben pro Schüler:in,2020,16003.53,115.943748474121,,Bildungsausgaben im vortertiären Bereich (pro Schüler:in),OECD Education at a Glance
+Tertiäre Bildung,2024,,94.0408401489258,2023,Zusammengesetzter Indikator,
+Akademische Forschung,2024,,85.1497039794922,2023,Zusammengesetzter Indikator,
+Unternehmens-FTI,2024,,97.1727523803711,2023,Zusammengesetzter Indikator,
+Gründungen,2024,,67.1318969726563,2023,Zusammengesetzter Indikator,
+Finanzierung,2024,,152.231903076172,2023,Zusammengesetzter Indikator,
+F&E-Ausgaben (Unternehmenssektor),2022,1.1479583978653,99.1625137329102,,F&E-Ausgaben im Unternehmenssektor,"OECD MSTI, Eurostat (rd_e_berdindr2), WIFO-Berechnungen"
+BIP/Kopf,2022,55867.18359375,100.804740905762,,BIP pro Kopf,Weltbank
+Bildungsvererbung,2023,31.5151195526123,90.0393905639649,,Einfluss des sozioökonomischen Hintergrunds auf die Lesekompetenz,PISA
+Auslandsfinanzierung von Unternehmens-F&E,2021,21.5858135223389,197.458221435547,,Finanzierung von BERD aus dem Ausland,OECD MSTI (B_XFA)
+Betreuungsverhältnis Volksschule,2021,12,111,,Schüler-Lehrkräfte-Relation (Primarbereich),Eurostat (educ_uoe_perp04)
+Betreuungsverhältnis frühkindlich,2021,13.723,89.9701232910156,,Betreuungsverhältnis frühkindlich,OECD Education at a Glance
+Betreuung frühkindlich,2021,94.6999969482422,98.2161331176758,,Betreuung frühkindlich (Schüler:innen zwischen 4 Jahren und dem Schulpflichtalter),Eurostat (educ_uoe_enra10)
+Betreuungsverhältnis Universitäten,2021,15.6999998092651,94.6496810913086,,Betreuungsverhältnis Universitäten,Eurostat (educ_uoe_perp04)
+Lebensqualität,2021,8,105.820106506348,,Better Life,OECD Better Life Index
+Big Data-Analysen,2020,7,33.7512054443359,,"Unternehmen, die Big Data einsetzen",Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_BD)
+Breitband,2023,45.8147010803223,61.4286155700684,,Breitbanddurchdringung,"Eurostat (isoc_ci_it_en2), OECD ICT Access and Usage by Businesses"
+Digitalisierung,2024,,77.6265716552734,2023,Zusammengesetzter Indikator,
+Umwelt & Klima,2024,,89.1132049560547,2023,Zusammengesetzter Indikator,
+Kreislaufwirtschaft,2024,,109.073173522949,2023,Zusammengesetzter Indikator,
+Standortattraktivität,2024,,105.755317687988,2023,Zusammengesetzter Indikator,
+Geschlechtergerechtigkeit,2024,,85.9228057861328,2023,Zusammengesetzter Indikator,
+Souveränität,2024,,585.389953613281,2023,Zusammengesetzter Indikator,
+Nutzungsrate wiederverwendbarer Stoffe,2021,12.8000001907349,94.1176452636719,,Nutzungsrate wiederverwendbarer Stoffe,Eurostat (env_ac_cur)
+Cloud Computing,2023,46.5,69.9668960571289,,Nutzung von Cloud-Diensten,Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_CC_GE_ME)
+Effektivität von FTI-Aktivitäten,2024,,102.230178833008,2023,Zusammengesetzter Indikator,
+Effizienz,2024,,90.3247451782227,2023,Zusammengesetzter Indikator,
+EIS Index,2023,129.999,90.6816177368164,,EIS Index,European Innovation Scoreboard
+Regulierung Arbeitsmarkt - mehrfach,2019,2.14484119415283,123.82666015625,,Strenge der Arbeitsmarktregulierung – Mehrfachkündigung,OECD Employment Protection Database
+Regulierung Arbeitsmarkt - individuell,2019,1.66294646263122,147.471664428711,,Strenge der Arbeitsmarktregulierung - individuelle Kündigungen regulärer Dienstverträge,OECD Employment Protection Database
+Regulierung Arbeitsmarkt - befristet,2019,1.47222220897674,110.437934875488,,Strenge der Arbeitsmarktregulierung – befristete Verträge,OECD Employment Protection Database
+ERC Grants,2022,4.33399868011475,89.4101257324219,,ERC Grants,European Research Council
+Energieintensität,2022,3.93607759475708,108.966178894043,,Energieintensität,"Eurostat (nrg_bal_s), WIFO-Berechnungen"
+F&E-Ausgaben im Energiebereich (in % des GBAORD),2022,3.31500005722046,96.8448715209961,,F&E-Ausgaben im Energiebereich (in % des GBAORD),Eurostat (gba_nabsfin07)
+F&E-Ausgaben im Energiebereich (in % des BIP),2022,0.0249999985098839,80.6451568603516,,F&E-Ausgaben im Energiebereich (in % des BIP),Eurostat (gba_nabsfin07)
+F&E-Ausgaben im Umweltbereich (in % des GBAORD),2022,0.980000019073486,45.5390357971191,,F&E-Ausgaben im Umweltbereich (in % des GBAORD),Eurostat (gba_nabsfin07)
+F&E-Ausgaben im Umweltbereich (in % des BIP),2022,0.00999999977648258,58.8235321044922,,F&E-Ausgaben im Umweltbereich (in % des BIP),Eurostat (gba_nabsfin07)
+Erwerbstätigenquote,2022,58.130916595459,97.4762573242188,,Erwerbstätigenquote,"OECD (Labour Force Statistics), Eurostat (demo_pjanbroad)"
+Exporte Umweltgüter,2020,3.44000005722046,183.368881225586,,Exporte von Umweltgütern,Eurostat (env_ac_egss2)
+Projektfinanzierte Grundlagenforschung,2022,43.3264923095703,56.5687103271484,,Projektbasierte Finanzierung von Grundlagenforschung durch FWF-ähnliche Fonds,"Jahresberichte der Fonds, WIFO-Berechnungen"
+Absolventinnen in Naturwissenschaften,2021,49.3621940612793,95.6536102294922,,Absolventinnen in naturwissenschaftlichen Studien,Eurostat (educ_uoe_grad02)
+Absolventinnen in Technik,2021,30.5113887786865,107.700698852539,,Absolventinnen in technisch-ingenieurwissenschaftlichen Studien,Eurostat (educ_uoe_grad02)
+Industriestrukturbereinigte F&E-Intensität,2021,0.78118710030658,103.977416992188,,Industriestrukturbereinigte F&E-Intensität,"Eurostat, OECD"
+F&E Ausgaben (GERD),2022,1.66695725917816,99.2288284301758,,"F&E-Ausgaben in allen Sektoren (in US-Dollar und Kaufkraftparitäten, pro 1.000 der Bevölkerung)","OECD MSTI, Eurostat (rd_e_gerdtot), WIFO-Berechnungen."
+Grundlagenforschungsquote,2019,0.547350883483887,115.528579711914,,Grundlagenforschungsquote,OECD MSTI (G_BRXGDP)
+Auslandsfinanzierung von F&E,2021,17.226713180542,155.740798950195,,Auslandsfinanzierung F&E,OECD MSTI (G_XFA)
+F&E-Quote,2021,3.25631713867188,109.949661254883,,F&E-Quote,OECD MSTI (G_XGDP)
+Junge schnellwachsende Unternehmen,2021,0.5799999833107,69.7115325927734,, Junge schnellwachsende Unternehmen,Eurostat (bd_9pm_r2 bd_hg)
+Gesunde Lebenserwartung (F),2021,73.1999969482422,99.7818908691406,,Gesunde Lebenserwartung (F),Eurostat (hlth_hlye)
+Gesunde Lebenserwartung (M),2021,78.0999984741211,99.2376098632813,,Gesunde Lebenserwartung (M),Eurostat (hlth_hlye)
+Glasdeckenindex EU,2018,1.55,106.451614379883,,Glasdeckenindex (Professorinnenanteil in Relation zum Frauenanteil des wissenschaftlichen und künstlerischen Personals),She Figures
+Glasfaser,2022,8.26144313812256,18.1124992370606,,Anteil von Glasfaserverbindungen an den gesamten Breitbandabonnements,OECD Telecommunication Statistics
+Direkte Unternehmensförderung,2020,0.0818,97.0113830566406,,Direkte Unternehmensförderung,OECD R&D Tax Incentive Indicators
+Zahl der Forscher:innen (HEI & GOV),2021,2.23841619491577,88.493034362793,,Forscher:innen in VZÄ in den Sektoren Staat und Hochschule,"OECD MSTI, Eurostat (rd_p_persocc), WIFO-Berechnungen"
+F&E-Ausgaben (Sektoren Staat und Hochschule) in % des BIP,2021,0.997550964355469,110.879463195801,,F&E-Ausgaben in den Sektoren Staat und Hochschule,OECD MSTI
+F&E-Ausgaben (Sektoren Staat und Hochschule) pro 1.000 der Bevölkerung,2021,0.598159372806549,109.02222442627,,F&E-Ausgaben in den Sektoren Staat und Hochschule,"OECD MSTI, Eurostat (rd_e_gerdtot), WIFO-Berechnungen"
+Finanzierung von Hochschulen durch Unternehmen,2021,4.32137203216553,78.7882385253906,,Finanzierung von Hochschulen durch Unternehmen,OECD MSTI (H_XFB)
+IKT-Spezialist:innen,2022,5,72.0461120605469,,Angestellte IKT-Fachkräfte,Eurostat (isoc_sks_itspt)
+Weibliche IKT-Fachkräfte,2022,19.2999992370606,90.3557968139648,,Weibliche IKT-Fachkräfte,Eurostat (isoc_sks_itsps)
+IKT-Absolvent:innen,2021,2.78807282447815,71.2533645629883,,IKT-Absolvent:innen,Eurostat (educ_uoe_grad02)
+IKT-Absolventinnen,2021,1.18847715854645,57.9541473388672,,IKT-Absolventinnen pro 1000 der Bevölkerung von 20-29 Jahren,Eurostat (educ_uoe_grad02)
+IKT-Patente breit definiert,2020,0.494680374860764,55.469612121582,,IKT-Patente extensive ICT technologies extensive definition,"PATSTAT, Herbst 2023; Inaba, Squicciarini 2017 (OECD), WIFO-Berechnungen"
+IKT-Patente eng definiert,2020,0.495711833238602,55.695915222168,,IKT-Patente strict ICT technologies strict definition,"PATSTAT, Herbst 2023; Inaba, Squicciarini 2017 (OECD), WIFO-Berechnungen"
+IKT-Investitionen,2020,15.9169921875,108.339309692383,,Anteil der Investitionen in IKT an den Bruttoanlageinvestitionen,EUKLEMS
+Internet of Things,2021,50.7999992370606,169.672668457031,,Nutzung Internet of Things in Unternehmen,Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_IOT &E_IOT1)
+IPR-Regulierung,2022,5.80553085714286,102.288681030273,,Strenge der Regulierung geistiger Eigentumsrechte,World Economic Forum
+Firmen mit ISO Environment-Zertifizierung,2020,0.396781980991364,108.175193786621,,Anteil Firmen mit ISO Environment-Zertifizierung,"ISO, OECD"
+Immigration Hochqualifizierte,2022,33.0999984741211,90.3384246826172,,Immigration von (hochqualifizierten) Fachkräften,Eurostat (edat_lfs_9915)
+Indirekte Unternehmensförderung,2020,0.274,303.567474365234,,Indirekte Unternehmensförderung,OECD R&D Tax Incentive Indicators
+Innovierende Unternehmen,2020,60,94.1619567871094,,Innovierende Unternehmen,Eurostat CIS
+Innovationsumsatz,2020,10.0891180038452,110.514762878418,,Innovationsumsatz,Eurostat CIS
+Interesse an Wissenschaft,2021,78,83.870964050293,,Interesse an Wissenschaft,Eurobarometer 
+GVC-Integration (Exporte),2021,26.4552,92.6264266967774,,Halbfertige Produkte in Exporten,Weltbank
+GVC-Integration (Importe),2021,25.511,117.373764038086,,Halbfertige Produkte in Importen,Weltbank
+Jugendarbeitslosigkeit,2022,9.5,148.421051025391,,Jugendarbeitslosigkeit,Eurostat (une_rt_a)
+KMU und Kooperation,2020,16.4472179412842,82.5839691162109,,KMU mit Innovationskooperationen,Eurostat CIS
+KMU-Onlinehandel – Umsatz,2023,14.1999998092651,56.9366455078125,,Umsatz von KMU im Onlinehandel,Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_ETURN)
+KMU-Onlinehandel – international,2021,7.5,121.75325012207,,KMU mit Onlinehandel (mind. 1% des Umsatzes),Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_AESEU)
+Größe des Kapitalmarkts,2021,188.406,48.9507865905762,,Größe des Kapitalmarkts,"Weltbank, World Development Indicators"
+Unternehmen mit Innovationskooperationen,2020,17.8999996185303,138.330764770508,,Unternehmen mit Innovationskooperationen mit Hochschulen/Forschungseinrichtungen,Eurostat CIS
+Internationale Ko-Publikationen,2023,259.501,81.2372970581055,,Internationale Ko-Publikationen,European Innovation Scoreboard
+Leidenranking - Kooperation mit Unternehmen,2021,4058.60009765625,78.8020629882813,,Leidenranking - Kooperation mit Unternehmen,"CWTS Leiden Ranking, WIFO-Berechnungen"
+Hochschulranking Forschungsleistung,2021,44202.4609375,32.8049087524414,,"Aggregation des Universitätsrankings Leiden, relativ zur Bevölkerung","CWTS Leiden Ranking, WIFO-Berechnungen"
+MINT-Absolventinnen ISCED 5-8,2021,14.3999996185303,105.571838378906,,MINT-Absolventinnen,Eurostat (educ_uoe_grad04)
+MINT-Absolvent:innen ISCED 5-8,2021,25,121.595336914063,,MINT-Absolvent:innen ISCED 5-8,Eurostat (educ_uoe_grad04)
+MINT-Absolvent:innen ISCED 6-8,2021,15.8999996185303,83.7723922729492,,MINT-Absolvent:innen ISCED 6-8,Eurostat (educ_uoe_grad04)
+Doktoratsabsolvent:innen MINT,2021,0.899999976158142,97.8260803222656,,Doktoratsabsolvent:innen MINT,Eurostat (educ_uoe_grad07)
+Wirtschaftliche Offenheit,2021,88.1632281400666,86.2371978759766,,Offenheit der österreichischen Wirtschaft,AMECO
+Produktmarktregulierung,2018,1.4393554,87.4451599121094,,Strenge der Produktmarktregulierung,OECD Indicator for Product Market Regulation
+Patentanmeldungen mit in- und ausländischen Erfinder:innen,2020,28.9305305480957,115.057250976563,,Internationale Kooperation in Erfindungen,"PATSTAT, Herbst 2023, WIFO-Berechnungen"
+Patente in Auslandsbesitz,2020,29.7074966430664,119.614814758301,,Anteil ausländischer Eigentümer:innen an Patenten mit im Inland ansässigen Erfinder:innen,"PATSTAT, Herbst 2023, WIFO-Berechnungen"
+Exportspezialisierung - Produktionstechnologien,2022,0.636222763654298,117.199348449707,,Exportspezialisierung - Produktionstechnologien,"BACI/Comtrade, WIFO-Berechnungen"
+Exportspezialisierung - Materialtechnologien,2022,1.14742340429173,123.99755859375,,Exportspezialisierung - Materialtechnologien,"BACI/Comtrade, WIFO-Berechnungen"
+Exportspezialisierung - Industrielle Biotechnologie,2022,1.10827252612118,48.9718246459961,,Exportspezialisierung - Industrielle Biotechnologie,"BACI/Comtrade, WIFO-Berechnungen"
+Exportspezialisierung - Digitale Technologie,2022,0.466474121455343,129.992446899414,,Exportspezialisierung - Digitale Technologie,"BACI/Comtrade, WIFO-Berechnungen"
+Ressourcenproduktivität,2021,2.22519993782044,85.9250106811524,,Ressourcenproduktivität und inländischer Materialverbrauch (DMC),Eurostat (env_ac_rp)
+Innovierende KMU,2020,30.3869934082031,89.4537582397461,,Anteil der innovierenden kleineren und mittleren Unternehmen,European Innovation Scoreboard
+Schulleistungen - hohe Kompetenz,2022,8.19999980926514,88.7445907592774,,Schulleistungen - Anteil der Schüler:innen mit hoher Kompetenz,"PISA, TIMMS, PIRLS"
+Schulleistungen - niedrige Kompetenz,2022,16.3999996185303,97.8048706054688,,Schulleistungen - Anteil der Schüler:innen mit niedriger Kompetenz,"PISA, TIMMS, PIRLS"
+Schulleistungen Sekundarstufe - Spitze,2022,8.66666698455811,91.5493011474609,,Zusammengesetzter Indikator - Anteil Schüler:innen mit hoher Kompetenz,PISA
+Schulleistungen Sekundarstufe - Niedrig,2022,24.6666660308838,96.2162170410156,,Zusammengesetzter Indikator - Anteil Schüler:innen mit niedriger Kompetenz,PISA
+Solarkapazität,2022,13.4479951858521,76.9349746704102,,Anteil Solarkapazität an gesamter Stromerzeugung,Eurostat (nrg_inf_epc)
+Lohnabgaben,2022,47.785928,87.7028656005859,,Gesamtbelastung der Lohnkosten (in % der Bruttoverdienste),OECD Taxation
+Unternehmensbesteuerung,2022,23.1,90.3896102905273,,Effektive Steuerbelastung von Unternehmen,Europäische Kommission (2022)
+Effizienz Innovation,2024,,111.320953369141,,Ergebnis der DEA-Effizienzanalyse - Innovation,Siehe https://fti-monitor.rfte.at/docs/pdf/S260042.pdf
+Effizienz Technologie,2024,,85.2332458496094,,Ergebnis der DEA-Effizienzanalyse - Technologie,Siehe https://fti-monitor.rfte.at/docs/pdf/S260042.pdf
+Effizienz Wissenschaft,2024,,81.1069259643555,,Ergebnis der DEA-Effizienzanalyse - Wissenschaft,Siehe https://fti-monitor.rfte.at/docs/pdf/S260042.pdf
+Inputs für FTI in Unternehmen,2024,,94.114143371582,,Zusammengesetzter Indikator,
+Private und öffentliche F&E-Finanzierung,2024,,110.560279846191,,Zusammengesetzter Indikator,
+Finanzsystem,2024,,73.4854736328125,,Zusammengesetzter Indikator,
+F&E Energie und Klima,2024,,70.4631500244141,,Zusammengesetzter Indikator,
+Finanzierung Hochschulen & GF,2024,,118.282875061035,,Zusammengesetzter Indikator,
+Gesundheit,2024,,99.509750366211,,Zusammengesetzter Indikator,
+IKT-Fachkräfte,2024,,77.6992950439453,,Zusammengesetzter Indikator,
+IKT-Erfindungsperformance,2024,,55.582763671875,,Zusammengesetzter Indikator,
+IKT-Nutzung in Unternehmen,2024,,89.4096069335938,,Zusammengesetzter Indikator,
+Ökonomische Wirkung von IKT,2024,,79.9181976318359,,Zusammengesetzter Indikator,
+Ausgaben und Betreuung Hochschullehre,2024,,94.7353668212891,,Zusammengesetzter Indikator - Inputs in Lehre,
+Input,2024,,96.0984039306641,,Zusammengesetzter Indikator,
+Investitionen & Infrastruktur,2024,,62.6268081665039,,Zusammengesetzter Indikator,
+FTI in KMU,2024,,94.1841659545898,,Zusammengesetzter Indikator,
+Kooperation Wissenschaft-Wirtschaft,2024,,98.5129776000977,,Zusammengesetzter Indikator,
+Absolvent:innen,2024,,93.809326171875,,Zusammengesetzter Indikator,
+Forschungsleistung,2024,,76.0257949829102,,Zusammengesetzter Indikator,
+Primarstufe,2024,,95.0595626831055,,Zusammengesetzter Indikator,
+Regulierung,2024,,114.294021606445,,Zusammengesetzter Indikator,
+Sekundarstufe,2024,,97.4783935546875,,Zusammengesetzter Indikator,
+Steuersystem,2024,,91.3269119262695,,Zusammengesetzter Indikator,
+Finanzierung Unternehmen,2024,,200.46012878418,,Zusammengesetzter Indikator,
+Umwelt Ergebnisindikatoren,2024,,88.6862335205078,,Zusammengesetzter Indikator,
+Nutzung von Umweltinnovationen/-instrumenten,2024,,86.3221740722656,,Zusammengesetzter Indikator,
+Wirkung von Umweltinnovationen/-instrumenten,2024,,113.48713684082,,Zusammengesetzter Indikator,
+Verflechtung Innovation,2024,,125.712280273438,,Zusammengesetzter Indikator,
+Verflechtung Hochschulen,2024,,92.6625213623047,,Zusammengesetzter Indikator,
+Verflechtung Wirtschaft,2024,,100.260215759277,,Zusammengesetzter Indikator,
+Wirtschaft & Soziales,2024,,113.754432678223,,Zusammengesetzter Indikator,
+Frühkindliche Betreuung,2024,,94.093132019043,,Zusammengesetzter Indikator,
+Differenzen im Beruf,2024,,91.8449935913086,,Zusammengesetzter Indikator,
+Schule & Hochschule - Gender,2024,,81.1850509643555,,Zusammengesetzter Indikator,
+Innovation Kreislaufwirtschaft,2024,,94.8458557128906,,Zusammengesetzter Indikator,
+Erfindungsperformance Unternehmen,2024,,83.377182006836,,Zusammengesetzter Indikator,
+Einstellung zu Wissenschaft,2024,,85.6157836914063,,Zusammengesetzter Indikator,
+Souveränität - Handel,2024,,104.898300170898,,Zusammengesetzter Indikator,
+Souveränität - Patente,2024,,87.8398742675781,,Zusammengesetzter Indikator,
+Wirkung/Umsetzungsstand Kreislaufwirtschaft,2024,,100.370353698731,,Zusammengesetzter Indikator,
+Innovationswirkung - Strukturwandel,2024,,104.544204711914,,Zusammengesetzter Indikator,
+Innovationswirkung - Upgrading,2024,,111.042846679688,,Zusammengesetzter Indikator,
+Ökonomische Wirkung Kreislaufwirtschaft,2024,,132.003295898438,,Zusammengesetzter Indikator,
+Treibhausgase,2021,98.5,71.1675109863281,,Treibhausgasemissionen,Eurostat (sdg_13_10)
+Unternehmensförderung,2020,0.355800002813339,203.803421020508,,Unternehmensförderung in % des BIP,OECD R&D Tax Incentive Indicators
+Erfindungen Klima,2020,1.43514394760132,101.755737304688,,Patente in Energie und Klima,"PATSTAT, Herbst 2023; OECD 2015, WIFO-Berechnungen"
+Hochschulabsolvent:innen ISCED 5-8,2022,43.081669,86.2122573852539,,Hochschulabsolvent:innen ISCED 5-8,"OECD Education at a Glance, Eurostat (edat_lfse_03)"
+Hochschulabsolvent:innen ISCED 6-8,2022,29.9064423,60.8632850646973,,Hochschulabsolvent:innen ISCED 6-8,OECD Education at a Glance
+Hochschulausgaben,2020,22250.689453125,94.8210601806641,,Hochschulausgaben pro Student:in,OECD Education at a Glance
+"Unicorn-Bewertung, % BIP",2023,1.60994825317441,59.8666648864746,,Unicorns,Global Innovation Index
+Risikokapitalintensität,2022,0.106573298573494,65.3376770019531,,VC-Investitionen,Invest Europe
+VC-Fonds Finanzierungsstruktur,2022,90.0313568115234,106.167953491211,,Struktur der Mittelaufbringung für Venture Capital-Fonds,Invest Europe
+Volksschule - Spitze,2022,7.5,84.2696685791016,,Zusammengesetzter Indikator - Anteil Schüler:innen mit hoher Kompetenz,"PIRLS, TIMMS"
+Volksschule - Niedrig,2022,4,112.5,,Zusammengesetzter Indikator - Anteil Schüler:innen mit niedriger Kompetenz,"PIRLS, TIMMS"
+Vertrauen in Wissenschaft,2021,47,87.360595703125,,Vertrauen in Wissenschaft,Eurobarometer 
+Weiterbildung & Lebenslanges Lernen,2022,15.8000001907349,62.6984100341797,,Beteiligung an Weiterbildung,Eurostat (trng_lfse_01)
+Anteil Patente - Produktionstechnologien,2020,21.5437660217285,2099.8330078125,,Anteil der Patentanmeldungen zu Produktionstechnologien in %,"Patstat, Herbst 2023, WIFO-Berechnungen"
+Anteil Patente - Materialtechnologien,2020,22.2342758178711,2152.9052734375,,Anteil der Patentanmeldungen zu Materialtechnologien in %,"Patstat, Herbst 2023, WIFO-Berechnungen"
+Anteil Patente - Industrielle Biotechnologie,2020,27.5739574432373,1797.02661132813,,Anteil der Patentanmeldungen zu industrieller Biotechnologie in %,"Patstat, Herbst 2023, WIFO-Berechnungen"
+Anteil Patente - Digitale Technologie,2020,18.252836227417,2005.31970214844,,Anteil der Patentanmeldungen zu digitaler Technologie in %,"Patstat, Herbst 2023, WIFO-Berechnungen"
+Internationale Doktoratsstudent:innen,2021,39,112.586608886719,,Internationale Doktoratsstudent:innen,Eurostat (educ_uoe_mobs03)
+Ausländische Patente in Inlandsbesitz,2020,88.1898422241211,112.436264038086,,Inländische Eigentümer bei ausländischen Erfindungen,"PATSTAT, Herbst 2023, WIFO-Berechnungen"
+Batterierecycling,2021,86.4000015258789,103.522651672363,,Anteil an recycleten Batterien,Eurostat (env_wasbat)
+Beteiligung von Hochschulen an EU-Forschungsprojekten,2023,0.188456982374191,84.1636657714844,,Beteiligung Hochschulen EU-Forschungsprogramm,FFG EU-PM
+Zahl der Publikationen pro 1.000 Einwohner,2022,3.24269890785217,77.9251098632813,,Zahl der zitierfähigen Publikationen,"Scimago, Weltbank, WIFO-Berechnungen"
+Strom aus sauberen Quellen,2023,84.5500030517578,104.385292053223,,Anteil der Stromproduktion aus sauberen bzw. kohlenstoffarmen Quellen,Ember - Yearly Electricity Data
+Sauberer Primärenergieverbrauch,2022,36.6079216003418,84.4381332397461,,Anteil Primärenergieverbrauch aus sauberen bzw. kohlenstoffarmen Quellen,Energy Institute - Statistical Review of World Energy
+Innovationsintensive Branchen,2021,0.316364675760269,120.431854248047,,Anteil innovationsintensiver Sektoren an der Wertschöpfung,"OECD, Eurostat, WIFO-Berechnungen"
+IKT-Basiskompetenzen,2023,64.6800003051758,89.7984085083008,,IKT-Basiskompetenzen,Eurostat (isoc_sk_dskl_i)
+GVC-Integration (Wertschöpfung),2020,33.5999984741211,104.803482055664,,Anteil heimischer Wertschöpfung induziert durch ausländische Nachfrage,OECD TiVA 2021
+Neuzulassungen von E-Autos,2022,15.8870000839233,75.7403869628906,,Anteil neu zugelassener E-Autos an allen Neuzulassungen (in %),Eurostat (road_eqr_zevpc)
+E-Government,2023,77.735481262207,86.630615234375,,Öffentliche Verwaltung - E-Government,DESI
+IKT-Beschäftigung,2021,9.98600928358404,94.1603546142578,,Beschäftigungsanteil von Branchen mit hoher IKT-Intensität,"Eurostat SBS, WIFO-Berechnungen"
+Beschäftigte in % der Beschäftigten insgesamt,2021,1.10000002384186,80.8823547363281,,Beschäftigte in % der Beschäftigten insgesamt,Eurostat (cei_cie011)
+Beschäftigung in wissensintensiven Sektoren,2022,15.8999996185303,84.4845886230469,,Anteil wissensintensive Sektoren an Beschäftigung,Eurostat (htec_kia_emp2)
+Motivation für unternehmerisches Handeln,2018,2.39000010490418,34.5775451660156,,"Verhältnis Personen, die unternehmerisch aus Eigenantrieb handeln vs. Personen, die mangels Alternativen unternehmerisch handeln",Global Entrepreneurship Monitor (GEM)
+Erfolgsquote Hochschulen bei Horizon Europe,2023,18.6,92.2619018554687,,Erfolgsquote Hochschulen bei Horizon Europe,FFG EU PM
+Erfolgsquote Unternehmen bei Horizon Europe,2023,23.1,98.1308364868164,,Erfolgsquote von Unternehmen bei Horizon Europe,FFG EU PM
+Kreislaufwirtschaftsrelevante Exporte in % des BIP,2022,4.65929508209229,135.144561767578,,Anteil kreislaufwirtschaftsrelevanter Exporte an Gesamtexporten,"BACI/Comtrade, WIFO-Berechnungen"
+Exportqualität,2022,82.82382,95.9930953979492,,Anteil von Exporten mit mittelhoher bis hoher Technologieintensität am Gesamtexport,"Eurostat Comext, WIFO-Berechnungen"
+Frühe Schulabgänger:innen,2022,8.39999961853027,93.3333358764648,,Quote der Schulabgänger:innen,Eurostat (edat_lfse_14)
+Qualität öffentlicher Leistungen,2021,1.57000815868378,92.2598114013672,,"Qualität der öffentlichen Leistungsbereitstellung, Infrastruktur",Worldwide Governance Indicators
+PISA Geschlechterdifferenz Lesen,2023,20.3179626464844,153.086212158203,,Kompetenz Lesen 15-jährige (PISA) -  Leistungsdifferenz nach Geschlecht,PISA
+PISA Geschlechterdifferenz Mathematik,2023,19.0555763244629,39.0449714660645,,Kompetenz Mathematik 15-jährige (PISA) - Leistungsdifferenz nach Geschlecht,PISA
+Abschlussquote oberer Sekundarbereich,2020,82.779,102.872459411621,,Anteil Schüler:innen in berufsbezogenen Ausbildungswegen an allen Schüler:innen,OECD Education at a Glance
+Bruttoinvestitionen in % des BIP,2021,1.39999997615814,175,,Bruttoinvestitionen in % des BIP,Eurostat (cei_cie012)
+Bruttowertschöpfung in % des BIP,2021,2,136.986297607422,,Bruttowertschöpfung in % des BIP,Eurostat (cei_cie012)
+Größter Importanteil - Produktionstechnologien,2022,20.994405654123,147.388946533203,,Anteil der Importe des größten Lieferlandes - Produktionstechologien,"BACI/Comtrade, WIFO-Berechnungen"
+Größter Importanteil - Materialtechnologien,2022,16.7907216245703,228.275192260742,,Anteil der Importe des größten Lieferlandes - Materialtechnologien,"BACI/Comtrade, WIFO-Berechnungen"
+Größter Importanteil - Industrielle Biotechnologie,2022,19.2361539281141,181.413864135742,,Anteil der Importe des größten Lieferlandes - Industrielle Biotechnologie,"BACI/Comtrade, WIFO-Berechnungen"
+Größter Importanteil - Digitale Technologie,2022,24.3639360615916,146.870391845703,,Anteil der Importe des größten Lieferlandes - Digitale Technologie,"BACI/Comtrade, WIFO-Berechnungen"
+Zahl der Unternehmensforscher:innen,2022,4.21904754638672,79.1546783447266,,Forscher:innen in VZÄ im Unternehmenssektor,"OECD MSTI, Eurostat (rd_p_persocc), WIFO-Berechnungen"
+Patente je Mio. Einwohner:innen - Produktionstechnologien,2020,7.60311794281006,50.7074012756348,,Patentanmeldungen je Million Einwohner:innen zu Produktionstechnologien,"Patstat, Herbst 2023, WIFO-Berechnungen"
+Patente je Mio. Einwohner:innen - Materialtechnologien,2020,5.61001586914063,48.7802734375,,Patentanmeldungen je Millionen Einwohner:innen zu Materialtechnologien,"Patstat, Herbst 2023, WIFO-Berechnungen"
+Patente je Mio. Einwohner:innen - Industrielle Biotechnologie,2020,1.22286999225617,41.3585090637207,,Patentanmeldungen je Millionen Einwohner:innen zu industriellen Biotechnologien,"Patstat, Herbst 2023, WIFO-Berechnungen"
+Patente je Mio. Einwohner - Digitale Technologie,2020,9.51816272735596,46.1987724304199,,Patentanmeldungen je Million Einwohner:innen zu digitaler Technologie,"Patstat, Herbst 2023, WIFO-Berechnungen"
+PISA Leistungsdifferenz Herkunft,2023,64.777632518303,108.072616577148,,Kompetenz Lesen 15-jährige (PISA) - Leistungsdifferenz nach Herkunft,PISA
+Super-Patente,2020,1.62781666006609,90.58935546875,,„Super-Patente“ – bahnbrechende Erfindungen,"PATSTAT, Herbst 2023, Weltbank, WIFO-Berechnungen"
+Patentanmeldungen,2020,0.21586711704731,91.3415374755859,,Patentanmeldungen am EPA nach Wohnsitz der Erfinder:innen,"PATSTAT, Herbst 2023, Weltbank, WIFO-Berechnungen"
+Pagerank (Kreislaufwirtschaft),2020,0.205527388894724,77.0939559936524,,Pagerank (Kreislaufwirtschaft),"Patstat, Herbst 2023, WIFO-Berechnungen"
+Pagerank (unterstützende Grundlagentechnologien),2020,0.109543057017474,100.839477539063,,Pagerank (unterstützende Grundlagentechnologien),"Patstat, Herbst 2023, WIFO-Berechnungen"
+Privater Anteil an F&E-Finanzierung,2021,71.5357894897461,95.5504379272461,,Privater Anteil an F&E-Finanzierung,OECD MSTI
+Qualität der Publikationen,2023,100.768,82.5154190063477,,Anzahl der Publikationen unter den meistzitierten 10 % weltweit,European Innovation Scoreboard
+Politische Stabilität,2021,0.914891123771667,101.799850463867,,Politische Stabilität,Worldwide Governance Indicators
+Recyclingrate,2020,63,100.318473815918,,Recyclingrate,Eurostat (cei_wm010)
+Forscherinnen in Unternehmen,2021,18.7208633422852,77.1736221313477,,Forscherinnen (Sektor Unternehmen),OECD MSTI (BH_WRS)
+Forscherinnen außerhalb Unternehmen,2021,42.8773040771484,93.3989486694336,,Forscherinnen (Sektor Staat und Hochschule),"OECD MSTI (GH_WRS, HH_WRS)"
+Zahl der Forscher:innen,2022,6.62275886535645,82.6499176025391,,Forscher:innen in VZÄ in allen Sektoren (pro 1.000 der Bevölkerung),"OECD MSTI (TP_RS), Eurostat (rd_p_persocc), WIFO-Berechnungen"
+Rechtsstaatlichkeit,2021,1.78803551197052,101.668685913086,,"Rechtsstaatlichkeit, unabhängige Gerichte",Worldwide Governance Indicators
+Industrie- und Serviceroboter,2022,5.40000009536743,61.7849006652832,,Nutzung von Industrie- und Servicerobotern in Unternehmen,Eurostat - Community survey on ICT usage and eCommerce in Enterprises (E_RBT)
+Regulierungsqualität,2021,1.34870600700378,78.8299942016602,,"Intensität der regulatorischen Eingriffe, Preiskontrollen, Investititionskontrollen etc.",Worldwide Governance Indicators
+Schnellwachsende Unternehmen,2021,8.21000003814697,67.1300048828125,,Schnellwachsende Unternehmen,Eurostat (bd_9pm_r2 bd_hg)
+Exportkomplexität,2022,1.738214445139,126.092590332031,,Komplexitätsscore der exportierten Produkte,"BACI, WIFO-Berechnungen"
+Triadische Patentanmeldungen,2020,0.0359827801585197,68.2006530761719,,"Patentanmeldungen an EPA, JPO und USPTO nach Wohnsitz der Erfinder:innen","PATSTAT, Herbst 2023, Weltbank, WIFO-Berechnungen"
+IKT-Wertschöpfung,2021,11.8121443753132,93.1833267211914,,Wertschöpfungsanteil von Branchen mit hoher IKT-Intensität,"Eurostat SBS, WIFO-Berechnungen"
+Wertschöpfungsanteil von IKT-Produktionsbranchen,2021,6.39569751005957,75.3924713134766,,Wertschöpfungsanteil von IKT-Produktionsbranchen,"Eurostat SBS, WIFO-Berechnungen"
+Anteil berufsbezogene Absolvent:innen,2021,77.3577880859375,152.649398803711,,Anteil an Personen mit erwartetem Abschluss im oberen Sekundarbereich über die Lebenszeit,Eurostat (educ_uoe_grad01)
+Gesammelter Elektroschrott,2021,86.4000015258789,103.522651672363,,Gesammelte Elektro- und Elektronikgeräte-Abfall (WEEE) in kg pro Kopf,Eurostat (env_waseleeos)
+Innovationsintensiver Dienstleistungsexport,2022,76.2232133651297,97.0250244140625,,Anteil innovationsintensiver Sektoren am Dienstleistungsexport,"Eurostat Comext, ITC, WIFO-Berechnungen"
+Wissensintensität Export,2022,54.9579007077082,116.2353515625,,Anteil der Exporte im Hochpreissegment an allen Exporten,"Eurostat Comext, UN COMTRADE"
+RTA kreislaufwirtschaftsrelevanter Patentanmeldungen mit inländischen Erfinder:innen,2020,1.14622890949249,102.374824523926,,RTA kreislaufwirtschaftsrelevanter Patentanmeldungen mit inländischen Erfinder:innen,"Patstat, Herbst 2023, WIFO-Berechnungen"
+RTA-Patentanmeldungen für unterstützende Grundlagentechnologien mit inländischen Erfinder:innen,2020,0.868430137634277,99.0751647949219,,RTA-Patentanmeldungen für unterstützende Grundlagentechnologien mit inländischen Erfinder:innen,"Patstat, Herbst 2023, WIFO-Berechnungen"
+"Öffentliche Finanzierung HERD, in % des BIP",2021,0.639999985694885,119.402976989746,,Öffentliche Finanzierung von HERD im internationalen Vergleich (in % des BIP),Eurostat (rd_e_gerdfund)
+Anteil öffentlicher Finanzierung an HERD,2021,84.5145111083984,117.162773132324,,"Öffentliche Finanzierung von HERD im internationalen Vergleich, in % von HERD",Eurostat (rd_e_gerdfund)
+Öffentliche Finanzierung F&E,2021,0.926884949207306,126.180732727051,,Öffentliche Finanzierung von FTI im internationalen Vergleich,OECD MSTI (G_FGXGD)

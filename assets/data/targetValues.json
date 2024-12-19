@@ -1,0 +1,3363 @@
+{
+  "1.5": [
+    {
+      "year": 2019,
+      "target": 100,
+      "type": "a",
+      "value": 76.07,
+      "per": 76.07
+    },
+    {
+      "year": 2020,
+      "target": 100,
+      "type": "a",
+      "value": 75.08,
+      "per": 75.08
+    },
+    {
+      "year": 2021,
+      "target": 100,
+      "type": "a",
+      "value": 76.01,
+      "per": 76.01
+    },
+    {
+      "year": 2022,
+      "target": 100,
+      "type": "a",
+      "value": 75.14,
+      "per": 75.14
+    },
+    {
+      "year": 2023,
+      "target": 100,
+      "type": "a",
+      "value": 77.68,
+      "per": 77.68
+    },
+    {
+      "year": 2024,
+      "target": 100,
+      "type": "p",
+      "value": 77.93,
+      "per": 77.93
+    },
+    {
+      "year": 2025,
+      "target": 100,
+      "type": "p",
+      "value": 78.18,
+      "per": 78.18
+    },
+    {
+      "year": 2026,
+      "target": 100,
+      "type": "p",
+      "value": 78.43,
+      "per": 78.43
+    },
+    {
+      "year": 2027,
+      "target": 100,
+      "type": "p",
+      "value": 78.68,
+      "per": 78.68
+    },
+    {
+      "year": 2028,
+      "target": 100,
+      "type": "p",
+      "value": 78.94,
+      "per": 78.94
+    },
+    {
+      "year": 2029,
+      "target": 100,
+      "type": "p",
+      "value": 79.19,
+      "per": 79.19
+    },
+    {
+      "year": 2030,
+      "target": 100,
+      "type": "p",
+      "value": 79.45,
+      "per": 79.45
+    }
+  ],
+  "K.3": [
+    {
+      "year": 2010,
+      "target": 18,
+      "type": "a",
+      "value": 6.8,
+      "per": 37.78
+    },
+    {
+      "year": 2011,
+      "target": 18,
+      "type": "a",
+      "value": 6.9,
+      "per": 38.33
+    },
+    {
+      "year": 2012,
+      "target": 18,
+      "type": "a",
+      "value": 7.9,
+      "per": 43.89
+    },
+    {
+      "year": 2013,
+      "target": 18,
+      "type": "a",
+      "value": 9.2,
+      "per": 51.11
+    },
+    {
+      "year": 2014,
+      "target": 18,
+      "type": "a",
+      "value": 10,
+      "per": 55.56
+    },
+    {
+      "year": 2015,
+      "target": 18,
+      "type": "a",
+      "value": 11.2,
+      "per": 62.22
+    },
+    {
+      "year": 2016,
+      "target": 18,
+      "type": "a",
+      "value": 12,
+      "per": 66.67
+    },
+    {
+      "year": 2017,
+      "target": 18,
+      "type": "a",
+      "value": 12.1,
+      "per": 67.22
+    },
+    {
+      "year": 2018,
+      "target": 18,
+      "type": "a",
+      "value": 11.9,
+      "per": 66.11
+    },
+    {
+      "year": 2019,
+      "target": 18,
+      "type": "a",
+      "value": 11.6,
+      "per": 64.44
+    },
+    {
+      "year": 2020,
+      "target": 18,
+      "type": "a",
+      "value": 11.5,
+      "per": 63.89
+    },
+    {
+      "year": 2021,
+      "target": 18,
+      "type": "a",
+      "value": 12.8,
+      "per": 71.11
+    },
+    {
+      "year": 2022,
+      "target": 18,
+      "type": "p",
+      "value": 12.86,
+      "per": 71.47
+    },
+    {
+      "year": 2023,
+      "target": 18,
+      "type": "p",
+      "value": 12.93,
+      "per": 71.82
+    },
+    {
+      "year": 2024,
+      "target": 18,
+      "type": "p",
+      "value": 12.99,
+      "per": 72.18
+    },
+    {
+      "year": 2025,
+      "target": 18,
+      "type": "p",
+      "value": 13.06,
+      "per": 72.54
+    },
+    {
+      "year": 2026,
+      "target": 18,
+      "type": "p",
+      "value": 13.12,
+      "per": 72.91
+    },
+    {
+      "year": 2027,
+      "target": 18,
+      "type": "p",
+      "value": 13.19,
+      "per": 73.27
+    },
+    {
+      "year": 2028,
+      "target": 18,
+      "type": "p",
+      "value": 13.25,
+      "per": 73.64
+    },
+    {
+      "year": 2029,
+      "target": 18,
+      "type": "p",
+      "value": 13.32,
+      "per": 74.01
+    },
+    {
+      "year": 2030,
+      "target": 18,
+      "type": "p",
+      "value": 13.39,
+      "per": 74.38
+    }
+  ],
+  "K.1.1": [
+    {
+      "year": 2000,
+      "target": 14,
+      "type": "a",
+      "value": 19.23,
+      "per": 72.79
+    },
+    {
+      "year": 2001,
+      "target": 14,
+      "type": "a",
+      "value": 18.64,
+      "per": 75.13
+    },
+    {
+      "year": 2002,
+      "target": 14,
+      "type": "a",
+      "value": 19.73,
+      "per": 70.97
+    },
+    {
+      "year": 2003,
+      "target": 14,
+      "type": "a",
+      "value": 18.89,
+      "per": 74.12
+    },
+    {
+      "year": 2004,
+      "target": 14,
+      "type": "a",
+      "value": 19.56,
+      "per": 71.58
+    },
+    {
+      "year": 2005,
+      "target": 14,
+      "type": "a",
+      "value": 20.06,
+      "per": 69.8
+    },
+    {
+      "year": 2006,
+      "target": 14,
+      "type": "a",
+      "value": 20.28,
+      "per": 69.02
+    },
+    {
+      "year": 2007,
+      "target": 14,
+      "type": "a",
+      "value": 20.54,
+      "per": 68.17
+    },
+    {
+      "year": 2008,
+      "target": 14,
+      "type": "a",
+      "value": 19.96,
+      "per": 70.15
+    },
+    {
+      "year": 2009,
+      "target": 14,
+      "type": "a",
+      "value": 18.58,
+      "per": 75.33
+    },
+    {
+      "year": 2010,
+      "target": 14,
+      "type": "a",
+      "value": 18.65,
+      "per": 75.08
+    },
+    {
+      "year": 2011,
+      "target": 14,
+      "type": "a",
+      "value": 19.7,
+      "per": 71.08
+    },
+    {
+      "year": 2012,
+      "target": 14,
+      "type": "a",
+      "value": 18.61,
+      "per": 75.22
+    },
+    {
+      "year": 2013,
+      "target": 14,
+      "type": "a",
+      "value": 18.09,
+      "per": 77.38
+    },
+    {
+      "year": 2014,
+      "target": 14,
+      "type": "a",
+      "value": 18.4,
+      "per": 76.08
+    },
+    {
+      "year": 2015,
+      "target": 14,
+      "type": "a",
+      "value": 17.57,
+      "per": 79.66
+    },
+    {
+      "year": 2016,
+      "target": 14,
+      "type": "a",
+      "value": 17.71,
+      "per": 79.04
+    },
+    {
+      "year": 2017,
+      "target": 14,
+      "type": "a",
+      "value": 17.63,
+      "per": 79.4
+    },
+    {
+      "year": 2018,
+      "target": 14,
+      "type": "a",
+      "value": 17.62,
+      "per": 79.46
+    },
+    {
+      "year": 2019,
+      "target": 14,
+      "type": "a",
+      "value": 17.77,
+      "per": 78.77
+    },
+    {
+      "year": 2020,
+      "target": 14,
+      "type": "a",
+      "value": 17.88,
+      "per": 78.3
+    },
+    {
+      "year": 2021,
+      "target": 14,
+      "type": "a",
+      "value": 18.32,
+      "per": 76.41
+    },
+    {
+      "year": 2022,
+      "target": 14,
+      "type": "a",
+      "value": 17.64,
+      "per": 79.35
+    },
+    {
+      "year": 2023,
+      "target": 14,
+      "type": "p",
+      "value": 17.57,
+      "per": 79.66
+    },
+    {
+      "year": 2024,
+      "target": 14,
+      "type": "p",
+      "value": 17.51,
+      "per": 79.97
+    },
+    {
+      "year": 2025,
+      "target": 14,
+      "type": "p",
+      "value": 17.44,
+      "per": 80.29
+    },
+    {
+      "year": 2026,
+      "target": 14,
+      "type": "p",
+      "value": 17.37,
+      "per": 80.6
+    },
+    {
+      "year": 2027,
+      "target": 14,
+      "type": "p",
+      "value": 17.3,
+      "per": 80.92
+    },
+    {
+      "year": 2028,
+      "target": 14,
+      "type": "p",
+      "value": 17.23,
+      "per": 81.24
+    },
+    {
+      "year": 2029,
+      "target": 14,
+      "type": "p",
+      "value": 17.17,
+      "per": 81.56
+    },
+    {
+      "year": 2030,
+      "target": 14,
+      "type": "p",
+      "value": 17.1,
+      "per": 81.88
+    }
+  ],
+  "1.1.1": [
+    {
+      "year": 2005,
+      "target": 5,
+      "type": "a",
+      "value": 10,
+      "per": 50
+    },
+    {
+      "year": 2006,
+      "target": 5,
+      "type": "a",
+      "value": 5,
+      "per": 100
+    },
+    {
+      "year": 2007,
+      "target": 5,
+      "type": "a",
+      "value": 9,
+      "per": 55.56
+    },
+    {
+      "year": 2008,
+      "target": 5,
+      "type": "a",
+      "value": 8,
+      "per": 62.5
+    },
+    {
+      "year": 2009,
+      "target": 5,
+      "type": "a",
+      "value": 6,
+      "per": 83.33
+    },
+    {
+      "year": 2010,
+      "target": 5,
+      "type": "a",
+      "value": 6,
+      "per": 83.33
+    },
+    {
+      "year": 2011,
+      "target": 5,
+      "type": "a",
+      "value": 7,
+      "per": 71.43
+    },
+    {
+      "year": 2012,
+      "target": 5,
+      "type": "a",
+      "value": 8,
+      "per": 62.5
+    },
+    {
+      "year": 2014,
+      "target": 5,
+      "type": "a",
+      "value": 9,
+      "per": 55.56
+    },
+    {
+      "year": 2015,
+      "target": 5,
+      "type": "a",
+      "value": 10,
+      "per": 50
+    },
+    {
+      "year": 2016,
+      "target": 5,
+      "type": "a",
+      "value": 11,
+      "per": 45.45
+    },
+    {
+      "year": 2017,
+      "target": 5,
+      "type": "a",
+      "value": 10,
+      "per": 50
+    },
+    {
+      "year": 2018,
+      "target": 5,
+      "type": "a",
+      "value": 7,
+      "per": 71.43
+    },
+    {
+      "year": 2019,
+      "target": 5,
+      "type": "a",
+      "value": 10,
+      "per": 50
+    },
+    {
+      "year": 2020,
+      "target": 5,
+      "type": "a",
+      "value": 9,
+      "per": 55.56
+    },
+    {
+      "year": 2021,
+      "target": 5,
+      "type": "a",
+      "value": 8,
+      "per": 62.5
+    },
+    {
+      "year": 2022,
+      "target": 5,
+      "type": "a",
+      "value": 8,
+      "per": 62.5
+    },
+    {
+      "year": 2023,
+      "target": 5,
+      "type": "a",
+      "value": 6,
+      "per": 83.33
+    },
+    {
+      "year": 2024,
+      "target": 5,
+      "type": "p",
+      "value": 5.83,
+      "per": 85.73
+    },
+    {
+      "year": 2025,
+      "target": 5,
+      "type": "p",
+      "value": 5.67,
+      "per": 88.2
+    },
+    {
+      "year": 2026,
+      "target": 5,
+      "type": "p",
+      "value": 5.51,
+      "per": 90.74
+    },
+    {
+      "year": 2027,
+      "target": 5,
+      "type": "p",
+      "value": 5.36,
+      "per": 93.35
+    },
+    {
+      "year": 2028,
+      "target": 5,
+      "type": "p",
+      "value": 5.21,
+      "per": 96.04
+    },
+    {
+      "year": 2029,
+      "target": 5,
+      "type": "p",
+      "value": 5.06,
+      "per": 98.8
+    },
+    {
+      "year": 2030,
+      "target": 5,
+      "type": "p",
+      "value": 4.92,
+      "per": 100
+    }
+  ],
+  "2.1": [
+    {
+      "year": 2002,
+      "target": 5,
+      "type": "a",
+      "value": 9,
+      "per": 55.56
+    },
+    {
+      "year": 2004,
+      "target": 5,
+      "type": "a",
+      "value": 9,
+      "per": 55.56
+    },
+    {
+      "year": 2006,
+      "target": 5,
+      "type": "a",
+      "value": 9,
+      "per": 55.56
+    },
+    {
+      "year": 2007,
+      "target": 5,
+      "type": "a",
+      "value": 10,
+      "per": 50
+    },
+    {
+      "year": 2009,
+      "target": 5,
+      "type": "a",
+      "value": 10,
+      "per": 50
+    },
+    {
+      "year": 2011,
+      "target": 5,
+      "type": "a",
+      "value": 9,
+      "per": 55.56
+    },
+    {
+      "year": 2013,
+      "target": 5,
+      "type": "a",
+      "value": 6,
+      "per": 83.33
+    },
+    {
+      "year": 2015,
+      "target": 5,
+      "type": "a",
+      "value": 7,
+      "per": 71.43
+    },
+    {
+      "year": 2017,
+      "target": 5,
+      "type": "a",
+      "value": 6,
+      "per": 83.33
+    },
+    {
+      "year": 2019,
+      "target": 5,
+      "type": "a",
+      "value": 8,
+      "per": 62.5
+    },
+    {
+      "year": 2021,
+      "target": 5,
+      "type": "a",
+      "value": 7,
+      "per": 71.43
+    },
+    {
+      "year": 2022,
+      "target": 5,
+      "type": "p",
+      "value": 6.99,
+      "per": 71.5
+    },
+    {
+      "year": 2023,
+      "target": 5,
+      "type": "p",
+      "value": 6.99,
+      "per": 71.57
+    },
+    {
+      "year": 2024,
+      "target": 5,
+      "type": "p",
+      "value": 6.98,
+      "per": 71.64
+    },
+    {
+      "year": 2025,
+      "target": 5,
+      "type": "p",
+      "value": 6.97,
+      "per": 71.72
+    },
+    {
+      "year": 2026,
+      "target": 5,
+      "type": "p",
+      "value": 6.97,
+      "per": 71.79
+    },
+    {
+      "year": 2027,
+      "target": 5,
+      "type": "p",
+      "value": 6.96,
+      "per": 71.86
+    },
+    {
+      "year": 2028,
+      "target": 5,
+      "type": "p",
+      "value": 6.95,
+      "per": 71.93
+    },
+    {
+      "year": 2029,
+      "target": 5,
+      "type": "p",
+      "value": 6.94,
+      "per": 72
+    },
+    {
+      "year": 2030,
+      "target": 5,
+      "type": "p",
+      "value": 6.94,
+      "per": 72.07
+    }
+  ],
+  "3.2": [
+    {
+      "year": 2016,
+      "target": 3,
+      "type": "a",
+      "value": 5,
+      "per": 60
+    },
+    {
+      "year": 2017,
+      "target": 3,
+      "type": "a",
+      "value": 4,
+      "per": 75
+    },
+    {
+      "year": 2018,
+      "target": 3,
+      "type": "a",
+      "value": 4,
+      "per": 75
+    },
+    {
+      "year": 2019,
+      "target": 3,
+      "type": "a",
+      "value": 4,
+      "per": 75
+    },
+    {
+      "year": 2020,
+      "target": 3,
+      "type": "a",
+      "value": 6,
+      "per": 50
+    },
+    {
+      "year": 2021,
+      "target": 3,
+      "type": "a",
+      "value": 6,
+      "per": 50
+    },
+    {
+      "year": 2022,
+      "target": 3,
+      "type": "a",
+      "value": 8,
+      "per": 37.5
+    },
+    {
+      "year": 2023,
+      "target": 3,
+      "type": "a",
+      "value": 9,
+      "per": 33.33
+    },
+    {
+      "year": 2024,
+      "target": 3,
+      "type": "p",
+      "value": 9.79,
+      "per": 30.65
+    },
+    {
+      "year": 2025,
+      "target": 3,
+      "type": "p",
+      "value": 10.65,
+      "per": 28.18
+    },
+    {
+      "year": 2026,
+      "target": 3,
+      "type": "p",
+      "value": 11.58,
+      "per": 25.91
+    },
+    {
+      "year": 2027,
+      "target": 3,
+      "type": "p",
+      "value": 12.59,
+      "per": 23.82
+    },
+    {
+      "year": 2028,
+      "target": 3,
+      "type": "p",
+      "value": 13.7,
+      "per": 21.9
+    },
+    {
+      "year": 2029,
+      "target": 3,
+      "type": "p",
+      "value": 14.9,
+      "per": 20.14
+    },
+    {
+      "year": 2030,
+      "target": 3,
+      "type": "p",
+      "value": 16.2,
+      "per": 18.52
+    }
+  ],
+  "3.1.1": [
+    {
+      "year": 2020,
+      "target": 10270.7998,
+      "type": "a",
+      "value": 8559,
+      "per": 83.33
+    },
+    {
+      "year": 2021,
+      "target": 10270.7998,
+      "type": "a",
+      "value": 9467,
+      "per": 92.17
+    },
+    {
+      "year": 2022,
+      "target": 10270.7998,
+      "type": "a",
+      "value": 9019,
+      "per": 87.81
+    },
+    {
+      "year": 2023,
+      "target": 10270.7998,
+      "type": "p",
+      "value": 9258.19,
+      "per": 90.14
+    },
+    {
+      "year": 2024,
+      "target": 10270.7998,
+      "type": "p",
+      "value": 9503.72,
+      "per": 92.53
+    },
+    {
+      "year": 2025,
+      "target": 10270.7998,
+      "type": "p",
+      "value": 9755.77,
+      "per": 94.99
+    },
+    {
+      "year": 2026,
+      "target": 10270.7998,
+      "type": "p",
+      "value": 10014.5,
+      "per": 97.5
+    },
+    {
+      "year": 2027,
+      "target": 10270.7998,
+      "type": "p",
+      "value": 10280.09,
+      "per": 100
+    },
+    {
+      "year": 2028,
+      "target": 10270.7998,
+      "type": "p",
+      "value": 10552.72,
+      "per": 100
+    },
+    {
+      "year": 2029,
+      "target": 10270.7998,
+      "type": "p",
+      "value": 10832.59,
+      "per": 100
+    },
+    {
+      "year": 2030,
+      "target": 10270.7998,
+      "type": "p",
+      "value": 11119.87,
+      "per": 100
+    }
+  ],
+  "K.2": [
+    {
+      "year": 2000,
+      "target": 3.3999,
+      "type": "a",
+      "value": 1.82,
+      "per": 53.54
+    },
+    {
+      "year": 2001,
+      "target": 3.3999,
+      "type": "a",
+      "value": 1.9,
+      "per": 55.74
+    },
+    {
+      "year": 2002,
+      "target": 3.3999,
+      "type": "a",
+      "value": 1.81,
+      "per": 53.26
+    },
+    {
+      "year": 2003,
+      "target": 3.3999,
+      "type": "a",
+      "value": 1.9,
+      "per": 55.88
+    },
+    {
+      "year": 2004,
+      "target": 3.3999,
+      "type": "a",
+      "value": 1.87,
+      "per": 55.1
+    },
+    {
+      "year": 2005,
+      "target": 3.3999,
+      "type": "a",
+      "value": 1.86,
+      "per": 54.56
+    },
+    {
+      "year": 2006,
+      "target": 3.3999,
+      "type": "a",
+      "value": 1.89,
+      "per": 55.53
+    },
+    {
+      "year": 2007,
+      "target": 3.3999,
+      "type": "a",
+      "value": 1.93,
+      "per": 56.72
+    },
+    {
+      "year": 2008,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.01,
+      "per": 59.03
+    },
+    {
+      "year": 2009,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.07,
+      "per": 60.85
+    },
+    {
+      "year": 2010,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.09,
+      "per": 61.6
+    },
+    {
+      "year": 2011,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.03,
+      "per": 59.83
+    },
+    {
+      "year": 2012,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.16,
+      "per": 63.46
+    },
+    {
+      "year": 2013,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.21,
+      "per": 64.91
+    },
+    {
+      "year": 2014,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.17,
+      "per": 63.74
+    },
+    {
+      "year": 2015,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.27,
+      "per": 66.67
+    },
+    {
+      "year": 2016,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.27,
+      "per": 66.73
+    },
+    {
+      "year": 2017,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.31,
+      "per": 68.08
+    },
+    {
+      "year": 2018,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.36,
+      "per": 69.44
+    },
+    {
+      "year": 2019,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.37,
+      "per": 69.58
+    },
+    {
+      "year": 2020,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.19,
+      "per": 64.43
+    },
+    {
+      "year": 2021,
+      "target": 3.3999,
+      "type": "a",
+      "value": 2.23,
+      "per": 65.45
+    },
+    {
+      "year": 2022,
+      "target": 3.3999,
+      "type": "p",
+      "value": 2.25,
+      "per": 66.08
+    },
+    {
+      "year": 2023,
+      "target": 3.3999,
+      "type": "p",
+      "value": 2.27,
+      "per": 66.71
+    },
+    {
+      "year": 2024,
+      "target": 3.3999,
+      "type": "p",
+      "value": 2.29,
+      "per": 67.35
+    },
+    {
+      "year": 2025,
+      "target": 3.3999,
+      "type": "p",
+      "value": 2.31,
+      "per": 68
+    },
+    {
+      "year": 2026,
+      "target": 3.3999,
+      "type": "p",
+      "value": 2.33,
+      "per": 68.66
+    },
+    {
+      "year": 2027,
+      "target": 3.3999,
+      "type": "p",
+      "value": 2.36,
+      "per": 69.32
+    },
+    {
+      "year": 2028,
+      "target": 3.3999,
+      "type": "p",
+      "value": 2.38,
+      "per": 69.98
+    },
+    {
+      "year": 2029,
+      "target": 3.3999,
+      "type": "p",
+      "value": 2.4,
+      "per": 70.65
+    },
+    {
+      "year": 2030,
+      "target": 3.3999,
+      "type": "p",
+      "value": 2.43,
+      "per": 71.33
+    }
+  ],
+  "3.3": [
+    {
+      "year": 2012,
+      "target": 200,
+      "type": "a",
+      "value": 363,
+      "per": 55.1
+    },
+    {
+      "year": 2013,
+      "target": 200,
+      "type": "a",
+      "value": 371,
+      "per": 53.91
+    },
+    {
+      "year": 2014,
+      "target": 200,
+      "type": "a",
+      "value": 383,
+      "per": 52.22
+    },
+    {
+      "year": 2015,
+      "target": 200,
+      "type": "a",
+      "value": 343,
+      "per": 58.31
+    },
+    {
+      "year": 2016,
+      "target": 200,
+      "type": "a",
+      "value": 412,
+      "per": 48.54
+    },
+    {
+      "year": 2017,
+      "target": 200,
+      "type": "a",
+      "value": 416,
+      "per": 48.08
+    },
+    {
+      "year": 2018,
+      "target": 200,
+      "type": "a",
+      "value": 344,
+      "per": 58.14
+    },
+    {
+      "year": 2019,
+      "target": 200,
+      "type": "a",
+      "value": 335,
+      "per": 59.7
+    },
+    {
+      "year": 2020,
+      "target": 200,
+      "type": "a",
+      "value": 365,
+      "per": 54.79
+    },
+    {
+      "year": 2021,
+      "target": 200,
+      "type": "a",
+      "value": 333,
+      "per": 60.06
+    },
+    {
+      "year": 2022,
+      "target": 200,
+      "type": "a",
+      "value": 292,
+      "per": 68.49
+    },
+    {
+      "year": 2023,
+      "target": 200,
+      "type": "a",
+      "value": 320,
+      "per": 62.5
+    },
+    {
+      "year": 2024,
+      "target": 200,
+      "type": "p",
+      "value": 316.35,
+      "per": 63.22
+    },
+    {
+      "year": 2025,
+      "target": 200,
+      "type": "p",
+      "value": 312.75,
+      "per": 63.95
+    },
+    {
+      "year": 2026,
+      "target": 200,
+      "type": "p",
+      "value": 309.18,
+      "per": 64.69
+    },
+    {
+      "year": 2027,
+      "target": 200,
+      "type": "p",
+      "value": 305.66,
+      "per": 65.43
+    },
+    {
+      "year": 2028,
+      "target": 200,
+      "type": "p",
+      "value": 302.18,
+      "per": 66.19
+    },
+    {
+      "year": 2029,
+      "target": 200,
+      "type": "p",
+      "value": 298.73,
+      "per": 66.95
+    },
+    {
+      "year": 2030,
+      "target": 200,
+      "type": "p",
+      "value": 295.33,
+      "per": 67.72
+    }
+  ],
+  "2.2": [
+    {
+      "year": 2007,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.02,
+      "per": 21.95
+    },
+    {
+      "year": 2008,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.02,
+      "per": 21.01
+    },
+    {
+      "year": 2009,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.03,
+      "per": 25.91
+    },
+    {
+      "year": 2010,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.01,
+      "per": 14.64
+    },
+    {
+      "year": 2011,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.03,
+      "per": 31.36
+    },
+    {
+      "year": 2012,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.01,
+      "per": 13.7
+    },
+    {
+      "year": 2013,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.02,
+      "per": 18.31
+    },
+    {
+      "year": 2014,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.02,
+      "per": 17.9
+    },
+    {
+      "year": 2015,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.03,
+      "per": 32.65
+    },
+    {
+      "year": 2016,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.02,
+      "per": 15.91
+    },
+    {
+      "year": 2017,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.03,
+      "per": 29.19
+    },
+    {
+      "year": 2018,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.02,
+      "per": 22.41
+    },
+    {
+      "year": 2019,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.02,
+      "per": 20.31
+    },
+    {
+      "year": 2020,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.03,
+      "per": 27.72
+    },
+    {
+      "year": 2021,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.17,
+      "per": 100
+    },
+    {
+      "year": 2022,
+      "target": 0.1,
+      "type": "a",
+      "value": 0.04,
+      "per": 40.68
+    },
+    {
+      "year": 2023,
+      "target": 0.1,
+      "type": "p",
+      "value": 0.04,
+      "per": 40.68
+    },
+    {
+      "year": 2024,
+      "target": 0.1,
+      "type": "p",
+      "value": 0.04,
+      "per": 40.68
+    },
+    {
+      "year": 2025,
+      "target": 0.1,
+      "type": "p",
+      "value": 0.04,
+      "per": 40.68
+    },
+    {
+      "year": 2026,
+      "target": 0.1,
+      "type": "p",
+      "value": 0.04,
+      "per": 40.68
+    },
+    {
+      "year": 2027,
+      "target": 0.1,
+      "type": "p",
+      "value": 0.04,
+      "per": 40.68
+    },
+    {
+      "year": 2028,
+      "target": 0.1,
+      "type": "p",
+      "value": 0.04,
+      "per": 40.68
+    },
+    {
+      "year": 2029,
+      "target": 0.1,
+      "type": "p",
+      "value": 0.04,
+      "per": 40.68
+    },
+    {
+      "year": 2030,
+      "target": 0.1,
+      "type": "p",
+      "value": 0.04,
+      "per": 40.68
+    }
+  ],
+  "3.4": [
+    {
+      "year": 2006,
+      "target": 45,
+      "type": "a",
+      "value": 72.5,
+      "per": 100
+    },
+    {
+      "year": 2007,
+      "target": 45,
+      "type": "a",
+      "value": 61.01,
+      "per": 100
+    },
+    {
+      "year": 2008,
+      "target": 45,
+      "type": "a",
+      "value": 55.06,
+      "per": 100
+    },
+    {
+      "year": 2009,
+      "target": 45,
+      "type": "a",
+      "value": 63.77,
+      "per": 100
+    },
+    {
+      "year": 2010,
+      "target": 45,
+      "type": "a",
+      "value": 56.19,
+      "per": 100
+    },
+    {
+      "year": 2011,
+      "target": 45,
+      "type": "a",
+      "value": 42.72,
+      "per": 94.92
+    },
+    {
+      "year": 2012,
+      "target": 45,
+      "type": "a",
+      "value": 50.44,
+      "per": 100
+    },
+    {
+      "year": 2013,
+      "target": 45,
+      "type": "a",
+      "value": 66.33,
+      "per": 100
+    },
+    {
+      "year": 2014,
+      "target": 45,
+      "type": "a",
+      "value": 53.78,
+      "per": 100
+    },
+    {
+      "year": 2015,
+      "target": 45,
+      "type": "a",
+      "value": 51.32,
+      "per": 100
+    },
+    {
+      "year": 2016,
+      "target": 45,
+      "type": "a",
+      "value": 54.73,
+      "per": 100
+    },
+    {
+      "year": 2017,
+      "target": 45,
+      "type": "a",
+      "value": 52.02,
+      "per": 100
+    },
+    {
+      "year": 2018,
+      "target": 45,
+      "type": "a",
+      "value": 54.46,
+      "per": 100
+    },
+    {
+      "year": 2019,
+      "target": 45,
+      "type": "a",
+      "value": 40.43,
+      "per": 89.85
+    },
+    {
+      "year": 2020,
+      "target": 45,
+      "type": "a",
+      "value": 46.47,
+      "per": 100
+    },
+    {
+      "year": 2021,
+      "target": 45,
+      "type": "a",
+      "value": 53.09,
+      "per": 100
+    },
+    {
+      "year": 2022,
+      "target": 45,
+      "type": "a",
+      "value": 43.03,
+      "per": 95.62
+    },
+    {
+      "year": 2023,
+      "target": 45,
+      "type": "p",
+      "value": 42.28,
+      "per": 93.96
+    },
+    {
+      "year": 2024,
+      "target": 45,
+      "type": "p",
+      "value": 41.55,
+      "per": 92.33
+    },
+    {
+      "year": 2025,
+      "target": 45,
+      "type": "p",
+      "value": 40.83,
+      "per": 90.73
+    },
+    {
+      "year": 2026,
+      "target": 45,
+      "type": "p",
+      "value": 40.12,
+      "per": 89.16
+    },
+    {
+      "year": 2027,
+      "target": 45,
+      "type": "p",
+      "value": 39.43,
+      "per": 87.61
+    },
+    {
+      "year": 2028,
+      "target": 45,
+      "type": "p",
+      "value": 38.74,
+      "per": 86.09
+    },
+    {
+      "year": 2029,
+      "target": 45,
+      "type": "p",
+      "value": 38.07,
+      "per": 84.6
+    },
+    {
+      "year": 2030,
+      "target": 45,
+      "type": "p",
+      "value": 37.41,
+      "per": 83.13
+    }
+  ],
+  "1.1.2": [
+    {
+      "year": 2021,
+      "target": 5,
+      "type": "a",
+      "value": 8,
+      "per": 62.5
+    },
+    {
+      "year": 2022,
+      "target": 5,
+      "type": "a",
+      "value": 10,
+      "per": 50
+    },
+    {
+      "year": 2023,
+      "target": 5,
+      "type": "a",
+      "value": 12,
+      "per": 41.67
+    },
+    {
+      "year": 2024,
+      "target": 5,
+      "type": "p",
+      "value": 14.7,
+      "per": 34.02
+    },
+    {
+      "year": 2025,
+      "target": 5,
+      "type": "p",
+      "value": 18,
+      "per": 27.78
+    },
+    {
+      "year": 2026,
+      "target": 5,
+      "type": "p",
+      "value": 22.05,
+      "per": 22.68
+    },
+    {
+      "year": 2027,
+      "target": 5,
+      "type": "p",
+      "value": 27,
+      "per": 18.52
+    },
+    {
+      "year": 2028,
+      "target": 5,
+      "type": "p",
+      "value": 27,
+      "per": 15.12
+    },
+    {
+      "year": 2029,
+      "target": 5,
+      "type": "p",
+      "value": 27,
+      "per": 12.35
+    },
+    {
+      "year": 2030,
+      "target": 5,
+      "type": "p",
+      "value": 27,
+      "per": 10.08
+    }
+  ],
+  "2.4": [
+    {
+      "year": 2009,
+      "target": 10,
+      "type": "a",
+      "value": 7,
+      "per": 100
+    },
+    {
+      "year": 2010,
+      "target": 10,
+      "type": "a",
+      "value": 5,
+      "per": 100
+    },
+    {
+      "year": 2011,
+      "target": 10,
+      "type": "a",
+      "value": 6,
+      "per": 100
+    },
+    {
+      "year": 2012,
+      "target": 10,
+      "type": "a",
+      "value": 13,
+      "per": 76.92
+    },
+    {
+      "year": 2013,
+      "target": 10,
+      "type": "a",
+      "value": 5,
+      "per": 100
+    },
+    {
+      "year": 2014,
+      "target": 10,
+      "type": "a",
+      "value": 9,
+      "per": 100
+    },
+    {
+      "year": 2015,
+      "target": 10,
+      "type": "a",
+      "value": 4,
+      "per": 100
+    },
+    {
+      "year": 2016,
+      "target": 10,
+      "type": "a",
+      "value": 5,
+      "per": 100
+    },
+    {
+      "year": 2017,
+      "target": 10,
+      "type": "a",
+      "value": 7,
+      "per": 100
+    },
+    {
+      "year": 2018,
+      "target": 10,
+      "type": "a",
+      "value": 10,
+      "per": 100
+    },
+    {
+      "year": 2019,
+      "target": 10,
+      "type": "a",
+      "value": 11,
+      "per": 90.91
+    },
+    {
+      "year": 2020,
+      "target": 10,
+      "type": "a",
+      "value": 3,
+      "per": 100
+    },
+    {
+      "year": 2021,
+      "target": 10,
+      "type": "a",
+      "value": 6,
+      "per": 100
+    },
+    {
+      "year": 2022,
+      "target": 10,
+      "type": "a",
+      "value": 6,
+      "per": 100
+    },
+    {
+      "year": 2023,
+      "target": 10,
+      "type": "p",
+      "value": 5.93,
+      "per": 100
+    },
+    {
+      "year": 2024,
+      "target": 10,
+      "type": "p",
+      "value": 5.86,
+      "per": 100
+    },
+    {
+      "year": 2025,
+      "target": 10,
+      "type": "p",
+      "value": 5.79,
+      "per": 100
+    },
+    {
+      "year": 2026,
+      "target": 10,
+      "type": "p",
+      "value": 5.72,
+      "per": 100
+    },
+    {
+      "year": 2027,
+      "target": 10,
+      "type": "p",
+      "value": 5.65,
+      "per": 100
+    },
+    {
+      "year": 2028,
+      "target": 10,
+      "type": "p",
+      "value": 5.59,
+      "per": 100
+    },
+    {
+      "year": 2029,
+      "target": 10,
+      "type": "p",
+      "value": 5.52,
+      "per": 100
+    },
+    {
+      "year": 2030,
+      "target": 10,
+      "type": "p",
+      "value": 5.46,
+      "per": 100
+    }
+  ],
+  "1.2": [
+    {
+      "year": 2021,
+      "target": 10,
+      "type": "a",
+      "value": 4,
+      "per": 40
+    },
+    {
+      "year": 2022,
+      "target": 10,
+      "type": "a",
+      "value": 6,
+      "per": 60
+    },
+    {
+      "year": 2023,
+      "target": 10,
+      "type": "a",
+      "value": 7,
+      "per": 70
+    },
+    {
+      "year": 2024,
+      "target": 10,
+      "type": "p",
+      "value": 9.26,
+      "per": 92.6
+    },
+    {
+      "year": 2025,
+      "target": 10,
+      "type": "p",
+      "value": 12.25,
+      "per": 100
+    },
+    {
+      "year": 2026,
+      "target": 10,
+      "type": "p",
+      "value": 16.21,
+      "per": 100
+    },
+    {
+      "year": 2027,
+      "target": 10,
+      "type": "p",
+      "value": 21.44,
+      "per": 100
+    },
+    {
+      "year": 2028,
+      "target": 10,
+      "type": "p",
+      "value": 28.36,
+      "per": 100
+    },
+    {
+      "year": 2029,
+      "target": 10,
+      "type": "p",
+      "value": 37.52,
+      "per": 100
+    },
+    {
+      "year": 2030,
+      "target": 10,
+      "type": "p",
+      "value": 49.63,
+      "per": 100
+    }
+  ],
+  "1.3": [
+    {
+      "year": 2000,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 1317,
+      "per": 28.34
+    },
+    {
+      "year": 2001,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 1317,
+      "per": 28.34
+    },
+    {
+      "year": 2002,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 1942,
+      "per": 41.8
+    },
+    {
+      "year": 2003,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 1942,
+      "per": 41.8
+    },
+    {
+      "year": 2004,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 2123,
+      "per": 45.69
+    },
+    {
+      "year": 2005,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 2123,
+      "per": 45.69
+    },
+    {
+      "year": 2006,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 2407,
+      "per": 51.8
+    },
+    {
+      "year": 2007,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 2521,
+      "per": 54.26
+    },
+    {
+      "year": 2008,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 2521,
+      "per": 54.26
+    },
+    {
+      "year": 2009,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 2946,
+      "per": 63.4
+    },
+    {
+      "year": 2010,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 2946,
+      "per": 63.4
+    },
+    {
+      "year": 2011,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3384,
+      "per": 72.83
+    },
+    {
+      "year": 2012,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3384,
+      "per": 72.83
+    },
+    {
+      "year": 2013,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3326,
+      "per": 71.58
+    },
+    {
+      "year": 2014,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3326,
+      "per": 71.58
+    },
+    {
+      "year": 2015,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3611,
+      "per": 77.72
+    },
+    {
+      "year": 2016,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3611,
+      "per": 77.72
+    },
+    {
+      "year": 2017,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3489,
+      "per": 75.09
+    },
+    {
+      "year": 2018,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3489,
+      "per": 75.09
+    },
+    {
+      "year": 2019,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3872,
+      "per": 83.33
+    },
+    {
+      "year": 2020,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3872,
+      "per": 83.33
+    },
+    {
+      "year": 2021,
+      "target": 4646.3999,
+      "type": "a",
+      "value": 3511,
+      "per": 75.56
+    },
+    {
+      "year": 2022,
+      "target": 4646.3999,
+      "type": "p",
+      "value": 3678.83,
+      "per": 79.18
+    },
+    {
+      "year": 2023,
+      "target": 4646.3999,
+      "type": "p",
+      "value": 3854.67,
+      "per": 82.96
+    },
+    {
+      "year": 2024,
+      "target": 4646.3999,
+      "type": "p",
+      "value": 4038.93,
+      "per": 86.93
+    },
+    {
+      "year": 2025,
+      "target": 4646.3999,
+      "type": "p",
+      "value": 4231.99,
+      "per": 91.08
+    },
+    {
+      "year": 2026,
+      "target": 4646.3999,
+      "type": "p",
+      "value": 4434.27,
+      "per": 95.43
+    },
+    {
+      "year": 2027,
+      "target": 4646.3999,
+      "type": "p",
+      "value": 4646.23,
+      "per": 100
+    },
+    {
+      "year": 2028,
+      "target": 4646.3999,
+      "type": "p",
+      "value": 4868.32,
+      "per": 100
+    },
+    {
+      "year": 2029,
+      "target": 4646.3999,
+      "type": "p",
+      "value": 5101.03,
+      "per": 100
+    },
+    {
+      "year": 2030,
+      "target": 4646.3999,
+      "type": "p",
+      "value": 5344.85,
+      "per": 100
+    }
+  ],
+  "1.1.3": [
+    {
+      "year": 2009,
+      "target": 10,
+      "type": "a",
+      "value": 15,
+      "per": 66.67
+    },
+    {
+      "year": 2010,
+      "target": 10,
+      "type": "a",
+      "value": 21,
+      "per": 47.62
+    },
+    {
+      "year": 2011,
+      "target": 10,
+      "type": "a",
+      "value": 19,
+      "per": 52.63
+    },
+    {
+      "year": 2012,
+      "target": 10,
+      "type": "a",
+      "value": 22,
+      "per": 45.45
+    },
+    {
+      "year": 2013,
+      "target": 10,
+      "type": "a",
+      "value": 23,
+      "per": 43.48
+    },
+    {
+      "year": 2014,
+      "target": 10,
+      "type": "a",
+      "value": 20,
+      "per": 50
+    },
+    {
+      "year": 2015,
+      "target": 10,
+      "type": "a",
+      "value": 18,
+      "per": 55.56
+    },
+    {
+      "year": 2016,
+      "target": 10,
+      "type": "a",
+      "value": 20,
+      "per": 50
+    },
+    {
+      "year": 2017,
+      "target": 10,
+      "type": "a",
+      "value": 20,
+      "per": 50
+    },
+    {
+      "year": 2018,
+      "target": 10,
+      "type": "a",
+      "value": 20,
+      "per": 50
+    },
+    {
+      "year": 2019,
+      "target": 10,
+      "type": "a",
+      "value": 21,
+      "per": 47.62
+    },
+    {
+      "year": 2020,
+      "target": 10,
+      "type": "a",
+      "value": 19,
+      "per": 52.63
+    },
+    {
+      "year": 2021,
+      "target": 10,
+      "type": "a",
+      "value": 18,
+      "per": 55.56
+    },
+    {
+      "year": 2022,
+      "target": 10,
+      "type": "a",
+      "value": 17,
+      "per": 58.82
+    },
+    {
+      "year": 2023,
+      "target": 10,
+      "type": "a",
+      "value": 18,
+      "per": 55.56
+    },
+    {
+      "year": 2024,
+      "target": 10,
+      "type": "p",
+      "value": 18.24,
+      "per": 54.84
+    },
+    {
+      "year": 2025,
+      "target": 10,
+      "type": "p",
+      "value": 18.47,
+      "per": 54.13
+    },
+    {
+      "year": 2026,
+      "target": 10,
+      "type": "p",
+      "value": 18.72,
+      "per": 53.43
+    },
+    {
+      "year": 2027,
+      "target": 10,
+      "type": "p",
+      "value": 18.96,
+      "per": 52.74
+    },
+    {
+      "year": 2028,
+      "target": 10,
+      "type": "p",
+      "value": 19.21,
+      "per": 52.05
+    },
+    {
+      "year": 2029,
+      "target": 10,
+      "type": "p",
+      "value": 19.46,
+      "per": 51.38
+    },
+    {
+      "year": 2030,
+      "target": 10,
+      "type": "p",
+      "value": 19.72,
+      "per": 50.72
+    }
+  ],
+  "1.4": [
+    {
+      "year": 2020,
+      "target": 5,
+      "type": "a",
+      "value": 2,
+      "per": 40
+    },
+    {
+      "year": 2021,
+      "target": 5,
+      "type": "a",
+      "value": 4,
+      "per": 80
+    },
+    {
+      "year": 2022,
+      "target": 5,
+      "type": "a",
+      "value": 4,
+      "per": 80
+    },
+    {
+      "year": 2023,
+      "target": 5,
+      "type": "a",
+      "value": 5,
+      "per": 100
+    }
+  ],
+  "K.1.2": [
+    {
+      "year": 2008,
+      "target": 7,
+      "type": "a",
+      "value": 25.09,
+      "per": 27.9
+    },
+    {
+      "year": 2009,
+      "target": 7,
+      "type": "a",
+      "value": 24.4,
+      "per": 28.69
+    },
+    {
+      "year": 2010,
+      "target": 7,
+      "type": "a",
+      "value": 24.45,
+      "per": 28.62
+    },
+    {
+      "year": 2011,
+      "target": 7,
+      "type": "a",
+      "value": 25.96,
+      "per": 26.97
+    },
+    {
+      "year": 2012,
+      "target": 7,
+      "type": "a",
+      "value": 24.57,
+      "per": 28.5
+    },
+    {
+      "year": 2013,
+      "target": 7,
+      "type": "a",
+      "value": 23.81,
+      "per": 29.4
+    },
+    {
+      "year": 2014,
+      "target": 7,
+      "type": "a",
+      "value": 24.28,
+      "per": 28.82
+    },
+    {
+      "year": 2015,
+      "target": 7,
+      "type": "a",
+      "value": 23.36,
+      "per": 29.96
+    },
+    {
+      "year": 2016,
+      "target": 7,
+      "type": "a",
+      "value": 23.71,
+      "per": 29.52
+    },
+    {
+      "year": 2017,
+      "target": 7,
+      "type": "a",
+      "value": 23.61,
+      "per": 29.65
+    },
+    {
+      "year": 2018,
+      "target": 7,
+      "type": "a",
+      "value": 23.93,
+      "per": 29.26
+    },
+    {
+      "year": 2019,
+      "target": 7,
+      "type": "a",
+      "value": 23.47,
+      "per": 29.82
+    },
+    {
+      "year": 2020,
+      "target": 7,
+      "type": "a",
+      "value": 20.22,
+      "per": 34.62
+    },
+    {
+      "year": 2021,
+      "target": 7,
+      "type": "a",
+      "value": 21.49,
+      "per": 32.58
+    },
+    {
+      "year": 2022,
+      "target": 7,
+      "type": "a",
+      "value": 20.78,
+      "per": 33.69
+    },
+    {
+      "year": 2023,
+      "target": 7,
+      "type": "p",
+      "value": 20.5,
+      "per": 34.15
+    },
+    {
+      "year": 2024,
+      "target": 7,
+      "type": "p",
+      "value": 20.23,
+      "per": 34.61
+    },
+    {
+      "year": 2025,
+      "target": 7,
+      "type": "p",
+      "value": 19.96,
+      "per": 35.08
+    },
+    {
+      "year": 2026,
+      "target": 7,
+      "type": "p",
+      "value": 19.69,
+      "per": 35.55
+    },
+    {
+      "year": 2027,
+      "target": 7,
+      "type": "p",
+      "value": 19.43,
+      "per": 36.04
+    },
+    {
+      "year": 2028,
+      "target": 7,
+      "type": "p",
+      "value": 19.17,
+      "per": 36.52
+    },
+    {
+      "year": 2029,
+      "target": 7,
+      "type": "p",
+      "value": 18.91,
+      "per": 37.02
+    },
+    {
+      "year": 2030,
+      "target": 7,
+      "type": "p",
+      "value": 18.66,
+      "per": 37.52
+    },
+    {
+      "year": 2031,
+      "target": 7,
+      "type": "p",
+      "value": 18.41,
+      "per": 38.03
+    },
+    {
+      "year": 2032,
+      "target": 7,
+      "type": "p",
+      "value": 18.16,
+      "per": 38.54
+    },
+    {
+      "year": 2033,
+      "target": 7,
+      "type": "p",
+      "value": 17.92,
+      "per": 39.07
+    },
+    {
+      "year": 2034,
+      "target": 7,
+      "type": "p",
+      "value": 17.68,
+      "per": 39.6
+    },
+    {
+      "year": 2035,
+      "target": 7,
+      "type": "p",
+      "value": 17.44,
+      "per": 40.13
+    },
+    {
+      "year": 2036,
+      "target": 7,
+      "type": "p",
+      "value": 17.21,
+      "per": 40.68
+    },
+    {
+      "year": 2037,
+      "target": 7,
+      "type": "p",
+      "value": 16.98,
+      "per": 41.23
+    },
+    {
+      "year": 2038,
+      "target": 7,
+      "type": "p",
+      "value": 16.75,
+      "per": 41.79
+    },
+    {
+      "year": 2039,
+      "target": 7,
+      "type": "p",
+      "value": 16.53,
+      "per": 42.35
+    },
+    {
+      "year": 2040,
+      "target": 7,
+      "type": "p",
+      "value": 16.31,
+      "per": 42.93
+    },
+    {
+      "year": 2041,
+      "target": 7,
+      "type": "p",
+      "value": 16.09,
+      "per": 43.51
+    },
+    {
+      "year": 2042,
+      "target": 7,
+      "type": "p",
+      "value": 15.87,
+      "per": 44.1
+    },
+    {
+      "year": 2043,
+      "target": 7,
+      "type": "p",
+      "value": 15.66,
+      "per": 44.7
+    },
+    {
+      "year": 2044,
+      "target": 7,
+      "type": "p",
+      "value": 15.45,
+      "per": 45.3
+    },
+    {
+      "year": 2045,
+      "target": 7,
+      "type": "p",
+      "value": 15.25,
+      "per": 45.91
+    },
+    {
+      "year": 2046,
+      "target": 7,
+      "type": "p",
+      "value": 15.04,
+      "per": 46.54
+    },
+    {
+      "year": 2047,
+      "target": 7,
+      "type": "p",
+      "value": 14.84,
+      "per": 47.17
+    },
+    {
+      "year": 2048,
+      "target": 7,
+      "type": "p",
+      "value": 14.64,
+      "per": 47.81
+    },
+    {
+      "year": 2049,
+      "target": 7,
+      "type": "p",
+      "value": 14.45,
+      "per": 48.45
+    },
+    {
+      "year": 2050,
+      "target": 7,
+      "type": "p",
+      "value": 14.25,
+      "per": 49.11
+    }
+  ],
+  "3.5": [
+    {
+      "year": 2010,
+      "target": 4424,
+      "type": "a",
+      "value": 1869,
+      "per": 42.25
+    },
+    {
+      "year": 2011,
+      "target": 4424,
+      "type": "a",
+      "value": 2313,
+      "per": 52.28
+    },
+    {
+      "year": 2012,
+      "target": 4424,
+      "type": "a",
+      "value": 2314,
+      "per": 52.31
+    },
+    {
+      "year": 2013,
+      "target": 4424,
+      "type": "a",
+      "value": 2409,
+      "per": 54.45
+    },
+    {
+      "year": 2014,
+      "target": 4424,
+      "type": "a",
+      "value": 2518,
+      "per": 56.92
+    },
+    {
+      "year": 2015,
+      "target": 4424,
+      "type": "a",
+      "value": 2401,
+      "per": 54.27
+    },
+    {
+      "year": 2016,
+      "target": 4424,
+      "type": "a",
+      "value": 2648,
+      "per": 59.86
+    },
+    {
+      "year": 2017,
+      "target": 4424,
+      "type": "a",
+      "value": 2681,
+      "per": 60.6
+    },
+    {
+      "year": 2018,
+      "target": 4424,
+      "type": "a",
+      "value": 2636,
+      "per": 59.58
+    },
+    {
+      "year": 2019,
+      "target": 4424,
+      "type": "a",
+      "value": 2558,
+      "per": 57.82
+    },
+    {
+      "year": 2020,
+      "target": 4424,
+      "type": "a",
+      "value": 2212,
+      "per": 50
+    },
+    {
+      "year": 2021,
+      "target": 4424,
+      "type": "a",
+      "value": 1971,
+      "per": 44.55
+    },
+    {
+      "year": 2022,
+      "target": 4424,
+      "type": "a",
+      "value": 1680,
+      "per": 37.97
+    },
+    {
+      "year": 2023,
+      "target": 4424,
+      "type": "p",
+      "value": 1665.14,
+      "per": 37.64
+    },
+    {
+      "year": 2024,
+      "target": 4424,
+      "type": "p",
+      "value": 1650.41,
+      "per": 37.31
+    },
+    {
+      "year": 2025,
+      "target": 4424,
+      "type": "p",
+      "value": 1635.82,
+      "per": 36.98
+    },
+    {
+      "year": 2026,
+      "target": 4424,
+      "type": "p",
+      "value": 1621.35,
+      "per": 36.65
+    },
+    {
+      "year": 2027,
+      "target": 4424,
+      "type": "p",
+      "value": 1607.01,
+      "per": 36.32
+    },
+    {
+      "year": 2028,
+      "target": 4424,
+      "type": "p",
+      "value": 1592.79,
+      "per": 36
+    },
+    {
+      "year": 2029,
+      "target": 4424,
+      "type": "p",
+      "value": 1578.7,
+      "per": 35.69
+    },
+    {
+      "year": 2030,
+      "target": 4424,
+      "type": "p",
+      "value": 1564.74,
+      "per": 35.37
+    }
+  ],
+  "K.4": [
+    {
+      "year": 2020,
+      "target": 750.6,
+      "type": "a",
+      "value": 834,
+      "per": 90
+    },
+    {
+      "year": 2021,
+      "target": 750.6,
+      "type": "a",
+      "value": 835,
+      "per": 89.89
+    },
+    {
+      "year": 2022,
+      "target": 750.6,
+      "type": "p",
+      "value": 836,
+      "per": 89.78
+    },
+    {
+      "year": 2023,
+      "target": 750.6,
+      "type": "p",
+      "value": 837,
+      "per": 89.68
+    },
+    {
+      "year": 2024,
+      "target": 750.6,
+      "type": "p",
+      "value": 838.01,
+      "per": 89.57
+    },
+    {
+      "year": 2025,
+      "target": 750.6,
+      "type": "p",
+      "value": 839.01,
+      "per": 89.46
+    },
+    {
+      "year": 2026,
+      "target": 750.6,
+      "type": "p",
+      "value": 840.02,
+      "per": 89.36
+    },
+    {
+      "year": 2027,
+      "target": 750.6,
+      "type": "p",
+      "value": 841.03,
+      "per": 89.25
+    },
+    {
+      "year": 2028,
+      "target": 750.6,
+      "type": "p",
+      "value": 842.03,
+      "per": 89.14
+    },
+    {
+      "year": 2029,
+      "target": 750.6,
+      "type": "p",
+      "value": 843.04,
+      "per": 89.03
+    },
+    {
+      "year": 2030,
+      "target": 750.6,
+      "type": "p",
+      "value": 844.05,
+      "per": 88.93
+    }
+  ],
+  "2.5.2": [
+    {
+      "year": 2014,
+      "target": 3,
+      "type": "a",
+      "value": 10,
+      "per": 30
+    },
+    {
+      "year": 2020,
+      "target": 3,
+      "type": "a",
+      "value": 3,
+      "per": 100
+    },
+    {
+      "year": 2021,
+      "target": 3,
+      "type": "a",
+      "value": 17,
+      "per": 17.65
+    },
+    {
+      "year": 2022,
+      "target": 3,
+      "type": "a",
+      "value": 13,
+      "per": 23.08
+    },
+    {
+      "year": 2023,
+      "target": 3,
+      "type": "a",
+      "value": 15,
+      "per": 20
+    },
+    {
+      "year": 2024,
+      "target": 3,
+      "type": "p",
+      "value": 14.09,
+      "per": 21.29
+    },
+    {
+      "year": 2025,
+      "target": 3,
+      "type": "p",
+      "value": 13.24,
+      "per": 22.67
+    },
+    {
+      "year": 2026,
+      "target": 3,
+      "type": "p",
+      "value": 12.43,
+      "per": 24.13
+    },
+    {
+      "year": 2027,
+      "target": 3,
+      "type": "p",
+      "value": 11.68,
+      "per": 25.69
+    }
+  ],
+  "2.5.1": [
+    {
+      "year": 2014,
+      "target": 2.9,
+      "type": "a",
+      "value": 2.78,
+      "per": 95.92
+    },
+    {
+      "year": 2020,
+      "target": 2.9,
+      "type": "a",
+      "value": 2.85,
+      "per": 98.12
+    },
+    {
+      "year": 2021,
+      "target": 2.9,
+      "type": "a",
+      "value": 3.17,
+      "per": 100
+    },
+    {
+      "year": 2022,
+      "target": 2.9,
+      "type": "a",
+      "value": 2.89,
+      "per": 99.58
+    },
+    {
+      "year": 2023,
+      "target": 2.9,
+      "type": "a",
+      "value": 3.17,
+      "per": 100
+    },
+    {
+      "year": 2024,
+      "target": 2.9,
+      "type": "p",
+      "value": 3.17,
+      "per": 100
+    },
+    {
+      "year": 2025,
+      "target": 2.9,
+      "type": "p",
+      "value": 3.17,
+      "per": 100
+    },
+    {
+      "year": 2026,
+      "target": 2.9,
+      "type": "p",
+      "value": 3.17,
+      "per": 100
+    },
+    {
+      "year": 2027,
+      "target": 2.9,
+      "type": "p",
+      "value": 3.17,
+      "per": 100
+    }
+  ],
+  "2.3": [
+    {
+      "year": 2020,
+      "target": 185.7993,
+      "type": "a",
+      "value": 92.9,
+      "per": 50
+    },
+    {
+      "year": 2021,
+      "target": 185.7993,
+      "type": "a",
+      "value": 132.68,
+      "per": 71.41
+    },
+    {
+      "year": 2022,
+      "target": 185.7993,
+      "type": "a",
+      "value": 156.01,
+      "per": 83.97
+    },
+    {
+      "year": 2023,
+      "target": 185.7993,
+      "type": "p",
+      "value": 202.17,
+      "per": 100
+    },
+    {
+      "year": 2024,
+      "target": 185.7993,
+      "type": "p",
+      "value": 261.99,
+      "per": 100
+    },
+    {
+      "year": 2025,
+      "target": 185.7993,
+      "type": "p",
+      "value": 339.51,
+      "per": 100
+    },
+    {
+      "year": 2026,
+      "target": 185.7993,
+      "type": "p",
+      "value": 439.96,
+      "per": 100
+    },
+    {
+      "year": 2027,
+      "target": 185.7993,
+      "type": "p",
+      "value": 570.14,
+      "per": 100
+    },
+    {
+      "year": 2028,
+      "target": 185.7993,
+      "type": "p",
+      "value": 738.83,
+      "per": 100
+    },
+    {
+      "year": 2029,
+      "target": 185.7993,
+      "type": "p",
+      "value": 957.44,
+      "per": 100
+    },
+    {
+      "year": 2030,
+      "target": 185.7993,
+      "type": "p",
+      "value": 1240.73,
+      "per": 100
+    }
+  ],
+  "3.1.2": [
+    {
+      "year": 2004,
+      "target": 25.318,
+      "type": "a",
+      "value": 12.49,
+      "per": 49.31
+    },
+    {
+      "year": 2005,
+      "target": 25.318,
+      "type": "a",
+      "value": 15.31,
+      "per": 60.47
+    },
+    {
+      "year": 2006,
+      "target": 25.318,
+      "type": "a",
+      "value": 15.87,
+      "per": 62.67
+    },
+    {
+      "year": 2007,
+      "target": 25.318,
+      "type": "a",
+      "value": 16.7,
+      "per": 65.96
+    },
+    {
+      "year": 2008,
+      "target": 25.318,
+      "type": "a",
+      "value": 15.96,
+      "per": 63.05
+    },
+    {
+      "year": 2009,
+      "target": 25.318,
+      "type": "a",
+      "value": 17.3,
+      "per": 68.34
+    },
+    {
+      "year": 2010,
+      "target": 25.318,
+      "type": "a",
+      "value": 16.43,
+      "per": 64.89
+    },
+    {
+      "year": 2011,
+      "target": 25.318,
+      "type": "a",
+      "value": 16.39,
+      "per": 64.74
+    },
+    {
+      "year": 2012,
+      "target": 25.318,
+      "type": "a",
+      "value": 16.1,
+      "per": 63.61
+    },
+    {
+      "year": 2013,
+      "target": 25.318,
+      "type": "a",
+      "value": 17.02,
+      "per": 67.21
+    },
+    {
+      "year": 2014,
+      "target": 25.318,
+      "type": "a",
+      "value": 17.28,
+      "per": 68.27
+    },
+    {
+      "year": 2015,
+      "target": 25.318,
+      "type": "a",
+      "value": 17.85,
+      "per": 70.5
+    },
+    {
+      "year": 2016,
+      "target": 25.318,
+      "type": "a",
+      "value": 18.84,
+      "per": 74.41
+    },
+    {
+      "year": 2017,
+      "target": 25.318,
+      "type": "a",
+      "value": 20,
+      "per": 78.99
+    },
+    {
+      "year": 2018,
+      "target": 25.318,
+      "type": "a",
+      "value": 20.27,
+      "per": 80.06
+    },
+    {
+      "year": 2019,
+      "target": 25.318,
+      "type": "a",
+      "value": 21.66,
+      "per": 85.54
+    },
+    {
+      "year": 2020,
+      "target": 25.318,
+      "type": "a",
+      "value": 20.32,
+      "per": 80.25
+    },
+    {
+      "year": 2021,
+      "target": 25.318,
+      "type": "a",
+      "value": 23.02,
+      "per": 90.94
+    },
+    {
+      "year": 2022,
+      "target": 25.318,
+      "type": "a",
+      "value": 22.68,
+      "per": 89.57
+    },
+    {
+      "year": 2023,
+      "target": 25.318,
+      "type": "p",
+      "value": 22.8,
+      "per": 90.05
+    },
+    {
+      "year": 2024,
+      "target": 25.318,
+      "type": "p",
+      "value": 22.92,
+      "per": 90.54
+    },
+    {
+      "year": 2025,
+      "target": 25.318,
+      "type": "p",
+      "value": 23.04,
+      "per": 91.02
+    },
+    {
+      "year": 2026,
+      "target": 25.318,
+      "type": "p",
+      "value": 23.17,
+      "per": 91.51
+    },
+    {
+      "year": 2027,
+      "target": 25.318,
+      "type": "p",
+      "value": 23.29,
+      "per": 92
+    },
+    {
+      "year": 2028,
+      "target": 25.318,
+      "type": "p",
+      "value": 23.42,
+      "per": 92.49
+    },
+    {
+      "year": 2029,
+      "target": 25.318,
+      "type": "p",
+      "value": 23.54,
+      "per": 92.99
+    },
+    {
+      "year": 2030,
+      "target": 25.318,
+      "type": "p",
+      "value": 23.67,
+      "per": 93.49
+    }
+  ],
+  "2.6": [
+    {
+      "year": 2014,
+      "target": 20,
+      "type": "a",
+      "value": 24.8,
+      "per": 100
+    },
+    {
+      "year": 2020,
+      "target": 20,
+      "type": "a",
+      "value": 17.3,
+      "per": 86.5
+    },
+    {
+      "year": 2021,
+      "target": 20,
+      "type": "a",
+      "value": 20.4,
+      "per": 100
+    },
+    {
+      "year": 2022,
+      "target": 20,
+      "type": "a",
+      "value": 23.7,
+      "per": 100
+    },
+    {
+      "year": 2023,
+      "target": 20,
+      "type": "a",
+      "value": 23.1,
+      "per": 100
+    },
+    {
+      "year": 2024,
+      "target": 20,
+      "type": "p",
+      "value": 23.31,
+      "per": 100
+    },
+    {
+      "year": 2025,
+      "target": 20,
+      "type": "p",
+      "value": 23.52,
+      "per": 100
+    },
+    {
+      "year": 2026,
+      "target": 20,
+      "type": "p",
+      "value": 23.73,
+      "per": 100
+    },
+    {
+      "year": 2027,
+      "target": 20,
+      "type": "p",
+      "value": 23.94,
+      "per": 100
+    }
+  ]
+}

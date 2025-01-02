@@ -11,6 +11,8 @@
         <topic v-if='$route.name == "topic"' :topic='this.$store.getters.topicByNr($route.params.nr)' />
         <target v-if='$route.name == "target"' :target='$store.getters.target($route.params.id)' />
         <overview v-if='$route.name == "overview"' :view='$route.params.view'/>
+        <connection v-if='$route.name == "connection"'/>
+        <test v-if='$route.name == "test"'/>
         <bar v-if='$route.name == "bar"'/>
         <all-in-one v-if='$route.name == "print"'/>
         <str-footer v-if='$route.name != "print"'/>
@@ -29,10 +31,14 @@ import Bar from "./comp/svg/BarPrint.vue";
 import DevBanner from './comp/str/DevBanner.vue';
 
 import StrFooter from './comp/str/Footer.vue';
+import Test from "./comp/Test.vue";
+import Connection from "./comp/Connection.vue";
 
 export default {
     props: ['view'],
     components: {
+      Test,
+      Connection,
         Overview, Topic, Target, Bar, DevBanner, StrFooter, AllInOne
     },
     created: function() {

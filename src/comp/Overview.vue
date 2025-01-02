@@ -7,7 +7,12 @@
         </header-str>
         <div class="container-fluid full-width">
             <div class='container-xl'>
-                <div class="row g-2 content">
+                <div class="row g-2 content" style="position: relative;">
+                    <div class="test-links">
+                      <h5>Test links</h5>
+                      <router-link :to="{name: 'connection'}">Connections</router-link>
+                      <router-link :to="{name: 'test'}">Test</router-link>
+                    </div>
                     <div v-if="type != 'print'" class="col-md-5 col-lg-4 col-xl-4">
                         <overview-targets group="fti" header="Ziele der FTI-Strategie 2030" :expanded=true></overview-targets>
                         <overview-targets group="klw" :header="$store.getters.targets('klw')[0]['name']" :expanded=true></overview-targets>
@@ -89,5 +94,23 @@ export default {
     margin-left: -50vw;
     left: 50%;
     background-color: #f5f6fa;
+}
+.test-links {
+  position: absolute;
+  top: 1rem;
+  right: -150px;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  background-color: #444444;
+  padding: 1rem;
+  border: solid 1px black;
+  border-radius: 4px;
+  color: white;
+
+  a {
+    color: white;
+    text-decoration: underline;
+  }
 }
 </style>

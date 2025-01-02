@@ -83,6 +83,7 @@ export const store = new Vuex.Store({
         info: info,
         highlightTopics: [],
         highlightTargets: [],
+        connectionArrows: [],
     },
     getters: {
         data: (s) => (id) => s.data[id],
@@ -226,6 +227,9 @@ export const store = new Vuex.Store({
         highlightTargets(state, highlight) {
             state.highlightTargets = highlight
         },
+        connectionArrows(state, connectionArrows) {
+            state.connectionArrows = connectionArrows;
+        }
     },
     actions: {
         init(context) {
@@ -264,6 +268,9 @@ export const store = new Vuex.Store({
                 // console.log(targetNrs)
             }
             context.commit('highlightTargets', targetNrs);
+        },
+        showConnectionArrowsOfTopic(context, topicId = undefined) {
+            context.commit('connectionArrows', topicId);
         },
         clearHighlighted(context) {
             context.commit('highlightTopics', []);

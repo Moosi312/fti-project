@@ -34,6 +34,14 @@ export const router = new VueRouter({
         name: 'print',
         path: '/P',
         component: App
+    }, {
+        name: 'connection',
+        path: '/connection',
+        component: App
+    }, {
+        name: 'test',
+        path: '/test',
+        component: App
     }]
 })
 

@@ -6,6 +6,7 @@ import * as d3 from "d3";
 Vue.use(Vuex)
 
 import info from './info.js';
+import getConnectionArrows from "./comp/icon/connection-arrows";
 
 const prep = {
     labels: (d) => {
@@ -270,7 +271,7 @@ export const store = new Vuex.Store({
             context.commit('highlightTargets', targetNrs);
         },
         showConnectionArrowsOfTopic(context, topicId = undefined) {
-            context.commit('connectionArrows', topicId);
+            context.commit('connectionArrows', getConnectionArrows(topicId));
         },
         clearHighlighted(context) {
             context.commit('highlightTopics', []);

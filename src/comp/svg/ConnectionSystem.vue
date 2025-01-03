@@ -1,6 +1,6 @@
 <template>
     <svg class='overview'>
-      <g class='overview-inner' style="opacity: 0.5">
+      <g class='overview-inner' style="opacity: 0.3">
 <!--            &lt;!&ndash; Rahmenbedingung -> Effizienz &ndash;&gt;-->
 <!--            <line x1="440" y1="380" x2="440" y2="585" class="arrows" marker-end="url(#arrowhead)"/>-->
 

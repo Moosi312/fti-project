@@ -1,5 +1,5 @@
 <template>
-    <g :class='`iconCircle${this.$store.state.highlightTopics.includes(topic.nr) ? " activated" : ""} color-c${color}`'
+    <g :class='`iconCircle${this.$store.state.connectionArrows.length === 0 || this.$store.state.connectionArrows.find(c => c.to === topic.id || c.from === topic.id) ? "" : " hidden"} color-c${color}`'
         @click="$router.push({name: 'topic', params: {nr: topic.nr}})" :id='`topic-${id}`'
         @mouseenter="handleMouseOver"
         @mouseleave="$store.dispatch('showConnectionArrowsOfTopic')">
@@ -58,3 +58,8 @@ export default {
     }
 }
 </script>
+<style>
+.hidden {
+  display: none;
+}
+</style>/

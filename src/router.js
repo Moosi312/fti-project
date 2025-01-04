@@ -7,7 +7,7 @@ import App from "./App.vue";
 Vue.use(VueRouter)
 
 export const router = new VueRouter({
-    base: '/',
+    base: '/system-connections',
     mode: 'history',
     routes: [{
         name: 'home',

@@ -3,4 +3,7 @@ const { merge } = require('webpack-merge');
 
 module.exports = merge(baseConfig, {
     mode: 'production',
+    output: {
+        publicPath: '/system-connections/'
+    }
 })

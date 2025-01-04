@@ -71,7 +71,8 @@ module.exports = {
             filename: 'index.html',
             template: 'index.html',
             inject: true,
-            publicPath: '/',
+            publicPath: '/system-connections/',
+            contentBasePublicPath: '/system-connections/',
             ldJson: ldJson,
         }),
         new CopyWebpackPlugin({

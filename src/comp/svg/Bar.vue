@@ -65,7 +65,7 @@ export default {
     methods: {
         plot: function() {
             const self = this
-            
+            console.log("test" +  this.ids)
             const svgI = d3.select(this.$refs["bar-chart"]).select("g")
 
             svgI.select('.bars').selectAll("*").remove();
@@ -369,7 +369,7 @@ export default {
                 d.useValue = d.value;
             });
             x = d3.scaleLinear();
-            // console.log(data.values)
+             console.log(data.values)
             const ta = data.values.map(d => d.useValue)
             ta.push(0)
             const extent = d3.extent(ta);

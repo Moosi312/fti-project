@@ -31,7 +31,7 @@ import Bar from "./comp/svg/BarPrint.vue";
 import DevBanner from './comp/str/DevBanner.vue';
 
 import StrFooter from './comp/str/Footer.vue';
-import Test from "./comp/Test.vue";
+import Test from "./comp/Compare.vue";
 import Connection from "./comp/Connection.vue";
 
 export default {

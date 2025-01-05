@@ -215,7 +215,26 @@ export const store = new Vuex.Store({
             }
         },
         nameForCompareGroup: s => g => s.info.nameForCompareGroup[g],
+
+        topicIndicatorMap: (s) => () => {
+            const map = new Map();
+            Object.entries(s.data.str).forEach(topic => {
+                const topicId = topic[0];
+                topic[1]['i'].forEach(indic => {
+                    if (!map.has(topicId)) {
+                        map.set(topicId, []);
+                    }
+                    map.set(topicId, map.get(topicId).concat(indic));
+                })
+            })
+            return map;
+        },
+        
+        getShortname: (s) => (id) => (s.data.labels[id] ?? {})['short'] ?? '',
     },
+
+
+
     mutations: {
         loaded(state, content) {
             state.data[content.name] = content.data

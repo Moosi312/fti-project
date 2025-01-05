@@ -20,7 +20,7 @@
               
               <div class="col-md-4 col-lg-4 col-xl-4">
                   <h2>Column 1</h2>
-                  <p>{{ $store.state.selectedIndicators }}</p>
+                  <p>{{ $store.state.selectedIndicators.map(ind => $store.getters.getShortname(ind)) }}</p>
               </div>
               
               <div class="col-md-4 col-lg-4 col-xl-4">

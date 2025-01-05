@@ -122,6 +122,16 @@ export const store = new Vuex.Store({
             });
         },
 
+        doc: (s) => (fileName) => {
+            const doc = s.data.docs.find(d => d.file === fileName);
+            if (!doc) {
+                return undefined;
+            }
+            doc['fileUrl'] = `/docs/pdf/${doc['file']}`;
+            doc['imgUrl'] = `/docs/img/${doc['file'] + ".png"}`;
+            return doc;
+        },
+
         wirkungsziele: (s) => (topicId) => {
             const wz = s.data.wirkungsziele.filter(e => e.topicIds.includes(topicId))
             return wz.map(d => {
@@ -217,6 +227,22 @@ export const store = new Vuex.Store({
         },
         nameForCompareGroup: s => g => s.info.nameForCompareGroup[g],
 
+        docsForIndicator: (s) => (indicatorId) => {
+            const docs = (s.info.indicatorDocs[indicatorId] ?? []).map(doc => store.getters.doc(doc)).filter(d => !!d);
+            if (docs.length < 1) {
+                return {};
+            }
+            const docsMap = {}
+            docs.forEach(doc => {
+                const type = doc['type'];
+                if (!docsMap[type]) {
+                    docsMap[type] = [];
+                }
+                docsMap[type].push(doc);
+            })
+            return docsMap;
+        },
+
         topicIndicatorMap: (s) => () => {
             const map = new Map();
             Object.entries(s.data.str).forEach(topic => {
@@ -232,6 +258,8 @@ export const store = new Vuex.Store({
         },
 
         getShortname: (s) => (id) => (s.data.labels[id] ?? {})['short'] ?? '',
+
+        getLabels: (s) => (id) => (s.data.labels[id]),
     },
 
 

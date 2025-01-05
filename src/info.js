@@ -1,4 +1,5 @@
 const base = require('./info.json');
+const indicatorDocs = require('./docsForIndicator.json');
 
 const topics = base.topics;
 const areas = base.areas;
@@ -65,5 +66,6 @@ export default {
     colorClasses,
 	innovationLeaders: base.innovationLeaders,
 	nameForCompareGroup,
-	dev: false
+	dev: false,
+	indicatorDocs,
 };

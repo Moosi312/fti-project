@@ -42,6 +42,10 @@ export const router = new VueRouter({
         name: 'test',
         path: '/test',
         component: App
+    }, {
+        name: 'indicator',
+        path: '/indicator/:indicatorId',
+        component: App
     }]
 })
 

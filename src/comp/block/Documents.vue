@@ -60,6 +60,7 @@
 import Block from './Base.vue';
 export default {
     props: {
+        inputDocs: {default: undefined},
         topicIds: {},
         type: {},
         header: {},
@@ -73,7 +74,7 @@ export default {
         }
     },
     computed: {
-        docs: function() { return this.$store.getters.docs(this.topicIds, this.type) },
+        docs: function() { return this.inputDocs ?? this.$store.getters.docs(this.topicIds, this.type) },
         count: function() { return this.docs.length },
         previewUse: function() { return this.count > 6 },
     },

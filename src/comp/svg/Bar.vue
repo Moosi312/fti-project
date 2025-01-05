@@ -65,7 +65,7 @@ export default {
     methods: {
         plot: function() {
             const self = this
-            console.log("test" +  this.ids)
+            // console.log("test" +  this.ids)
             const svgI = d3.select(this.$refs["bar-chart"]).select("g")
 
             svgI.select('.bars').selectAll("*").remove();

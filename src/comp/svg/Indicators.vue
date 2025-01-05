@@ -19,7 +19,7 @@
       <div class="indicators" :class="{ visible: unfoldedNodes[index] }">
         <div v-for="(indicator) in filteredIndicators(node.ind)" :key="indicator">
           <label class="indicator-checkbox">
-            <input type="checkbox" :value="indicator" v-model="selectedIndicators" />
+            <input type="checkbox" :value="indicator" v-model="selectedIndicators" :on-change="$store.dispatch('selectedIndicators', selectedIndicators)"/>
             {{ $store.getters.getShortname(indicator) }}
           </label>
         </div>

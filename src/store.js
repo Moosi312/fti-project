@@ -84,6 +84,7 @@ export const store = new Vuex.Store({
         highlightTopics: [],
         highlightTargets: [],
         connectionArrows: [],
+        selectedIndicators: [],
     },
     getters: {
         data: (s) => (id) => s.data[id],
@@ -229,7 +230,7 @@ export const store = new Vuex.Store({
             })
             return map;
         },
-        
+
         getShortname: (s) => (id) => (s.data.labels[id] ?? {})['short'] ?? '',
     },
 
@@ -248,6 +249,9 @@ export const store = new Vuex.Store({
         },
         connectionArrows(state, connectionArrows) {
             state.connectionArrows = connectionArrows;
+        },
+        selectedIndicators(state, selectedIndicators) {
+            state.selectedIndicators = selectedIndicators;
         }
     },
     actions: {
@@ -295,5 +299,8 @@ export const store = new Vuex.Store({
             context.commit('highlightTopics', []);
             context.commit('highlightTargets', []);
         },
+        selectedIndicators(context, selectedIndicators_arr){
+            context.commit('selectedIndicators',selectedIndicators_arr);
+        }
     }
 })

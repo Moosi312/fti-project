@@ -11,8 +11,8 @@
                     <div class="test-links">
                       <h5>Test links</h5>
                       <router-link :to="{name: 'connection'}">Connections</router-link>
-                      <router-link :to="{name: 'test'}">Test</router-link>
-                      <router-link :to="{name: 'indicator', params: {indicatorId: 'test'}}">Test</router-link>
+                      <router-link :to="{name: 'test'}">Indicator compare</router-link>
+                      <router-link :to="{name: 'indicator', params: {indicatorId: 'MINT_Absolv_58'}}">Indicator details</router-link>
                     </div>
                     <div v-if="type != 'print'" class="col-md-5 col-lg-4 col-xl-4">
                         <overview-targets group="fti" header="Ziele der FTI-Strategie 2030" :expanded=true></overview-targets>
@@ -99,7 +99,7 @@ export default {
 .test-links {
   position: absolute;
   top: 1rem;
-  right: -150px;
+  right: -200px;
   width: fit-content;
   display: flex;
   flex-direction: column;

@@ -66,17 +66,18 @@ export default {
         header: {},
         cols: {default: 1},
         showYear: {default: true},
+        previewCount: {default: 4},
+        previewUseCount: {default: 6},
     },
     data() {
         return {
-            previewCount: 4,
             preview: true,
         }
     },
     computed: {
         docs: function() { return this.inputDocs ?? this.$store.getters.docs(this.topicIds, this.type) },
         count: function() { return this.docs.length },
-        previewUse: function() { return this.count > 6 },
+        previewUse: function() { return this.count > this.previewUseCount },
     },
     components: {
         Block

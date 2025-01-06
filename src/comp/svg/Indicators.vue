@@ -101,7 +101,7 @@ export default {
 <style scoped>
 .tree-container {
   display: block;
-  width: 75%; /* Adjust as needed */
+  width: 100%; /* Adjust as needed */
 }
 
 .tree-node {
@@ -177,7 +177,8 @@ export default {
 }
 
 .topics-inds {
-  padding-top: 15px;
+  padding-top: 5%;
+  padding-bottom: 5%;
   font-weight: 600;
 }
 

@@ -14,6 +14,10 @@
           </div>
 
           <div class="dynamic-grid">
+            <div v-if="$store.state.selectedIndicators.length === 0" class="sample-text">
+              <p>Um Indikatoren vergleichen zu können, müssen diese im linken Bereich ausgewählt werden.</p>
+            </div>
+
             <div v-for="indicator in $store.state.selectedIndicators" :key="indicator.id" class="grid-item">
               <indicators-overview :indicator="indicator" />
             </div>
@@ -79,7 +83,7 @@ export default {
 }
 
 .fixed-column {
-  grid-row: 1 / span 1; 
+  grid-row: 1 / span 1;
   position: sticky;
   top: 0;
 }
@@ -87,17 +91,23 @@ export default {
 .dynamic-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr); 
-  grid-auto-rows: 200px; 
   gap: 20px;
 }
 
 .grid-item {
-  background-color: #ffffff; /*remove then */
   padding: 10px;
   border-radius: 8px;
   height: 100%; 
   display: flex;
   align-items: left;
   justify-content: left;
+}
+
+.sample-text {
+  grid-column: span 2;
+  text-align: center;
+  margin-top: 20%; /* try on different screens */
+  padding: 10px;
+  color: #707070;
 }
 </style>

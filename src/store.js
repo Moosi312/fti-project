@@ -21,6 +21,8 @@ const prep = {
     // topics: (d) => d,
     str: (d) => d,
     values: (d) => Object.assign({}, ...d.map((x) => ({[x.id]: x}))),
+    values_2022: (d) => Object.assign({}, ...d.map((x) => ({[x.id]: x}))),
+    values_2023: (d) => Object.assign({}, ...d.map((x) => ({[x.id]: x}))),
     minus: (d) => {
         const dn = {}
         for (const [key, value] of Object.entries(d)) {
@@ -90,6 +92,8 @@ export const store = new Vuex.Store({
         data: (s) => (id) => s.data[id],
         loaded: (s) => Object.keys(prep).filter(d => !s.names.includes(d)) == 0,
         value: (s) => (id, value = undefined) => value ? s.data.values[id][value] : s.data.values[id],
+        value_2022: (s) => (id, value = undefined) => value ? s.data.values_2022[id][value] : s.data.values_2022[id],
+        value_2023: (s) => (id, value = undefined) => value ? s.data.values_2023[id][value] : s.data.values_2023[id],
         seriesData: (s) => (id) => s.data.series[id],
         topicData: (s, g) => (topicId) => {
             const topics = s.data.str[topicId].wt

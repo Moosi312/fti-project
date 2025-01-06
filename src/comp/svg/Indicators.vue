@@ -26,12 +26,14 @@
       </div>
     </div>
 
+    <!--
     <h3>Ausgewählte Indikatoren</h3>
     <ul>
       <li v-for="indicator in selectedIndicators" :key="indicator">
         {{ $store.getters.getShortname(indicator) }}
       </li>
     </ul>
+    -->
   </div>
 </template>
 

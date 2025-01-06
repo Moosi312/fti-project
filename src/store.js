@@ -104,6 +104,18 @@ export const store = new Vuex.Store({
                 values: [...ids].map(id => g.value(id)),
             };
         },
+        indicatorData: (s, g) => (indicatorId) => {
+            const values = Object.fromEntries(Object.entries({
+                2022: g.value_2022(indicatorId),
+                2023: g.value_2023(indicatorId),
+                2024: g.value(indicatorId),
+            }).filter(([,v]) => !!v));
+
+            return {
+                subtop: {values: Object.keys(values)},
+                values: Object.values(values),
+            }
+        },
 
         minusData: (s, g) => (l) => s.data.minus[l],
 

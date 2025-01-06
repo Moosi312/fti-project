@@ -6,14 +6,13 @@
 
     <div class="topics-container">
       <div
-        class="topic-row" v-for="([topic, io]) in relevantTopics" :key="topic.id">
-        <div class="topic-entry">
+        class="topic-row">
+        <div class="topic-entry" v-for="([topic, io]) in relevantTopics" :key="topic.id">
           <topic-entry-in-out :topic="topic" :in-out="io" />
         </div>
-
-        <div class="ind-bar">
-          <p>Section for Bar</p>
-        </div>
+      </div>
+      <div class="ind-bar">
+        <bar-indicator :indicator="indicator" :options="options"/>
       </div>
     </div>
   </router-link>
@@ -26,7 +25,7 @@ import TopicEntryInOut from '../block/shared/TopicEntryInOut.vue';
 import Block from '../block/Base.vue';
 
 export default {
-  props: ['indicator'],
+  props: ['indicator', 'options'],
   data: () => ({
     width: null,
     testId: 0,
@@ -69,8 +68,8 @@ export default {
   padding: 0;
 }
 
-
 .topic-row {
-  display: contents;
+  display: flex;
+  flex-direction: column;
 }
 </style>

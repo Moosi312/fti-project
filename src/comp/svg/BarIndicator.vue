@@ -3,24 +3,9 @@
         <!-- {{ rel }} -->
         <svg class='bar-chart' ref="bar-chart" :height='height' :width='width'>
             <g :transform='`translate(${margin.left}, ${margin.top})`'>
-                <g class='l' :transform='`translate(0, ${height - 70})`'>
-                    <g class="i" :transform='`translate(-30, 0)`'>
-                        <text dy="4" dx="9">Input</text>
-                        <circle r="4" class="i"></circle>
-                    </g>
-                    <g class="o" :transform='`translate(30, 0)`'>
-                        <text dy="4" dx="9">Output</text>
-                        <circle r="4" class="o"></circle>
-                    </g>
-                </g>
                 <g class='x-100'></g>
                 <g class='bars'></g>
                 <g class='circles'></g>
-                <g class='s'>
-                    <rect/>
-                    <circle/>
-                    <text></text>
-                </g>
                 <g class='x-axis'></g>
                 <g class='y-axis'></g>
                 <g class='h'></g>
@@ -33,9 +18,9 @@
 import * as d3 from "d3";
 
 export default {
-    props: ['topic', 'options'],
+    props: ['indicator', 'options'],
     data: () => ({
-        margin: {top: 40, right: 80, bottom: 50, left: 310},
+        margin: {top: 40, right: 80, bottom: 50, left: 80},
         height: 800,
         innerHeight: 800,
         width: undefined,
@@ -47,10 +32,10 @@ export default {
     },
     computed: {
         toColorNr: function() { return this.$store.getters.toColorNr; },
-        data: function() { return this.$store.getters.topicData(this.topic.id); },
+        data: function() { return this.$store.getters.indicatorData(this.indicator); },
         no_bold: function() { return Object.keys(this.data.subtop).length == this.data.values.length; },
         ids: function() { return [
-            ...Object.keys(this.data.subtop).map(id => [...[id], ...this.data.subtop[id]]).flat()
+            ...Object.keys(this.data.subtop).map(id => [...this.data.subtop[id]]).flat()
         ]},
         is_agg: function() {
             return d => (this.ids[d] in this.data.subtop && !this.no_bold)
@@ -65,28 +50,16 @@ export default {
     methods: {
         plot: function() {
             const self = this
-            // console.log("test" +  this.ids)
+
             const svgI = d3.select(this.$refs["bar-chart"]).select("g")
 
             svgI.select('.bars').selectAll("*").remove();
             svgI.select('.circles').selectAll("circle").remove();
 
-            // let data = this.$store.getters.topicData(this.topic.id);
-            // console.log(this.data)
             const ids = this.ids
-            // const ids = data.values.map(d => d.id);
-            // console.log(ids)
-
-            const id2info = this.$store.state.data.labels;
-
-            const id2label = Object.fromEntries(Object.entries(id2info).map(([k, e]) => [k, e.short]))
-            const id2type = Object.fromEntries(Object.entries(id2info).map(([k, e]) => [k, e.io]))
 
             const innerHeightBase = ids.length * (this.barHeight + this.barSpace) - this.barSpace;
             this.innerHeight = this.no_bold ? innerHeightBase : innerHeightBase + (Object.keys(this.data.subtop).length - 1) * this.between
-
-            
-
             this.height = this.innerHeight + this.margin.bottom + this.margin.top;
 
             const idx = Array.from(Array(ids.length).keys());
@@ -94,7 +67,6 @@ export default {
             const y = d3.scaleBand()
                 .range([0, innerHeightBase])
                 .domain(idx)
-                // .domain(data.map((d) => d.label.substring(0, 35)))
                 .paddingInner(6/14)
                 .paddingOuter(0)
 
@@ -108,7 +80,7 @@ export default {
 
             const cutCount = 45;
             const idToLabel = id => {
-                const l = id2label[id]
+                const l = ids[id]
                 if (l.length > cutCount)
                     return l.substring(0, cutCount - 3) + '...';
                 return l;
@@ -119,23 +91,12 @@ export default {
                 .data(idx)
                 .enter()
                 .append("text")
-                .text(d => idToLabel(ids[d]))
+                .text(d => idToLabel(d))
                 // .text(d => this.is_agg(d))
                 .attr('y', d => yy[d] + 12)
                 .attr('dx', -22)
                 .attr('text-anchor', 'end')
                 .attr('font-weight', d => this.is_agg(d) ? 'bold' : 'normal' )
-
-
-            svgI.select('.y-axis').selectAll("circle").remove();
-            svgI.select('.y-axis').selectAll("circle")
-                .data(idx.filter(i => id2type[ids[i]] != ""))
-                .enter()
-                .append("circle")
-                .attr("class", i => id2type[ids[i]])
-                .attr('cy', d => yy[d] + 7)
-                .attr('cx', -11)
-                .attr('r', 4)
 
             svgI.select('.y-axis').selectAll("line").remove();
             svgI.select('.y-axis').selectAll(`line.group`)
@@ -150,10 +111,7 @@ export default {
                 .attr('y1', d => yy[ids.indexOf(d)])
                 .attr('y2', d => yy[ids.indexOf(d) + this.data.subtop[d].length] + 12.5)
 
-            if (this.options.time == "0")
-                this.plotLevels(JSON.parse(JSON.stringify(this.data)), svgI, idx, yy, y, ids)
-            else
-                this.plotChange(JSON.parse(JSON.stringify(this.data)), svgI, idx, yy, y, ids)
+          this.plotLevels(JSON.parse(JSON.stringify(this.data)), svgI, idx, yy, y, ids)
         },
         plotLevels: function(data, svgI, idx, yy, y, ids) {
             const self = this
@@ -195,20 +153,20 @@ export default {
                 xa = d3.axisTop(x).ticks(5)
             }
 
-            const id2value = Object.assign({}, ...data.values.map(d => ({[d.id]: d.value})));
-            const id2useValue = Object.assign({}, ...data.values.map(d => ({[d.id]: d.useValue})));
+            const id2value = Object.assign({}, ...data.values.map((d, i) => ({[i]: d.value})));
+            const id2useValue = Object.assign({}, ...data.values.map((d, i) => ({[i]: d.useValue})));
 
             svgI.select('.s').attr("visibility", "hidden");
 
             
             svgI.select('.bars').selectAll("rect")
-                .data(idx.filter(d => !!id2useValue[ids[d]]))
+                .data(idx.filter(d => !!id2useValue[d]))
                 .enter()
                 .append("rect")
                 .attr("y", d => yy[d])
                 .attr("height", y.bandwidth())
                 .attr("x", x(0))
-                .attr("width", d => x(id2useValue[ids[d]]))
+                .attr("width", d => x(id2useValue[d]))
                 .attr('class', d => this.is_agg(d) ? 'major' : 'minor')
 
             
@@ -216,14 +174,14 @@ export default {
                 .data(idx)
                 .enter()
                 .append("circle")
-                .attr("cx", d => x(id2useValue[ids[d]]))
+                .attr("cx", d => x(id2useValue[d]))
                 .attr("cy", d => yy[d] + y.bandwidth()/2)
                 .attr("r", 7)
-                .attr("class", d => `color-c${this.toColorNr(id2value[ids[d]])}`)
+                .attr("class", d => `color-c${this.toColorNr(id2value[d])}`)
                 .each(function(d) {
                     if (self.is_agg(d)) {
                         d3.select(this.parentNode).append('circle')
-                            .attr("cx", x(id2useValue[ids[d]]))
+                            .attr("cx", x(id2useValue[d]))
                             .attr("cy", yy[d] + y.bandwidth()/2)
                             .attr("r", 4)
                             .style("fill", "white")

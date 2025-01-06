@@ -3,6 +3,7 @@
     <header-str v-if="type != 'print'" :cols="4">
       <template v-slot:right>
         <header-right-str title="FTI-Monitor" subtitle="Indikatorenvergleich" icon="icon_FTISystem2" />
+        <topic-controls style="text-align: right; margin-bottom: 5px;" :controlStatus='controlStatus' :topic='fakeTopic' @change="t => controlStatus = t"/>
       </template>
     </header-str>
     <div class="container-fluid full-width">
@@ -19,7 +20,7 @@
             </div>
 
             <div v-for="indicator in $store.state.selectedIndicators" :key="indicator.id" class="grid-item">
-              <indicators-overview :indicator="indicator" />
+              <indicators-overview :indicator="indicator" :options="{group: controlStatus.compGroup, time: '0', order: 'name', scale: 'lin'}" />
             </div>
           </div>
 
@@ -38,14 +39,21 @@ import HeaderStr from './str/Header.vue';
 import HeaderRightStr from './str/HeaderRight.vue';
 import Indicators from './svg/Indicators.vue';
 import IndicatorsOverview from './svg/IndicatorsOverview.vue';
+import TopicControls from "./TopicControls.vue";
 
 export default {
   props: ['view', 'type'],
   data: () => ({
     width: null,
+    fakeTopic: {comp: ['inno', 'top3', 'eu']},
+    controlStatus: {
+      compGroup: 'inno',
+      compTime: "0",
+    },
     testId: 0,
   }),
   components: {
+    TopicControls,
     HeaderStr,
     HeaderRightStr,
     Indicators,

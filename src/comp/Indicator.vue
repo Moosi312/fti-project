@@ -16,6 +16,7 @@
           <strong>{{ indicator.short }}</strong><br/>
           <span class="name">{{ indicator.unit ? indicator.unit : indicator.unit_short }}</span>
         </p>
+        <bar-indicator :indicator="indicatorId" :options="{group: controlStatus.compGroup, time: '0', order: 'name', scale: 'lin'}"/>
         <p>
           <span class="text">{{ indicator.text }}</span>
         </p>
@@ -35,6 +36,7 @@ import HeaderStr from "./str/Header.vue";
 import LinesSvg from "./svg/Lines.vue";
 import TopicControls from "./TopicControls.vue";
 import TopicsBlock from './block/TopicsIndicator.vue';
+import BarIndicator from "./svg/BarIndicator.vue";
 
 export default {
   props: ['indicatorId', 'modal'],
@@ -55,6 +57,7 @@ export default {
     };
   },
   components: {
+    BarIndicator,
     TopicControls,
     LinesSvg,
     HeaderRightStr, HeaderStr, DocumentsBlock, TopicsBlock

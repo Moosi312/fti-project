@@ -1,0 +1,1797 @@
+[
+    {
+        "id": "AI",
+        "year": 2021,
+        "value": 9,
+        "rel.eu": 110.4545,
+        "rel.inno": 60,
+        "rel.top3": 47.3684
+    },
+    {
+        "id": "Abgabenquote",
+        "year": 2021,
+        "value": 42.132,
+        "rel.eu": 89.1736,
+        "rel.inno": 103.3146,
+        "rel.top3": 45.4611
+    },
+    {
+        "id": "Arbeitslosenquote",
+        "year": 2021,
+        "value": 6.2,
+        "rel.eu": 106.9892,
+        "rel.inno": 112.5,
+        "rel.top3": 51.6129
+    },
+    {
+        "id": "Ausgaben_Primar_KKS",
+        "year": 2021,
+        "value": 8737.7,
+        "rel.eu": 133.6723,
+        "rel.inno": 107.1604,
+        "rel.top3": 70.9229
+    },
+    {
+        "id": "Ausgaben_Sekundar_BIP",
+        "year": 2021,
+        "value": 1.9,
+        "rel.eu": 111.5217,
+        "rel.inno": 83.6084,
+        "rel.top3": 79.2768
+    },
+    {
+        "id": "Ausgaben_Sekundar_KKS",
+        "year": 2021,
+        "value": 22232,
+        "rel.eu": 142.5615,
+        "rel.inno": 114.2961,
+        "rel.top3": 81.792
+    },
+    {
+        "id": "Ausgaben_VS_BIP",
+        "year": 2021,
+        "value": 0.86,
+        "rel.eu": 72.3139,
+        "rel.inno": 53.4992,
+        "rel.top3": 42.5041
+    },
+    {
+        "id": "Ausgaben_prim_sek_BIP",
+        "year": 2021,
+        "value": 2.927,
+        "rel.eu": 92.0337,
+        "rel.inno": 76.4947,
+        "rel.top3": 63.2473
+    },
+    {
+        "id": "Ausgaben_prim_sek_studi",
+        "year": 2021,
+        "value": 15375.13,
+        "rel.eu": 139.2474,
+        "rel.inno": 121.623,
+        "rel.top3": 84.3128
+    },
+    {
+        "id": "BERD_bev",
+        "year": 2021,
+        "value": 1.2454,
+        "rel.eu": 202.7506,
+        "rel.inno": 103.3216,
+        "rel.top3": 70.4086
+    },
+    {
+        "id": "BIP_Kopf",
+        "year": 2021,
+        "value": 120,
+        "rel.eu": 115.0568,
+        "rel.inno": 97.561,
+        "rel.top3": 54.5455
+    },
+    {
+        "id": "BV_slope",
+        "year": 2021,
+        "value": 40.1173,
+        "rel.eu": 93.2503,
+        "rel.inno": 99.7072,
+        "rel.top3": 62.8982
+    },
+    {
+        "id": "BV_strength",
+        "year": 2021,
+        "value": 12.9759,
+        "rel.eu": 96.4804,
+        "rel.inno": 90.5528,
+        "rel.top3": 50.0773
+    },
+    {
+        "id": "A1",
+        "year": 2022,
+        "rel.eu": 100.6905,
+        "rel.inno": 91.8561,
+        "rel.top3": 55.574,
+        "year.p": 2021,
+        "rel.inno.p": 84.5425
+    },
+    {
+        "id": "A2",
+        "year": 2022,
+        "rel.eu": 109.7198,
+        "rel.inno": 97.171,
+        "rel.top3": 64.0037,
+        "year.p": 2021,
+        "rel.inno.p": 92.8383
+    },
+    {
+        "id": "A3",
+        "year": 2022,
+        "rel.eu": 114.1645,
+        "rel.inno": 106.2977,
+        "rel.top3": 54.3426,
+        "year.p": 2021,
+        "rel.inno.p": 97.6226
+    },
+    {
+        "id": "B1",
+        "year": 2022,
+        "rel.eu": 113.3355,
+        "rel.inno": 94.2554,
+        "rel.top3": 58.8647,
+        "year.p": 2021,
+        "rel.inno.p": 93.9035
+    },
+    {
+        "id": "B2",
+        "year": 2022,
+        "rel.eu": 132.6231,
+        "rel.inno": 85.9175,
+        "rel.top3": 64.8082,
+        "year.p": 2021,
+        "rel.inno.p": 83.6521
+    },
+    {
+        "id": "B3",
+        "year": 2022,
+        "rel.eu": 155.6104,
+        "rel.inno": 101.7595,
+        "rel.top3": 67.1363,
+        "year.p": 2021,
+        "rel.inno.p": 111.5554
+    },
+    {
+        "id": "B_B3_ohneCIS",
+        "year": 2021,
+        "rel.eu": 158.133,
+        "rel.inno": 102.6465,
+        "rel.top3": 64.251
+    },
+    {
+        "id": "B4",
+        "year": 2022,
+        "rel.eu": 73.0082,
+        "rel.inno": 52.6764,
+        "rel.top3": 41.4409,
+        "year.p": 2021,
+        "rel.inno.p": 56.3643
+    },
+    {
+        "id": "B5",
+        "year": 2022,
+        "rel.eu": 173.5329,
+        "rel.inno": 154.119,
+        "rel.top3": 74.3864,
+        "year.p": 2021,
+        "rel.inno.p": 160.5885
+    },
+    {
+        "id": "C1",
+        "year": 2022,
+        "rel.eu": 93.2412,
+        "rel.inno": 72.5226,
+        "rel.top3": 54.1798,
+        "year.p": 2021,
+        "rel.inno.p": 73.2486
+    },
+    {
+        "id": "C2",
+        "year": 2022,
+        "rel.eu": 103.2313,
+        "rel.inno": 82.7615,
+        "rel.top3": 37.068,
+        "year.p": 2021,
+        "rel.inno.p": 85.8546
+    },
+    {
+        "id": "C3",
+        "year": 2022,
+        "rel.eu": 93.9287,
+        "rel.inno": 97.1875,
+        "rel.top3": 49.8521,
+        "year.p": 2021
+    },
+    {
+        "id": "C4",
+        "year": 2022,
+        "rel.eu": 140.1581,
+        "rel.inno": 108.9054,
+        "rel.top3": 75.4953,
+        "year.p": 2021,
+        "rel.inno.p": 119.3579
+    },
+    {
+        "id": "C5",
+        "year": 2022,
+        "rel.eu": 83.701,
+        "rel.inno": 82.2624,
+        "rel.top3": 54.7879,
+        "year.p": 2021,
+        "rel.inno.p": 94.5298
+    },
+    {
+        "id": "D1",
+        "year": 2022,
+        "rel.eu": 111.9204,
+        "rel.inno": 102.2422,
+        "rel.top3": 66.8546,
+        "year.p": 2021,
+        "rel.inno.p": 92.4763
+    },
+    {
+        "id": "D2",
+        "year": 2022,
+        "rel.eu": 135.5839,
+        "rel.inno": 87.7455,
+        "rel.top3": 62.5283,
+        "year.p": 2021,
+        "rel.inno.p": 87.7796
+    },
+    {
+        "id": "B_XFA",
+        "year": 2021,
+        "value": 20.9683,
+        "rel.eu": 152.6264,
+        "rel.inno": 212.2291,
+        "rel.top3": 48.7232
+    },
+    {
+        "id": "Betr_Verhältnis_Primar",
+        "year": 2021,
+        "value": 12.2,
+        "rel.eu": 108.0753,
+        "rel.inno": 104.0984,
+        "rel.top3": 74.5902
+    },
+    {
+        "id": "Betr_Verhältnis_früh",
+        "year": 2021,
+        "value": 13.004,
+        "rel.eu": 100.5885,
+        "rel.inno": 89.9723,
+        "rel.top3": 40.7541
+    },
+    {
+        "id": "Betreuung_frühkindlich_pct",
+        "year": 2021,
+        "value": 95.8,
+        "rel.eu": 102.0838,
+        "rel.inno": 99.1975,
+        "rel.top3": 95.8
+    },
+    {
+        "id": "Betreuungsverh_Univ",
+        "year": 2021,
+        "value": 16.2,
+        "rel.eu": 95.7977,
+        "rel.inno": 91.0494,
+        "rel.top3": 45.8848
+    },
+    {
+        "id": "Better_Life",
+        "year": 2021,
+        "value": 6.6424,
+        "rel.eu": 105.1807,
+        "rel.inno": 89.514,
+        "rel.top3": 83.592
+    },
+    {
+        "id": "Big_Data",
+        "year": 2021,
+        "value": 7,
+        "rel.eu": 56.5868,
+        "rel.inno": 35.8974,
+        "rel.top3": 26.25
+    },
+    {
+        "id": "Breitband_pct",
+        "year": 2021,
+        "value": 40,
+        "rel.eu": 76.9231,
+        "rel.inno": 56.7376,
+        "rel.top3": 53.5714
+    },
+    {
+        "id": "Circular_Rate",
+        "year": 2021,
+        "value": 12,
+        "rel.eu": 117.7326,
+        "rel.inno": 109.0909,
+        "rel.top3": 47.3062
+    },
+    {
+        "id": "Cloud_Dienste",
+        "year": 2021,
+        "value": 40,
+        "rel.eu": 93.4256,
+        "rel.inno": 59.7015,
+        "rel.top3": 57.1429
+    },
+    {
+        "id": "EIS_Index",
+        "year": 2021,
+        "value": 130.0512,
+        "rel.eu": 125.787,
+        "rel.inno": 88.526,
+        "rel.top3": 85.8306
+    },
+    {
+        "id": "EP_coll_dismiss",
+        "year": 2021,
+        "value": 2.1448,
+        "rel.eu": 121.745,
+        "rel.inno": 120.3014,
+        "rel.top3": 75.1634
+    },
+    {
+        "id": "EP_indiv_dismiss",
+        "year": 2021,
+        "value": 1.6629,
+        "rel.eu": 142.2339,
+        "rel.inno": 141.4956,
+        "rel.top3": 89.8458
+    },
+    {
+        "id": "EP_temp_emp",
+        "year": 2021,
+        "value": 1.4722,
+        "rel.eu": 134.6007,
+        "rel.inno": 112.9416,
+        "rel.top3": 25.4522
+    },
+    {
+        "id": "ERC_grants",
+        "year": 2021,
+        "value": 2.1214,
+        "rel.eu": 213.3732,
+        "rel.inno": 80.6475,
+        "rel.top3": 54.7909
+    },
+    {
+        "id": "Energieintensität",
+        "year": 2021,
+        "value": 4.2633,
+        "rel.eu": 143.6851,
+        "rel.inno": 110.4218,
+        "rel.top3": 56.7983
+    },
+    {
+        "id": "Energy_pc_GBOARD",
+        "year": 2021,
+        "value": 2.63,
+        "rel.eu": 98.3791,
+        "rel.inno": 70.3209,
+        "rel.top3": 36.2759
+    },
+    {
+        "id": "Energy_pc_GDP",
+        "year": 2021,
+        "value": 0.02,
+        "rel.eu": 120,
+        "rel.inno": 66.6667,
+        "rel.top3": 25.8065
+    },
+    {
+        "id": "Envir_pc_GBOARD",
+        "year": 2021,
+        "value": 0.81,
+        "rel.eu": 32.2424,
+        "rel.inno": 46.8208,
+        "rel.top3": 12.2542
+    },
+    {
+        "id": "Envir_pc_GDP",
+        "year": 2021,
+        "value": 0.01,
+        "rel.eu": 79.4118,
+        "rel.inno": 80,
+        "rel.top3": 25
+    },
+    {
+        "id": "Erwerbstätigenquote",
+        "year": 2021,
+        "value": 72.4,
+        "rel.eu": 103.626,
+        "rel.inno": 100.2423,
+        "rel.top3": 90.8027
+    },
+    {
+        "id": "Exporte_Umwelt",
+        "year": 2021,
+        "value": 3.39,
+        "rel.eu": 266.4629,
+        "rel.inno": 147.2313,
+        "rel.top3": 95.9434
+    },
+    {
+        "id": "Finanz_komp",
+        "year": 2021,
+        "value": 35.7392,
+        "rel.eu": 58.5423,
+        "rel.inno": 53.7986,
+        "rel.top3": 33.1139
+    },
+    {
+        "id": "Frauen_Nawi",
+        "year": 2021,
+        "value": 48.5294,
+        "rel.eu": 84.7208,
+        "rel.inno": 95.2215,
+        "rel.top3": 70.0401
+    },
+    {
+        "id": "Frauen_Technik",
+        "year": 2021,
+        "value": 27.7147,
+        "rel.eu": 93.4086,
+        "rel.inno": 99.133,
+        "rel.top3": 72.1741
+    },
+    {
+        "id": "FuE_Intens",
+        "year": 2021,
+        "value": 1,
+        "rel.eu": 176.1024,
+        "rel.inno": 116.0931,
+        "rel.top3": 104.4337
+    },
+    {
+        "id": "GERD_bev",
+        "year": 2021,
+        "value": 1.7909,
+        "rel.eu": 188.5712,
+        "rel.inno": 102.3161,
+        "rel.top3": 81.0349
+    },
+    {
+        "id": "G_BRXGDP",
+        "year": 2021,
+        "value": 0.5469,
+        "rel.eu": 140.4719,
+        "rel.inno": 115.911,
+        "rel.top3": 63.7633
+    },
+    {
+        "id": "G_XFA",
+        "year": 2021,
+        "value": 16.5817,
+        "rel.eu": 118.695,
+        "rel.inno": 153.3437,
+        "rel.top3": 43.0308
+    },
+    {
+        "id": "G_XGDP",
+        "year": 2021,
+        "value": 3.216,
+        "rel.eu": 167.8339,
+        "rel.inno": 100.9046,
+        "rel.top3": 70.2201
+    },
+    {
+        "id": "Gesunde_Lebensjahre_Frauen",
+        "year": 2021,
+        "value": 70.9,
+        "rel.eu": 93.0853,
+        "rel.inno": 95.0402,
+        "rel.top3": 82.634
+    },
+    {
+        "id": "Gesunde_Lebensjahre_Männer",
+        "year": 2021,
+        "value": 73.7,
+        "rel.eu": 91.5402,
+        "rel.inno": 92.9675,
+        "rel.top3": 82.2851
+    },
+    {
+        "id": "Glasdeckenindex",
+        "year": 2021,
+        "value": 1.55,
+        "rel.eu": 106.4755,
+        "rel.inno": 105.4839,
+        "rel.top3": 66.8817
+    },
+    {
+        "id": "Glasfaser",
+        "year": 2021,
+        "value": 5.6909,
+        "rel.eu": 14.2948,
+        "rel.inno": 12.2951,
+        "rel.top3": 6.8594
+    },
+    {
+        "id": "Gvt_financed_BERD_GDP",
+        "year": 2021,
+        "value": 0.0809,
+        "rel.eu": 145.2714,
+        "rel.inno": 114.8332,
+        "rel.top3": 51.474
+    },
+    {
+        "id": "HEI_gvt_researchers_bev",
+        "year": 2021,
+        "value": 2.0857,
+        "rel.eu": 97.3854,
+        "rel.inno": 78.1636,
+        "rel.top3": 60.7662
+    },
+    {
+        "id": "HERD_GOVERD_BIP",
+        "year": 2021,
+        "value": 0.9616,
+        "rel.eu": 142.1413,
+        "rel.inno": 99.1371,
+        "rel.top3": 89.7591
+    },
+    {
+        "id": "HERD_GOVERD_bev",
+        "year": 2021,
+        "value": 0.5355,
+        "rel.eu": 162.1039,
+        "rel.inno": 99.9517,
+        "rel.top3": 82.5876
+    },
+    {
+        "id": "HERD_industry",
+        "year": 2021,
+        "value": 5.0133,
+        "rel.eu": 99.7365,
+        "rel.inno": 97.7234,
+        "rel.top3": 24.219
+    },
+    {
+        "id": "ICT_specialists",
+        "year": 2021,
+        "value": 4.5,
+        "rel.eu": 94.479,
+        "rel.inno": 67.6692,
+        "rel.top3": 62.5
+    },
+    {
+        "id": "ICT_specialists_fem",
+        "year": 2021,
+        "value": 19,
+        "rel.eu": 94.7368,
+        "rel.inno": 86.0702,
+        "rel.top3": 71.3392
+    },
+    {
+        "id": "IKT_Abs_Bev",
+        "year": 2021,
+        "value": 0.2433,
+        "rel.eu": 73.5427,
+        "rel.inno": 61.7675,
+        "rel.top3": 29.905
+    },
+    {
+        "id": "IKT_Abs_Bev_fem",
+        "year": 2021,
+        "value": 0.0927,
+        "rel.eu": 57.1671,
+        "rel.inno": 44.2241,
+        "rel.top3": 19.9073
+    },
+    {
+        "id": "IKT_Patente_breit",
+        "year": 2021,
+        "value": 0.4314,
+        "rel.eu": 65.0771,
+        "rel.inno": 43.4311,
+        "rel.top3": 29.7489
+    },
+    {
+        "id": "IKT_Patente_eng",
+        "year": 2021,
+        "value": 0.4322,
+        "rel.eu": 64.9829,
+        "rel.inno": 43.4013,
+        "rel.top3": 29.5975
+    },
+    {
+        "id": "IKT_inv",
+        "year": 2021,
+        "value": 14.4362,
+        "rel.eu": 127.7026,
+        "rel.inno": 110.9843,
+        "rel.top3": 75.061
+    },
+    {
+        "id": "IOT",
+        "year": 2021,
+        "value": 51,
+        "rel.eu": 183.8451,
+        "rel.inno": 159.375,
+        "rel.top3": 113.3333
+    },
+    {
+        "id": "IPP_Reg",
+        "year": 2021,
+        "value": 81.4,
+        "rel.eu": 120.0658,
+        "rel.inno": 102.6482,
+        "rel.top3": 92.6404
+    },
+    {
+        "id": "ISO_environment",
+        "year": 2021,
+        "value": 0.3191,
+        "rel.eu": 84.1418,
+        "rel.inno": 74.3923,
+        "rel.top3": 27.4923
+    },
+    {
+        "id": "Immigr_Hochqual",
+        "year": 2021,
+        "value": 31.5,
+        "rel.eu": 88.7694,
+        "rel.inno": 88.1119,
+        "rel.top3": 57.3075
+    },
+    {
+        "id": "Indirect_Gvt_support_GDP",
+        "year": 2021,
+        "value": 0.1907,
+        "rel.eu": 294.2397,
+        "rel.inno": 300.7886,
+        "rel.top3": 69.6239
+    },
+    {
+        "id": "Innov_UNT",
+        "year": 2021,
+        "value": 60,
+        "rel.eu": 117.1451,
+        "rel.inno": 91.2548,
+        "rel.top3": 84.6262
+    },
+    {
+        "id": "Innovationsumsatz",
+        "year": 2021,
+        "value": 12.9866,
+        "rel.eu": 101.3221,
+        "rel.inno": 83.4249,
+        "rel.top3": 49.3022
+    },
+    {
+        "id": "Interm_export",
+        "year": 2021,
+        "value": 21.3002,
+        "rel.eu": 104.6463,
+        "rel.inno": 103.9685,
+        "rel.top3": 66.5163
+    },
+    {
+        "id": "Interm_import",
+        "year": 2021,
+        "value": 26.2882,
+        "rel.eu": 116.6947,
+        "rel.inno": 86.9117,
+        "rel.top3": 59.5952
+    },
+    {
+        "id": "Jugendarbeitslosigkeit",
+        "year": 2021,
+        "value": 11,
+        "rel.eu": 158.1481,
+        "rel.inno": 160.9091,
+        "rel.top3": 72.4242
+    },
+    {
+        "id": "KMU_Inno_koop",
+        "year": 2021,
+        "value": 16.4472,
+        "rel.eu": 119.0944,
+        "rel.inno": 80.6402,
+        "rel.top3": 53.1375
+    },
+    {
+        "id": "KMU_Onlinehandel_Umsatz",
+        "year": 2021,
+        "value": 10,
+        "rel.eu": 87.2483,
+        "rel.inno": 57.6923,
+        "rel.top3": 49.1803
+    },
+    {
+        "id": "KMU_int_Onlinehandel",
+        "year": 2021,
+        "value": 7,
+        "rel.eu": 148.8189,
+        "rel.inno": 116.6667,
+        "rel.top3": 70
+    },
+    {
+        "id": "Kapitalmarktgroesse",
+        "year": 2021,
+        "value": 183.8495,
+        "rel.eu": 85.9541,
+        "rel.inno": 50.4083,
+        "rel.top3": 41.3141
+    },
+    {
+        "id": "Kooperation_UNT_Uni",
+        "year": 2021,
+        "value": 23.2,
+        "rel.eu": 321.3956,
+        "rel.inno": 177.4379,
+        "rel.top3": 101.016
+    },
+    {
+        "id": "Kopublikationen",
+        "year": 2021,
+        "value": 2071.6624,
+        "rel.eu": 136.2684,
+        "rel.inno": 76.5132,
+        "rel.top3": 55.6942
+    },
+    {
+        "id": "Leiden_industry_collab",
+        "year": 2021,
+        "value": 42796.4375,
+        "rel.eu": 255.513,
+        "rel.inno": 80.9837,
+        "rel.top3": 53.812
+    },
+    {
+        "id": "Leidenranking_bev",
+        "year": 2021,
+        "value": 48714.7109,
+        "rel.eu": 74.1879,
+        "rel.inno": 44.3768,
+        "rel.top3": 17.4624
+    },
+    {
+        "id": "Lesen_unter2",
+        "year": 2021,
+        "value": 23.6233,
+        "rel.eu": 101.408,
+        "rel.inno": 73.2229,
+        "rel.top3": 51.3592
+    },
+    {
+        "id": "Lesen_über5",
+        "year": 2021,
+        "value": 7.2441,
+        "rel.eu": 99.7603,
+        "rel.inno": 73.376,
+        "rel.top3": 52.4883
+    },
+    {
+        "id": "MINT_Abs_fem",
+        "year": 2021,
+        "value": 13.2,
+        "rel.eu": 102.7385,
+        "rel.inno": 97.9592,
+        "rel.top3": 60.091
+    },
+    {
+        "id": "MINT_Absolv",
+        "year": 2021,
+        "value": 24.4,
+        "rel.eu": 130.378,
+        "rel.inno": 117.1669,
+        "rel.top3": 76.569
+    },
+    {
+        "id": "MINT_doktorat",
+        "year": 2021,
+        "value": 0.9,
+        "rel.eu": 144.6429,
+        "rel.inno": 90,
+        "rel.top3": 65.4545
+    },
+    {
+        "id": "MW_Lesen",
+        "year": 2021,
+        "value": 484.3926,
+        "rel.eu": 100.6265,
+        "rel.inno": 95.926,
+        "rel.top3": 92.7135
+    },
+    {
+        "id": "MW_Mathe",
+        "year": 2021,
+        "value": 498.9423,
+        "rel.eu": 102.2094,
+        "rel.inno": 98.4516,
+        "rel.top3": 93.3149
+    },
+    {
+        "id": "MW_Science",
+        "year": 2021,
+        "value": 489.7804,
+        "rel.eu": 101.3623,
+        "rel.inno": 97.3361,
+        "rel.top3": 92.9299
+    },
+    {
+        "id": "Mathe_unter2",
+        "year": 2021,
+        "value": 21.0789,
+        "rel.eu": 112.8757,
+        "rel.inno": 80.6691,
+        "rel.top3": 48.7713
+    },
+    {
+        "id": "Mathe_über5",
+        "year": 2021,
+        "value": 12.5584,
+        "rel.eu": 122.7765,
+        "rel.inno": 98.3398,
+        "rel.top3": 54.7874
+    },
+    {
+        "id": "Offenheit",
+        "year": 2021,
+        "value": 78.1861,
+        "rel.eu": 91.9472,
+        "rel.inno": 95.3719,
+        "rel.top3": 47.6062
+    },
+    {
+        "id": "PE_x_bank_gvt",
+        "year": 2021,
+        "value": 77.2362,
+        "rel.eu": 102.1276,
+        "rel.inno": 84.4643,
+        "rel.top3": 79.0259
+    },
+    {
+        "id": "PIRLS_advanced",
+        "year": 2021,
+        "value": 8,
+        "rel.eu": 73.7327,
+        "rel.inno": 69.5652,
+        "rel.top3": 40
+    },
+    {
+        "id": "PIRLS_av_reading",
+        "year": 2021,
+        "value": 541,
+        "rel.eu": 100.595,
+        "rel.inno": 99.9538,
+        "rel.top3": 95.922
+    },
+    {
+        "id": "PIRLS_interm",
+        "year": 2021,
+        "value": 84,
+        "rel.eu": 103.1308,
+        "rel.inno": 101.8182,
+        "rel.top3": 93.3333
+    },
+    {
+        "id": "PIRLS_low",
+        "year": 2021,
+        "value": 2,
+        "rel.eu": 230,
+        "rel.inno": 187.5,
+        "rel.top3": 85.7143
+    },
+    {
+        "id": "PMR2018",
+        "year": 2021,
+        "value": 1.4394,
+        "rel.eu": 97.5035,
+        "rel.inno": 90.2421,
+        "rel.top3": 65.6263
+    },
+    {
+        "id": "Patente_Kooperation",
+        "year": 2021,
+        "value": 29.3333,
+        "rel.eu": 117.2879,
+        "rel.inno": 129.7056,
+        "rel.top3": 29.3333
+    },
+    {
+        "id": "Patente_auslandsbesitz",
+        "year": 2021,
+        "value": 37.3333,
+        "rel.eu": 111.1272,
+        "rel.inno": 135.7622,
+        "rel.top3": 37.3333
+    },
+    {
+        "id": "Ressourcenproduktivität",
+        "year": 2021,
+        "value": 2.1388,
+        "rel.eu": 111.6019,
+        "rel.inno": 106.6055,
+        "rel.top3": 35.272
+    },
+    {
+        "id": "SME_innovation_pct",
+        "year": 2021,
+        "value": 30.387,
+        "rel.eu": 109.9544,
+        "rel.inno": 85.4861,
+        "rel.top3": 69.5519
+    },
+    {
+        "id": "Schüler_hohe_Komp",
+        "year": 2021,
+        "value": 8.4196,
+        "rel.eu": 103.7922,
+        "rel.inno": 82.0616,
+        "rel.top3": 46.4827
+    },
+    {
+        "id": "Schüler_niedrige_Komp",
+        "year": 2021,
+        "value": 14.5107,
+        "rel.eu": 125.1811,
+        "rel.inno": 83.3058,
+        "rel.top3": 62.1808
+    },
+    {
+        "id": "Science_unter2",
+        "year": 2021,
+        "value": 21.8512,
+        "rel.eu": 107.306,
+        "rel.inno": 80.7247,
+        "rel.top3": 47.5397
+    },
+    {
+        "id": "Science_über5",
+        "year": 2021,
+        "value": 6.2954,
+        "rel.eu": 107.6973,
+        "rel.inno": 73.7823,
+        "rel.top3": 50.3377
+    },
+    {
+        "id": "Sekundar_hohe_Komp",
+        "year": 2021,
+        "value": 8.6993,
+        "rel.eu": 111.8371,
+        "rel.inno": 83.7132,
+        "rel.top3": 57.4168
+    },
+    {
+        "id": "Sekundar_niedrige_Komp",
+        "year": 2021,
+        "value": 22.1845,
+        "rel.eu": 106.9765,
+        "rel.inno": 78.0443,
+        "rel.top3": 50.188
+    },
+    {
+        "id": "Solarkapazität",
+        "year": 2021,
+        "value": 7.7643,
+        "rel.eu": 74.3813,
+        "rel.inno": 90.0646,
+        "rel.top3": 31.9438
+    },
+    {
+        "id": "Steuer_Loehne",
+        "year": 2021,
+        "value": 47.8183,
+        "rel.eu": 86.4174,
+        "rel.inno": 90.6206,
+        "rel.top3": 32.1092
+    },
+    {
+        "id": "Steuer_UNT",
+        "year": 2021,
+        "value": 23.1,
+        "rel.eu": 85.1692,
+        "rel.inno": 90.6926,
+        "rel.top3": 49.2424
+    },
+    {
+        "id": "TB_Eff_Inno",
+        "year": 2021,
+        "rel.eu": 107.8511,
+        "rel.inno": 105.8783,
+        "rel.top3": 55.009
+    },
+    {
+        "id": "TB_Eff_Tech",
+        "year": 2021,
+        "rel.eu": 150.8884,
+        "rel.inno": 90.7606,
+        "rel.top3": 26.988
+    },
+    {
+        "id": "TB_Eff_Wiss",
+        "year": 2021,
+        "rel.eu": 87.5282,
+        "rel.inno": 84.9144,
+        "rel.top3": 28.9234
+    },
+    {
+        "id": "TB_FTI",
+        "year": 2021,
+        "rel.eu": 153.6746,
+        "rel.inno": 109.5434,
+        "rel.top3": 73.4458
+    },
+    {
+        "id": "TB_Fin_ges",
+        "year": 2021,
+        "rel.eu": 149.6175,
+        "rel.inno": 110.4537,
+        "rel.top3": 82.7938
+    },
+    {
+        "id": "TB_Finanz",
+        "year": 2021,
+        "rel.eu": 76.8954,
+        "rel.inno": 52.7201,
+        "rel.top3": 45.2576
+    },
+    {
+        "id": "TB_FuE_Klima",
+        "year": 2021,
+        "rel.eu": 82.5083,
+        "rel.inno": 65.9521,
+        "rel.top3": 24.8341
+    },
+    {
+        "id": "TB_GF",
+        "year": 2021,
+        "rel.eu": 148.2095,
+        "rel.inno": 112.4724,
+        "rel.top3": 88.5879
+    },
+    {
+        "id": "TB_Gesund",
+        "year": 2021,
+        "rel.eu": 92.3128,
+        "rel.inno": 94.0039,
+        "rel.top3": 82.4596
+    },
+    {
+        "id": "TB_IKT_Fkt",
+        "year": 2021,
+        "rel.eu": 95.345,
+        "rel.inno": 74.6868,
+        "rel.top3": 57.5223
+    },
+    {
+        "id": "TB_IKT_erf",
+        "year": 2021,
+        "rel.eu": 65.03,
+        "rel.inno": 43.4162,
+        "rel.top3": 29.6732
+    },
+    {
+        "id": "TB_IKT_nutz",
+        "year": 2021,
+        "rel.eu": 113.6634,
+        "rel.inno": 80.8896,
+        "rel.top3": 62.804
+    },
+    {
+        "id": "TB_IKT_wirk",
+        "year": 2021,
+        "rel.eu": 85.2311,
+        "rel.inno": 80.1983,
+        "rel.top3": 55.596
+    },
+    {
+        "id": "TB_Input",
+        "year": 2021,
+        "rel.eu": 107.2797,
+        "rel.inno": 94.1374,
+        "rel.top3": 50.8293
+    },
+    {
+        "id": "TB_Input_UNT",
+        "year": 2021,
+        "rel.eu": 175.8989,
+        "rel.inno": 113.8478,
+        "rel.top3": 71.7658
+    },
+    {
+        "id": "TB_Input_forsch",
+        "year": 2021,
+        "rel.eu": 135.5256,
+        "rel.inno": 98.2909,
+        "rel.top3": 74.219
+    },
+    {
+        "id": "TB_Inv_Infr",
+        "year": 2021,
+        "rel.eu": 72.9735,
+        "rel.inno": 60.0057,
+        "rel.top3": 45.1639
+    },
+    {
+        "id": "TB_KMU",
+        "year": 2021,
+        "rel.eu": 110.1236,
+        "rel.inno": 83.1838,
+        "rel.top3": 57.3305
+    },
+    {
+        "id": "TB_Koop",
+        "year": 2021,
+        "rel.eu": 203.6794,
+        "rel.inno": 119.2282,
+        "rel.top3": 69.6658
+    },
+    {
+        "id": "TB_Output",
+        "year": 2021,
+        "rel.eu": 115.7578,
+        "rel.inno": 94.3026,
+        "rel.top3": 62.0788
+    },
+    {
+        "id": "TB_Output_UNT",
+        "year": 2021,
+        "rel.eu": 136.7119,
+        "rel.inno": 96.1401,
+        "rel.top3": 66.7444
+    },
+    {
+        "id": "TB_Output_forsch",
+        "year": 2021,
+        "rel.eu": 130.6881,
+        "rel.inno": 77.6685,
+        "rel.top3": 58.5344
+    },
+    {
+        "id": "TB_Primar",
+        "year": 2021,
+        "rel.eu": 119.2904,
+        "rel.inno": 104.6127,
+        "rel.top3": 63.5087
+    },
+    {
+        "id": "TB_Reg",
+        "year": 2021,
+        "rel.eu": 123.2298,
+        "rel.inno": 113.5258,
+        "rel.top3": 69.7456
+    },
+    {
+        "id": "TB_Sekundar",
+        "year": 2021,
+        "rel.eu": 102.6838,
+        "rel.inno": 90.825,
+        "rel.top3": 57.943
+    },
+    {
+        "id": "TB_Steuer",
+        "year": 2021,
+        "rel.eu": 86.9201,
+        "rel.inno": 94.8759,
+        "rel.top3": 42.2709
+    },
+    {
+        "id": "TB_UF",
+        "year": 2021,
+        "rel.eu": 204.1312,
+        "rel.inno": 207.6912,
+        "rel.top3": 60.9802
+    },
+    {
+        "id": "TB_Umwelt",
+        "year": 2021,
+        "rel.eu": 110.5702,
+        "rel.inno": 95.8015,
+        "rel.top3": 43.8912
+    },
+    {
+        "id": "TB_Umwelt_Nutzung",
+        "year": 2021,
+        "rel.eu": 79.2616,
+        "rel.inno": 82.2285,
+        "rel.top3": 29.718
+    },
+    {
+        "id": "TB_Umwelt_Wirkung",
+        "year": 2021,
+        "rel.eu": 151.4962,
+        "rel.inno": 108.0713,
+        "rel.top3": 56.9396
+    },
+    {
+        "id": "TB_Vfl_Inno",
+        "year": 2021,
+        "rel.eu": 115.5666,
+        "rel.inno": 132.6257,
+        "rel.top3": 48.9156
+    },
+    {
+        "id": "TB_Vfl_Uni",
+        "year": 2021,
+        "rel.eu": 136.6061,
+        "rel.inno": 86.0559,
+        "rel.top3": 56.0562
+    },
+    {
+        "id": "TB_Vfl_Wirt",
+        "year": 2021,
+        "rel.eu": 102.2799,
+        "rel.inno": 99.6976,
+        "rel.top3": 57.7431
+    },
+    {
+        "id": "TB_WS",
+        "year": 2021,
+        "rel.eu": 117.8002,
+        "rel.inno": 112.1453,
+        "rel.top3": 70.5955
+    },
+    {
+        "id": "TB_frühkind",
+        "year": 2021,
+        "rel.eu": 101.3362,
+        "rel.inno": 94.5849,
+        "rel.top3": 68.2771
+    },
+    {
+        "id": "TB_gend_Beruf",
+        "year": 2021,
+        "rel.eu": 92.0087,
+        "rel.inno": 89.9867,
+        "rel.top3": 66.3569
+    },
+    {
+        "id": "TB_gend_HS",
+        "year": 2021,
+        "rel.eu": 77.0548,
+        "rel.inno": 76.083,
+        "rel.top3": 45.5327
+    },
+    {
+        "id": "TB_patent",
+        "year": 2021,
+        "rel.eu": 220.7638,
+        "rel.inno": 81.0433,
+        "rel.top3": 53.2657
+    },
+    {
+        "id": "TB_stand_ce",
+        "year": 2021,
+        "rel.eu": 120.5414,
+        "rel.inno": 107.0455,
+        "rel.top3": 62.8647
+    },
+    {
+        "id": "TB_struktur",
+        "year": 2021,
+        "rel.eu": 106.4458,
+        "rel.inno": 102.6085,
+        "rel.top3": 65.4889
+    },
+    {
+        "id": "TB_upgrade",
+        "year": 2021,
+        "rel.eu": 133.1413,
+        "rel.inno": 104.6017,
+        "rel.top3": 85.1128
+    },
+    {
+        "id": "TB_ökon_ce",
+        "year": 2021,
+        "rel.eu": 82.2479,
+        "rel.inno": 99.5835,
+        "rel.top3": 56.1358
+    },
+    {
+        "id": "TIMMS_av_science_mathe",
+        "year": 2021,
+        "value": 530.5,
+        "rel.eu": 101.562,
+        "rel.inno": 100.4497,
+        "rel.top3": 91.5708
+    },
+    {
+        "id": "TIMMS_av_science_mathe_adv",
+        "year": 2021,
+        "value": 8,
+        "rel.eu": 106.0241,
+        "rel.inno": 92.7536,
+        "rel.top3": 29.6296
+    },
+    {
+        "id": "TIMMS_av_science_mathe_interm",
+        "year": 2021,
+        "value": 79.5,
+        "rel.eu": 106.2899,
+        "rel.inno": 103.2468,
+        "rel.top3": 86.7273
+    },
+    {
+        "id": "TIMMS_av_science_mathe_low",
+        "year": 2021,
+        "value": 4,
+        "rel.eu": 150,
+        "rel.inno": 118.75,
+        "rel.top3": 40.625
+    },
+    {
+        "id": "Treibhausgase",
+        "year": 2021,
+        "value": 94.1,
+        "rel.eu": 76.4238,
+        "rel.inno": 70.3773,
+        "rel.top3": 39.6033
+    },
+    {
+        "id": "UNT_förderung",
+        "year": 2021,
+        "value": 0.2716,
+        "rel.eu": 224.3873,
+        "rel.inno": 202.9137,
+        "rel.top3": 74.0997
+    },
+    {
+        "id": "Umweltpatente",
+        "year": 2021,
+        "value": 0.9653,
+        "rel.eu": 89.2676,
+        "rel.inno": 75.136,
+        "rel.top3": 41.0887
+    },
+    {
+        "id": "Uniabs_isced5_8",
+        "year": 2021,
+        "value": 42.4441,
+        "rel.eu": 92.4323,
+        "rel.inno": 89.7404,
+        "rel.top3": 63.5197
+    },
+    {
+        "id": "Uniabs_isced6_8",
+        "year": 2021,
+        "value": 28.0584,
+        "rel.eu": 65.4114,
+        "rel.inno": 60.7619,
+        "rel.top3": 47.7966
+    },
+    {
+        "id": "Uniausgaben_Studi",
+        "year": 2021,
+        "value": 21653.33,
+        "rel.eu": 118.7616,
+        "rel.inno": 97.2254,
+        "rel.top3": 55.7738
+    },
+    {
+        "id": "VC",
+        "year": 2021,
+        "value": 0.2157,
+        "rel.eu": 42.6045,
+        "rel.inno": 23.2878,
+        "rel.top3": 15.4328
+    },
+    {
+        "id": "VS_hohe_Komp",
+        "year": 2021,
+        "value": 8,
+        "rel.eu": 88.568,
+        "rel.inno": 79.5031,
+        "rel.top3": 29.6296
+    },
+    {
+        "id": "VS_niedrige_Komp",
+        "year": 2021,
+        "value": 3,
+        "rel.eu": 176.8116,
+        "rel.inno": 141.6667,
+        "rel.top3": 44.4444
+    },
+    {
+        "id": "Weiterbildung",
+        "year": 2021,
+        "value": 14.6,
+        "rel.eu": 115.4319,
+        "rel.inno": 59.7748,
+        "rel.top3": 47.7124
+    },
+    {
+        "id": "ausl_Doktor",
+        "year": 2021,
+        "value": 36.8,
+        "rel.eu": 145.9245,
+        "rel.inno": 113.8438,
+        "rel.top3": 57.0543
+    },
+    {
+        "id": "ausl_Patente_Inlandsbesitz",
+        "year": 2021,
+        "value": 85.9649,
+        "rel.eu": 115.156,
+        "rel.inno": 111.6913,
+        "rel.top3": 85.9649
+    },
+    {
+        "id": "bewilligung",
+        "year": 2021,
+        "value": 0.146,
+        "rel.eu": 127.6254,
+        "rel.inno": 67.8107,
+        "rel.top3": 55.4201
+    },
+    {
+        "id": "citabledocuments_bev",
+        "year": 2021,
+        "value": 3.0643,
+        "rel.eu": 123.6803,
+        "rel.inno": 75.4002,
+        "rel.top3": 59.7083
+    },
+    {
+        "id": "comb_IThigh_med_high",
+        "year": 2021,
+        "value": 0.3453,
+        "rel.eu": 114.132,
+        "rel.inno": 115.6072,
+        "rel.top3": 46.7081
+    },
+    {
+        "id": "digital_skills",
+        "year": 2021,
+        "value": 66,
+        "rel.eu": 118.0132,
+        "rel.inno": 94.6237,
+        "rel.top3": 80.1619
+    },
+    {
+        "id": "domestic_VA_final_demand",
+        "year": 2021,
+        "value": 36.62,
+        "rel.eu": 95.8314,
+        "rel.inno": 112.5384,
+        "rel.top3": 57.2545
+    },
+    {
+        "id": "drucker_3D",
+        "year": 2021,
+        "value": 5,
+        "rel.eu": 108.871,
+        "rel.inno": 71.4286,
+        "rel.top3": 64.5161
+    },
+    {
+        "id": "empShareIctTypeComb_High",
+        "year": 2021,
+        "value": 9.4405,
+        "rel.eu": 91.5289,
+        "rel.inno": 92.2295,
+        "rel.top3": 62.4309
+    },
+    {
+        "id": "emp_ce",
+        "year": 2021,
+        "value": 1.45,
+        "rel.eu": 79.0909,
+        "rel.inno": 105.2631,
+        "rel.top3": 53.5714
+    },
+    {
+        "id": "emp_wiss",
+        "year": 2021,
+        "value": 15.3,
+        "rel.eu": 98.3103,
+        "rel.inno": 85.8345,
+        "rel.top3": 64.9222
+    },
+    {
+        "id": "employment_innovativesec_pct",
+        "year": 2021,
+        "value": 7.26,
+        "rel.eu": 72.1936,
+        "rel.inno": 66.7586,
+        "rel.top3": 45.0465
+    },
+    {
+        "id": "entrepreneur",
+        "year": 2021,
+        "value": 2.695,
+        "rel.eu": 75.1072,
+        "rel.inno": 36.1947,
+        "rel.top3": 26.2585
+    },
+    {
+        "id": "erfolgsquote_hs",
+        "year": 2021,
+        "value": 14.6,
+        "rel.eu": 111.293,
+        "rel.inno": 104.4723,
+        "rel.top3": 89.3877
+    },
+    {
+        "id": "erfolgsquote_unt",
+        "year": 2021,
+        "value": 17.3,
+        "rel.eu": 138.0727,
+        "rel.inno": 120.7679,
+        "rel.top3": 99.6161
+    },
+    {
+        "id": "export_quality_pct",
+        "year": 2021,
+        "value": 82.6552,
+        "rel.eu": 125.4254,
+        "rel.inno": 98.6745,
+        "rel.top3": 93.6643
+    },
+    {
+        "id": "frühe_Schulabgänger",
+        "year": 2021,
+        "value": 8,
+        "rel.eu": 102.8241,
+        "rel.inno": 103.4375,
+        "rel.top3": 36.25
+    },
+    {
+        "id": "gee",
+        "year": 2021,
+        "value": 1.6551,
+        "rel.eu": 160.3814,
+        "rel.inno": 99.0577,
+        "rel.top3": 84.0733
+    },
+    {
+        "id": "gender_diff_Lesen",
+        "year": 2021,
+        "value": 28.0969,
+        "rel.eu": 116.2697,
+        "rel.inno": 121.8368,
+        "rel.top3": 60.5659
+    },
+    {
+        "id": "gender_diff_mathe",
+        "year": 2021,
+        "value": 13.2827,
+        "rel.eu": 47.2391,
+        "rel.inno": 43.8773,
+        "rel.top3": 5.4512
+    },
+    {
+        "id": "grad_rate",
+        "year": 2021,
+        "value": 82.779,
+        "rel.eu": 99.1361,
+        "rel.inno": 104.8941,
+        "rel.top3": 87.2481
+    },
+    {
+        "id": "gross_inv",
+        "year": 2021,
+        "value": 0.1,
+        "rel.eu": 71.6511,
+        "rel.inno": 76.9231,
+        "rel.top3": 47.619
+    },
+    {
+        "id": "gross_va",
+        "year": 2021,
+        "value": 0.95,
+        "rel.eu": 96.0018,
+        "rel.inno": 116.5644,
+        "rel.top3": 67.217
+    },
+    {
+        "id": "handelsbilanz_CEshare",
+        "year": 2021,
+        "value": 0.2273,
+        "rel.eu": 38.1693,
+        "rel.inno": 94.684,
+        "rel.top3": 6.0011
+    },
+    {
+        "id": "industry_researchers_FTE_bev",
+        "year": 2021,
+        "value": 3.6839,
+        "rel.eu": 153.6795,
+        "rel.inno": 83.7039,
+        "rel.top3": 64.7295
+    },
+    {
+        "id": "migrant_diff_Lesen",
+        "year": 2021,
+        "value": 62.5473,
+        "rel.eu": 69.5564,
+        "rel.inno": 120.7034,
+        "rel.top3": 3.4538
+    },
+    {
+        "id": "pagerank",
+        "year": 2021,
+        "value": 1.6203,
+        "rel.eu": 233.6139,
+        "rel.inno": 92.2414,
+        "rel.top3": 71.3577
+    },
+    {
+        "id": "patentanmeldungen_bev",
+        "year": 2021,
+        "value": 0.2116,
+        "rel.eu": 246.6413,
+        "rel.inno": 91.0324,
+        "rel.top3": 65.8375
+    },
+    {
+        "id": "patente_ce",
+        "year": 2021,
+        "value": 1.11,
+        "rel.eu": 131.5051,
+        "rel.inno": 72.7869,
+        "rel.top3": 48.827
+    },
+    {
+        "id": "private_FuE",
+        "year": 2021,
+        "value": 66.6662,
+        "rel.eu": 98.784,
+        "rel.inno": 88.487,
+        "rel.top3": 77.7027
+    },
+    {
+        "id": "publications_10pct",
+        "year": 2021,
+        "value": 10.6928,
+        "rel.eu": 125.3257,
+        "rel.inno": 84.6013,
+        "rel.top3": 74.1627
+    },
+    {
+        "id": "pve",
+        "year": 2021,
+        "value": 0.8519,
+        "rel.eu": 120.8105,
+        "rel.inno": 97.3303,
+        "rel.top3": 61.9052
+    },
+    {
+        "id": "recyl",
+        "year": 2021,
+        "value": 63,
+        "rel.eu": 123.3503,
+        "rel.inno": 105,
+        "rel.top3": 78.4232
+    },
+    {
+        "id": "res_fem_bus",
+        "year": 2021,
+        "value": 17.6959,
+        "rel.eu": 74.2384,
+        "rel.inno": 76.2388,
+        "rel.top3": 48.9578
+    },
+    {
+        "id": "res_fem_govhes",
+        "year": 2021,
+        "value": 41.7704,
+        "rel.eu": 92.5839,
+        "rel.inno": 92.1538,
+        "rel.top3": 78.2489
+    },
+    {
+        "id": "researchers_FTE_bev",
+        "year": 2021,
+        "value": 5.8195,
+        "rel.eu": 127.4181,
+        "rel.inno": 81.7722,
+        "rel.top3": 72.7292
+    },
+    {
+        "id": "rle",
+        "year": 2021,
+        "value": 1.8104,
+        "rel.eu": 169.8923,
+        "rel.inno": 101.8096,
+        "rel.top3": 91.3424
+    },
+    {
+        "id": "robot_ind_ser",
+        "year": 2021,
+        "value": 6,
+        "rel.eu": 93.6416,
+        "rel.inno": 63.1579,
+        "rel.top3": 61.017
+    },
+    {
+        "id": "rqe",
+        "year": 2021,
+        "value": 1.4014,
+        "rel.eu": 125.0131,
+        "rel.inno": 83.9282,
+        "rel.top3": 75.4227
+    },
+    {
+        "id": "sophistication",
+        "year": 2021,
+        "value": 1.6293,
+        "rel.eu": 140.8572,
+        "rel.inno": 110.5289,
+        "rel.top3": 76.5613
+    },
+    {
+        "id": "triadischepatente_bev",
+        "year": 2021,
+        "value": 0.0207,
+        "rel.eu": 182.0362,
+        "rel.inno": 59.8561,
+        "rel.top3": 22.6018
+    },
+    {
+        "id": "vaShareIctTypeComb_High",
+        "year": 2021,
+        "value": 11.8989,
+        "rel.eu": 84.4574,
+        "rel.inno": 93.57,
+        "rel.top3": 54.905
+    },
+    {
+        "id": "vaShareIctTypeComb_Producer",
+        "year": 2021,
+        "value": 6.142,
+        "rel.eu": 77.6898,
+        "rel.inno": 77.3013,
+        "rel.top3": 55.8677
+    },
+    {
+        "id": "vocational_graduates",
+        "year": 2021,
+        "value": 76.7212,
+        "rel.eu": 170.5509,
+        "rel.inno": 160.3847,
+        "rel.top3": 105.5067
+    },
+    {
+        "id": "wissens_DL",
+        "year": 2021,
+        "value": 78.0114,
+        "rel.eu": 102.9733,
+        "rel.inno": 98.8042,
+        "rel.top3": 71.647
+    },
+    {
+        "id": "wissensintensitaet_export",
+        "year": 2021,
+        "value": 57.6244,
+        "rel.eu": 110.3677,
+        "rel.inno": 110.1882,
+        "rel.top3": 78.6783
+    },
+    {
+        "id": "öff_Finanz_HS_BIP",
+        "year": 2021,
+        "value": 0.58,
+        "rel.eu": 180.2071,
+        "rel.inno": 105.9361,
+        "rel.top3": 82.0755
+    },
+    {
+        "id": "öff_Finanz_HS_HERD",
+        "year": 2021,
+        "value": 84.4649,
+        "rel.eu": 116.2118,
+        "rel.inno": 119.0087,
+        "rel.top3": 95.1003
+    },
+    {
+        "id": "öffentliche_Finanz_FuE",
+        "year": 2021,
+        "value": 1.072,
+        "rel.eu": 182.2346,
+        "rel.inno": 141.9696,
+        "rel.top3": 100.4586
+    }
+]

@@ -1,49 +1,39 @@
 <template>
-  <div class='compare'>
+  <div class="compare">
     <header-str v-if="type != 'print'" :cols="4">
       <template v-slot:right>
-        <header-right-str title='FTI-Monitor' subtitle='Indikatorenvergleich' icon='icon_FTISystem2'/>
+        <header-right-str title="FTI-Monitor" subtitle="Indikatorenvergleich" icon="icon_FTISystem2" />
       </template>
     </header-str>
     <div class="container-fluid full-width">
-        <div class="compare-content">
-     
-          <!-- You can add your topic controls here if needed -->
-          <!-- <topic-controls style="text-align: right; margin-bottom: 5px;" :controlStatus='controlStatus' :topic='topic' @change="t => controlStatus = t"/> -->
-          
-          <div ref='system'>
-            <div v-if='width > 600' class="row">
+      <div class="compare-content">
+        <div ref="system" class="grid-container">
 
-              <div class="col-md-3 col-lg-3 col-xl-3">
-                <indicators :key='`system-svg-${testId}`'/>
-              </div>
-              
-              <div class="col-md-4 col-lg-4 col-xl-4">
-                  <h2>Column 1</h2>
-                  <p>{{ $store.state.selectedIndicators.map(ind => $store.getters.getShortname(ind)) }}</p>
-              </div>
-              
-              <div class="col-md-4 col-lg-4 col-xl-4">
-                  <h2>Column 2</h2>
-              </div>
-            </div>
-            <br />
-            <br />
-            <br />
-            <br />
+          <div class="fixed-column">
+            <indicators :key="`system-svg-${testId}`" />
           </div>
-          
+
+          <div class="dynamic-grid">
+            <div v-for="indicator in $store.state.selectedIndicators" :key="indicator.id" class="grid-item">
+              <indicators-overview :indicator="indicator" />
+            </div>
+          </div>
+
         </div>
+        <br />
+        <br />
+        <br />
+        <br />
       </div>
     </div>
+  </div>
 </template>
 
 <script>
 import HeaderStr from './str/Header.vue';
-import HeaderRightStr from './str/HeaderRight.vue'
-import TopicControls from './TopicControls.vue';
-import SystemSvg from './svg/System.vue';
+import HeaderRightStr from './str/HeaderRight.vue';
 import Indicators from './svg/Indicators.vue';
+import IndicatorsOverview from './svg/IndicatorsOverview.vue';
 
 export default {
   props: ['view', 'type'],
@@ -52,27 +42,62 @@ export default {
     testId: 0,
   }),
   components: {
-    HeaderRightStr, HeaderStr, TopicControls, SystemSvg, Indicators
+    HeaderStr,
+    HeaderRightStr,
+    Indicators,
+    IndicatorsOverview,
   },
   methods: {
     updateWidth() {
       if (this.$refs.system) {
-        this.width = this.$refs.system.clientWidth
+        this.width = this.$refs.system.clientWidth;
         this.testId += 1;
       }
-    }
+    },
   },
   mounted() {
-    this.width = this.$refs.system.clientWidth
-    window.addEventListener('resize', this.updateWidth)
+    this.width = this.$refs.system?.clientWidth || 0;
+    window.addEventListener('resize', this.updateWidth);
   },
-}
+  beforeDestroy() {
+    window.removeEventListener('resize', this.updateWidth);
+  },
+};
 </script>
 
-<style>
+<style scoped>
 .compare-content {
   margin-left: 5%;
   padding-top: 20px;
   height: 100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 20px;
+}
+
+.fixed-column {
+  grid-row: 1 / span 1; 
+  position: sticky;
+  top: 0;
+}
+
+.dynamic-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  grid-auto-rows: 200px; 
+  gap: 20px;
+}
+
+.grid-item {
+  background-color: #ffffff; /*remove then */
+  padding: 10px;
+  border-radius: 8px;
+  height: 100%; 
+  display: flex;
+  align-items: left;
+  justify-content: left;
 }
 </style>

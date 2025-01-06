@@ -6,35 +6,29 @@
         <topic-controls style="text-align: right; margin-bottom: 5px;" :controlStatus='controlStatus' :topic='fakeTopic' @change="t => controlStatus = t"/>
       </template>
     </header-str>
-    <div class="container-fluid full-width">
-      <div class="compare-content">
-        <div ref="system" class="grid-container">
-
-          <div class="fixed-column">
+    <div class="row g-3">
+      <div class="col-xl-4 col-lg-5 col-md-12">
+          <block type="area" header="FTI-Bereiche & Indikatoren">
             <indicators :key="`system-svg-${testId}`" />
+          </block>
+      </div>
+      <div class="col-xl-8 col-lg-7 col-md-12 order-first order-lg-last">
+        <div class="dynamic-grid">
+          <div v-if="$store.state.selectedIndicators.length === 0" class="sample-text">
+            <p>Um Indikatoren vergleichen zu können, müssen diese im linken Bereich ausgewählt werden.</p>
           </div>
 
-          <div class="dynamic-grid">
-            <div v-if="$store.state.selectedIndicators.length === 0" class="sample-text">
-              <p>Um Indikatoren vergleichen zu können, müssen diese im linken Bereich ausgewählt werden.</p>
-            </div>
-
-            <div v-for="indicator in $store.state.selectedIndicators" :key="indicator.id" class="grid-item">
-              <indicators-overview :indicator="indicator" :options="{group: controlStatus.compGroup, time: '0', order: 'name', scale: 'lin'}" />
-            </div>
+          <div v-for="indicator in $store.state.selectedIndicators" :key="indicator.id" class="grid-item">
+            <indicators-overview :indicator="indicator" :options="{group: controlStatus.compGroup, time: '0', order: 'name', scale: 'lin'}" />
           </div>
-
         </div>
-        <br />
-        <br />
-        <br />
-        <br />
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import Block from './block/Base.vue';
 import HeaderStr from './str/Header.vue';
 import HeaderRightStr from './str/HeaderRight.vue';
 import Indicators from './svg/Indicators.vue';
@@ -58,6 +52,7 @@ export default {
     HeaderRightStr,
     Indicators,
     IndicatorsOverview,
+    Block,
   },
   methods: {
     updateWidth() {

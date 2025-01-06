@@ -5,8 +5,6 @@
       <input type="text" placeholder="Indikator ..." v-model="searchTerm" @input="filterIndicators" />
       <div class="search-icon"></div>
     </div>
-    
-    <h3 class="topics-inds">FTI-Bereiche & Indikatoren</h3>
 
     <div v-for="(node, index) in treeData" :key="node.id" class="tree-node">
       <div class="topics">
@@ -156,6 +154,7 @@ export default {
   padding: 5px;
   background-color: white;
   width: 100%;
+  margin-bottom: 1rem;
 }
 
 .search-box input[type="text"] {

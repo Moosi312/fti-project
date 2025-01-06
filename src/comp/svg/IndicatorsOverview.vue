@@ -1,21 +1,25 @@
 <template>
-  <router-link :to="{ name: 'indicator', params: { indicatorId: indicator }}">
-    <h3 v-if="indicator" class="indicator-name">{{ $store.getters.getShortname(indicator) }}</h3>
-    <p v-else>No indicator selected.</p>
-    <p class="description">{{ $store.getters.getLabels(indicator).name_a }}</p>
+  <div>
+    <router-link :to="{ name: 'indicator', params: { indicatorId: indicator }}">
+      <block>
+        <h3 v-if="indicator" class="indicator-name">{{ $store.getters.getShortname(indicator) }}</h3>
+        <p v-else>No indicator selected.</p>
+        <p class="description">{{ $store.getters.getLabels(indicator).name_a }}</p>
 
-    <div class="topics-container">
-      <div
-        class="topic-row">
-        <div class="topic-entry" v-for="([topic, io]) in relevantTopics" :key="topic.id">
-          <topic-entry-in-out :topic="topic" :in-out="io" />
+        <div class="topics-container">
+          <div
+              class="topic-row">
+            <div class="topic-entry" v-for="([topic, io]) in relevantTopics" :key="topic.id">
+              <topic-entry-in-out :topic="topic" :in-out="io" />
+            </div>
+          </div>
+          <div class="ind-bar">
+            <bar-indicator :indicator="indicator" :options="options"/>
+          </div>
         </div>
-      </div>
-      <div class="ind-bar">
-        <bar-indicator :indicator="indicator" :options="options"/>
-      </div>
-    </div>
-  </router-link>
+      </block>
+    </router-link>
+  </div>
 </template>
 
 <script>

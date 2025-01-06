@@ -11,7 +11,7 @@
                     <div class="test-links">
                       <h5>Test links</h5>
                       <router-link :to="{name: 'connection'}">Connections</router-link>
-                      <router-link :to="{name: 'test'}">Indicator compare</router-link>
+                      <router-link :to="{name: 'compare'}">Indicator compare</router-link>
                       <router-link :to="{name: 'indicator', params: {indicatorId: 'MINT_Absolv_58'}}">Indicator details</router-link>
                     </div>
                     <div v-if="type != 'print'" class="col-md-5 col-lg-4 col-xl-4">

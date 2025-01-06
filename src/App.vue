@@ -12,7 +12,7 @@
         <target v-if='$route.name == "target"' :target='$store.getters.target($route.params.id)' />
         <overview v-if='$route.name == "overview"' :view='$route.params.view'/>
         <connection v-if='$route.name == "connection"'/>
-        <test v-if='$route.name == "test"'/>
+        <test v-if='$route.name == "compare"'/>
         <indicator v-if='$route.name == "indicator"' :indicator-id="$route.params['indicatorId']" :modal="false"/>
         <bar v-if='$route.name == "bar"'/>
         <all-in-one v-if='$route.name == "print"'/>

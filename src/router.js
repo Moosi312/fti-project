@@ -39,12 +39,12 @@ export const router = new VueRouter({
         path: '/connection',
         component: App
     }, {
-        name: 'test',
-        path: '/test',
+        name: 'compare',
+        path: '/I',
         component: App
     }, {
         name: 'indicator',
-        path: '/indicator/:indicatorId',
+        path: '/I/:indicatorId',
         component: App
     }]
 })

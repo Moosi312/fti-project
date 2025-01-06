@@ -257,6 +257,20 @@ export const store = new Vuex.Store({
             return map;
         },
 
+        topicsForIndicator: (s) => (indicatorId) => {
+            return Object.entries(s.data.str).filter(topic => topic[1]['i'].includes(indicatorId)).map(topic => topic[0])
+        },
+
+        getInOutForTopicIndicator: (s) => (topic, indicator) => {
+            if (topic === 'D2' && indicator === 'Uniabs_isced5_8')
+                return 'i'
+
+            if (topic === 'C4' && ['MINT_Absolv_58', 'MINT_Absolv_68', 'publications_10pct']) {
+                return 'i'
+            }
+            return (s.data.labels[indicator] ?? {})['io'];
+        },
+
         getShortname: (s) => (id) => (s.data.labels[id] ?? {})['short'] ?? '',
 
         getLabels: (s) => (id) => (s.data.labels[id]),

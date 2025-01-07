@@ -13,6 +13,7 @@
           </block>
       </div>
       <div class="col-xl-8 col-lg-7 col-md-12 order-first order-lg-last">
+        <block class="selected-indicators" header="Ausgewählte Indikatoren">
         <div class="dynamic-grid">
           <div v-if="$store.state.selectedIndicators.length === 0" class="sample-text">
             <p>Um Indikatoren vergleichen zu können, müssen diese im linken Bereich ausgewählt werden.</p>
@@ -22,6 +23,7 @@
             <indicators-overview :indicator="indicator" :options="{group: controlStatus.compGroup, time: '0', order: 'name', scale: 'lin'}" />
           </div>
         </div>
+        </block>
       </div>
     </div>
   </div>
@@ -91,10 +93,19 @@ export default {
   top: 0;
 }
 
+.dynamic-content {
+  width: 100%;
+}
+
+.topic-controls-wrapper {
+  margin-bottom: 20px;
+}
+
 .dynamic-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr); 
   gap: 20px;
+  height: 100%;
 }
 
 .grid-item {
@@ -109,8 +120,14 @@ export default {
 .sample-text {
   grid-column: span 2;
   text-align: center;
-  margin-top: 20%; /* try on different screens */
-  padding: 10px;
+  /*margin-top: 20%; /* try on different screens */
+  padding: 5%;
   color: #707070;
+}
+
+.selected-indicators
+{
+  display: block;
+  height: 100%;
 }
 </style>

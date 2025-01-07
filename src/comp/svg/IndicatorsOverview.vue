@@ -1,47 +1,34 @@
 <template>
   <div>
     <router-link :to="{ name: 'indicator', params: { indicatorId: indicator }}">
-      <block>
-        <h3 v-if="indicator" class="indicator-name">{{ $store.getters.getShortname(indicator) }}</h3>
-        <p v-else>No indicator selected.</p>
-        <p class="description">{{ $store.getters.getLabels(indicator).name_a }}</p>
+      <h3 class="indicator-name">{{ $store.getters.getShortname(indicator) }}</h3>
+    </router-link>
+    <div>
+      <p class="description">{{ $store.getters.getLabels(indicator).name_a }}</p>
 
-        <div class="topics-container">
-          <div
-              class="topic-row">
-            <div class="topic-entry" v-for="([topic, io]) in relevantTopics" :key="topic.id">
-              <topic-entry-in-out :topic="topic" :in-out="io" />
-            </div>
-          </div>
-          <div class="ind-bar">
-            <bar-indicator :indicator="indicator" :options="options"/>
+      <div class="topics-container">
+        <div class="ind-bar">
+          <bar-indicator :indicator="indicator" :options="options" />
+        </div>
+        <h4 class="affected-topics">Betroffene Bereiche</h4>
+        <div class="topic-row">
+          <div class="topic-entry" v-for="([topic, io]) in relevantTopics" :key="topic.id">
+            <topic-entry-in-out :topic="topic" :in-out="io" />
           </div>
         </div>
-      </block>
-    </router-link>
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
 import BarIndicator from './BarIndicator.vue';
-import TopicsBlock from '../block/TopicsIndicator.vue';
 import TopicEntryInOut from '../block/shared/TopicEntryInOut.vue';
-import Block from '../block/Base.vue';
 
 export default {
   props: ['indicator', 'options'],
-  data: () => ({
-    width: null,
-    testId: 0,
-  }),
-  components: {
-    BarIndicator,
-    TopicsBlock,
-    TopicEntryInOut,
-    Block,
-  },
   computed: {
-    relevantTopics: function () {
+    relevantTopics() {
       return this.$store
         .getters.topicsForIndicator(this.indicator)
         .map(topic => [
@@ -50,13 +37,16 @@ export default {
         ]);
     },
   },
-  mounted() {},
-  methods: {},
+  components: {
+    BarIndicator,
+    TopicEntryInOut,
+  },
 };
 </script>
 
 <style scoped>
 .indicator-name {
+  font-size: 16pt;
   font-weight: 600;
 }
 
@@ -66,14 +56,25 @@ export default {
 }
 
 .topics-container {
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  grid-gap: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
   padding: 0;
+  margin-top: -5%;
 }
 
 .topic-row {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  margin-left: -10px;
+}
+
+.topic-entry {
+  flex: 0 1 auto;
+}
+
+.affected-topics
+{
+  margin-top: -10%;
 }
 </style>

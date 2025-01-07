@@ -20,7 +20,7 @@ import * as d3 from "d3";
 export default {
     props: ['indicator', 'options'],
     data: () => ({
-        margin: {top: 40, right: 80, bottom: 50, left: 80},
+        margin: {top: 40, right: 80, bottom: 50, left: 55},
         height: 800,
         innerHeight: 800,
         width: undefined,

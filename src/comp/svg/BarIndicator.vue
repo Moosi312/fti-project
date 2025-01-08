@@ -6,6 +6,11 @@
                 <g class='x-100'></g>
                 <g class='bars'></g>
                 <g class='circles'></g>
+                <g class='s'>
+                  <rect/>
+                  <circle/>
+                  <text></text>
+                </g>
                 <g class='x-axis'></g>
                 <g class='y-axis'></g>
                 <g class='h'></g>
@@ -27,6 +32,7 @@ export default {
         barHeight: 16,
         barSpace: 7,
         between: 15,
+        resizeObserver: undefined,
     }),
     components: {
     },
@@ -42,12 +48,20 @@ export default {
         }
     },
     mounted() {
-        this.width = this.$refs.container.clientWidth
-        const svg = d3.select("svg.bar-chart")
-        svg.attr("width", this.width)
-        this.plot()
+        this.draw();
+        this.resizeObserver = new ResizeObserver(() => this.draw());
+        this.resizeObserver.observe(this.$refs.container);
     },
     methods: {
+        draw: function() {
+          if (!this.$refs || !this.$refs.container) {
+            return;
+          }
+          this.width = this.$refs.container.clientWidth
+          const svg = d3.select(this.$refs["bar-chart"])
+          svg.attr("width", this.width)
+          this.plot();
+        },
         plot: function() {
             const self = this
 
@@ -224,7 +238,7 @@ export default {
                         .attr("visibility", "hidden")
                 })
                 .on('mouseenter', (e, i) => {
-                    const d = ids[i]
+                    const d = i
                     const uv = id2useValue[d];
 
                     if (uv == null)
@@ -254,7 +268,7 @@ export default {
                 })
                 .on('click', (e, i) => {
                     // console.log(`click: ${ids[i]}`)
-                    self.$emit('modal', ids[i])
+                    self.$emit('modal', i)
                 })
         },
         plotChange: function(data, svgI, idx, yy, y, ids) {

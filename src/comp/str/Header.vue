@@ -7,6 +7,7 @@
                         <slot name="left">
                             <header-left/>
                         </slot>
+                        
                     </div>
                     <div :class="`col-md-${12 - cols} col-sm-12`">
                         <slot name="right"></slot>

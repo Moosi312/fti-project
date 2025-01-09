@@ -8,12 +8,6 @@
         <div class="container-fluid full-width">
             <div class='container-xl'>
                 <div class="row g-2 content" style="position: relative;">
-                    <div class="test-links">
-                      <h5>Test links</h5>
-                      <router-link :to="{name: 'connection'}">Connections</router-link>
-                      <router-link :to="{name: 'compare'}">Indicator compare</router-link>
-                      <router-link :to="{name: 'indicator', params: {indicatorId: 'MINT_Absolv_58'}}">Indicator details</router-link>
-                    </div>
                     <div v-if="type != 'print'" class="col-md-5 col-lg-4 col-xl-4">
                         <overview-targets group="fti" header="Ziele der FTI-Strategie 2030" :expanded=true></overview-targets>
                         <overview-targets group="klw" :header="$store.getters.targets('klw')[0]['name']" :expanded=true></overview-targets>
@@ -23,6 +17,9 @@
                             <system-svg :key='`system-svg-${testId}`' v-if='view == "system"' class="mt-md-5 mt-lg-2 mt-xl-0"/>
                             <system-bar-svg :key='`system-bar-${testId}`' v-else class="mt-md-5 mt-lg-2 mt-xl-0"/>
                             <div class="row mb-2">
+                                <div class="ind-compare-link">
+                                 <router-link class="ind-compare" :to="{name: 'compare'}">Indikatorenvergleich</router-link>
+                                </div>
                                 <div style="font-size: 14px; text-align: center; line-height: 15px;" class="col-xl-5 offset-xl-3 col-md-6 offset-md-2 offset-0 col-7">
                                     Österreich im Verhältnis zur Gruppe der Innovation Leaders <br/> (*EU27 zu den USA)<br/>
                                     <!-- Im Verhältnis zur Gruppe der Innovation Leaders (*EU-27 zu den USA)<br/> -->
@@ -32,7 +29,7 @@
                                     <div class="mt-2">
                                         <switch-control v-model="view" :labels="{system: 'System', bar: 'Balken'}" @input="(v) => $router.push({ name: 'overview', params: { view: v } })"/>
                                     </div>
-                                </div>
+                                </div>   
                             </div>
                         </div>
                         <div v-else>
@@ -96,22 +93,29 @@ export default {
     left: 50%;
     background-color: #f5f6fa;
 }
-.test-links {
-  position: absolute;
-  top: 1rem;
-  right: -200px;
-  width: fit-content;
-  display: flex;
-  flex-direction: column;
-  background-color: #444444;
-  padding: 1rem;
-  border: solid 1px black;
-  border-radius: 4px;
-  color: white;
 
-  a {
+.ind-compare {
+    text-align: right;
+    font-size: 16px;
     color: white;
-    text-decoration: underline;
-  }
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px 5px 5px 5px;
+    background-color: black;
+    border: 1px solid black; 
+    border-radius: 3px;
+    display: inline-block; 
+    transition: all 0.3s ease;
+}
+
+.ind-compare:hover {
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+
+
+.ind-compare-link{
+    text-align: right;
 }
 </style>

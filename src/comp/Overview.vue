@@ -8,12 +8,6 @@
         <div class="container-fluid full-width">
             <div class='container-xl'>
                 <div class="row g-2 content" style="position: relative;">
-                    <div class="test-links">
-                      <h5>Test links</h5>
-                      <router-link :to="{name: 'connection'}">Connections</router-link>
-                      <router-link :to="{name: 'compare'}">Indicator compare</router-link>
-                      <router-link :to="{name: 'indicator', params: {indicatorId: 'MINT_Absolv_58'}}">Indicator details</router-link>
-                    </div>
                     <div v-if="type != 'print'" class="col-md-5 col-lg-4 col-xl-4">
                         <overview-targets group="fti" header="Ziele der FTI-Strategie 2030" :expanded=true></overview-targets>
                         <overview-targets group="klw" :header="$store.getters.targets('klw')[0]['name']" :expanded=true></overview-targets>

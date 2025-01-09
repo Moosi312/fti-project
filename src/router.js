@@ -35,10 +35,6 @@ export const router = new VueRouter({
         path: '/P',
         component: App
     }, {
-        name: 'connection',
-        path: '/connection',
-        component: App
-    }, {
         name: 'compare',
         path: '/I',
         component: App

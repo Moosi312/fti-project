@@ -11,8 +11,7 @@
         <topic v-if='$route.name == "topic"' :topic='this.$store.getters.topicByNr($route.params.nr)' />
         <target v-if='$route.name == "target"' :target='$store.getters.target($route.params.id)' />
         <overview v-if='$route.name == "overview"' :view='$route.params.view'/>
-        <connection v-if='$route.name == "connection"'/>
-        <test v-if='$route.name == "compare"'/>
+        <compare v-if='$route.name == "compare"'/>
         <indicator v-if='$route.name == "indicator"' :indicator-id="$route.params['indicatorId']" :modal="false"/>
         <bar v-if='$route.name == "bar"'/>
         <all-in-one v-if='$route.name == "print"'/>
@@ -32,17 +31,13 @@ import Bar from "./comp/svg/BarPrint.vue";
 import DevBanner from './comp/str/DevBanner.vue';
 
 import StrFooter from './comp/str/Footer.vue';
-import Test from "./comp/Compare.vue";
-import Connection from "./comp/Connection.vue";
+import Compare from "./comp/Compare.vue";
 import Indicator from "./comp/Indicator.vue";
 
 export default {
     props: ['view'],
     components: {
-      Indicator,
-      Test,
-      Connection,
-        Overview, Topic, Target, Bar, DevBanner, StrFooter, AllInOne
+      Indicator, Compare, Overview, Topic, Target, Bar, DevBanner, StrFooter, AllInOne
     },
     created: function() {
         this.$store.dispatch('init')

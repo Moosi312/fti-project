@@ -7,9 +7,9 @@
     </div>
 
     <div v-for="(node, index) in treeData" :key="node.id" class="tree-node">
-      <div class="topics">
+      <div class="topics" @click="toggleChildrenVisibility(index)">
         <h3 class="topic">{{ node.nr }} {{ node.label }}</h3>
-        <button class="btn-toggle" @click="toggleChildrenVisibility(index)">
+        <button class="btn-toggle">
           {{ unfoldedNodes[index] ? "▲" : "▼" }}
         </button>
       </div>
@@ -41,7 +41,7 @@ export default {
     return {
       treeData: [],
       unfoldedNodes: {},
-      selectedIndicators: [],
+      selectedIndicators: this.$store.state.selectedIndicators,
       searchTerm: "",
     };
   },
@@ -112,6 +112,7 @@ export default {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  cursor: pointer;
 }
 
 .topic {

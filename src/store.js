@@ -243,10 +243,33 @@ export const store = new Vuex.Store({
         },
         nameForCompareGroup: s => g => s.info.nameForCompareGroup[g],
 
+        docsForAggIndicators: (s) => (indicatorId) => {
+            const topics = store.getters.topicsForIndicator(indicatorId);
+            let docs = new Set();
+            topics.forEach(topic => {
+                s.data.str[topic]['wt'][indicatorId].forEach(ind => {
+                    docs = new Set([...docs, ...(s.info.indicatorDocs[ind] ?? [])]);
+                })
+            });
+            if (docs.length < 1) {
+                return;
+            }
+            docs = [...docs].map(doc => store.getters.doc(doc)).filter(d => !!d)
+            const docsMap = {}
+            docs.forEach(doc => {
+                const type = doc['type'];
+                if (!docsMap[type]) {
+                    docsMap[type] = [];
+                }
+                docsMap[type].push(doc);
+            })
+            return docsMap;
+        },
+
         docsForIndicator: (s) => (indicatorId) => {
             const docs = (s.info.indicatorDocs[indicatorId] ?? []).map(doc => store.getters.doc(doc)).filter(d => !!d);
             if (docs.length < 1) {
-                return {};
+                return store.getters.docsForAggIndicators(indicatorId)
             }
             const docsMap = {}
             docs.forEach(doc => {
@@ -274,7 +297,7 @@ export const store = new Vuex.Store({
         },
 
         topicsForIndicator: (s) => (indicatorId) => {
-            return Object.entries(s.data.str).filter(topic => topic[1]['i'].includes(indicatorId)).map(topic => topic[0])
+            return Object.entries(s.data.str).filter(topic => topic[1]['i'].includes(indicatorId) || Object.keys(topic[1]['wt']).includes(indicatorId)).map(topic => topic[0])
         },
 
         getInOutForTopicIndicator: (s) => (topic, indicator) => {

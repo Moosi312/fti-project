@@ -71,7 +71,8 @@ module.exports = {
             filename: 'index.html',
             template: 'index.html',
             inject: true,
-            publicPath: '/',
+            publicPath: '/fti-indicator-compare-v1/',
+            contentBasePublicPath: '/fti-indicator-compare-v1/',
             ldJson: ldJson,
         }),
         new CopyWebpackPlugin({

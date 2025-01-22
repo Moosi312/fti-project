@@ -7,7 +7,7 @@ import App from "./App.vue";
 Vue.use(VueRouter)
 
 export const router = new VueRouter({
-    base: '/fti-indicator-compare-v1',
+    base: '/',
     mode: 'history',
     routes: [{
         name: 'home',

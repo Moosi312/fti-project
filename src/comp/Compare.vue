@@ -75,35 +75,9 @@ export default {
 </script>
 
 <style scoped>
-.compare-content {
-  margin-left: 5%;
-  padding-top: 20px;
-  height: 100%;
-}
-
-.grid-container {
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  gap: 20px;
-}
-
-.fixed-column {
-  grid-row: 1 / span 1;
-  position: sticky;
-  top: 0;
-}
-
-.dynamic-content {
-  width: 100%;
-}
-
-.topic-controls-wrapper {
-  margin-bottom: 20px;
-}
-
 .dynamic-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr); 
+  grid-template-columns: repeat(auto-fit, 400px);
   gap: 20px;
   height: 100%;
 }
@@ -113,14 +87,12 @@ export default {
   border-radius: 8px;
   height: 100%; 
   display: flex;
-  align-items: left;
   justify-content: left;
 }
 
 .sample-text {
   grid-column: span 2;
   text-align: center;
-  /*margin-top: 20%; /* try on different screens */
   padding: 5%;
   color: #707070;
 }

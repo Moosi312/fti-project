@@ -23,15 +23,6 @@
         </div>
       </div>
     </div>
-
-    <!--
-    <h3>Ausgewählte Indikatoren</h3>
-    <ul>
-      <li v-for="indicator in selectedIndicators" :key="indicator">
-        {{ $store.getters.getShortname(indicator) }}
-      </li>
-    </ul>
-    -->
   </div>
 </template>
 
@@ -173,15 +164,8 @@ export default {
 .search-box .search-icon {
   width: 18px;
   height: 18px;
-  background-image: url('search.png');
   background-size: cover;
   background-repeat: no-repeat;
-}
-
-.topics-inds {
-  padding-top: 5%;
-  padding-bottom: 5%;
-  font-weight: 600;
 }
 
 .indicator-checkbox {
@@ -193,12 +177,6 @@ export default {
 
 .indicator-checkbox input[type="checkbox"] {
   margin-right: 8px;
-}
-
-.selected-indicators {
-  margin-top: 20px;
-  border-top: 1px solid #ccc;
-  padding-top: 10px;
 }
 
 .selected-indicators h3 {

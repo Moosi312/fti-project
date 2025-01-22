@@ -11,19 +11,21 @@
         <topics-block :indicator-id="indicatorId"/>
         <documents-block v-for="(header, type) in documentBlocks" :key="type" v-if="docs[type]" :input-docs='docs[type]' :type='type' :header='header' :preview-count="3" :preview-use-count="4"/>
       </div>
-      <div v-if="indicator" class="col-xl-8 col-lg-7 col-md-12 order-first order-lg-last">
-        <p>
-          <strong>{{ indicator.short }}</strong><br/>
-          <span class="name">{{ indicator.unit ? indicator.unit : indicator.unit_short }}</span>
-        </p>
-        <bar-indicator :indicator="indicatorId" :options="{group: controlStatus.compGroup, time: '0', order: 'name', scale: 'lin'}"/>
-        <p>
-          <span class="text">{{ indicator.text }}</span>
-        </p>
-        <lines-svg :id="indicatorId" :width="width" :topic="fakeTopic" :settings="controlStatus"></lines-svg>
-        <p>
-          <strong>Quelle: </strong><span class="source">{{ indicator.source }}</span><br/>
-        </p>
+      <div ref='indicator' class="col-xl-8 col-lg-7 col-md-12 order-first order-lg-last">
+        <div v-if="indicator">
+          <p>
+            <strong>{{ indicator.short }}</strong><br/>
+            <span class="name">{{ indicator.unit ? indicator.unit : indicator.unit_short }}</span>
+          </p>
+          <bar-indicator :indicator="indicatorId" :options="{group: controlStatus.compGroup, time: '0', order: 'name', scale: 'lin'}"/>
+          <p>
+            <span class="text">{{ indicator.text }}</span>
+          </p>
+          <lines-svg :id="indicatorId" :width="width" :topic="fakeTopic" :settings="controlStatus"></lines-svg>
+          <p>
+            <strong>Quelle: </strong><span class="source">{{ indicator.source }}</span><br/>
+          </p>
+        </div>
       </div>
     </div>
   </div>
@@ -68,26 +70,16 @@ export default {
   },
   methods: {
     updateWidth() {
-      if (this.$refs.system) {
-        console.log(this.$refs.system);
-        this.width = this.$refs.system.clientWidth;
+      if (this.$refs.indicator) {
+        this.width = this.$refs.indicator.clientWidth;
         this.testId += 1;
       }
     }
   },
   mounted() {
-    // TODO: this.$refs is empty???
-    // this.width = this.$refs.system.clientWidth;
+    this.resizeObserver = new ResizeObserver(() => this.updateWidth());
+    this.resizeObserver.observe(this.$refs.indicator);
     this.width = 800
-    window.addEventListener('resize', this.updateWidth)
   },
 }
 </script>
-
-<style>
-.compare-content {
-  margin-left: 5%;
-  padding-top: 20px;
-  height: 100%;
-}
-</style>

@@ -96,7 +96,7 @@ export default {
 
 .ind-compare {
     text-align: right;
-    font-size: 16px;
+    font-size: 14px;
     color: white;
     font-weight: bold;
     text-decoration: none;

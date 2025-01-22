@@ -63,8 +63,6 @@ export default {
           this.plot();
         },
         plot: function() {
-            const self = this
-
             const svgI = d3.select(this.$refs["bar-chart"]).select("g")
 
             svgI.select('.bars').selectAll("*").remove();
@@ -106,7 +104,6 @@ export default {
                 .enter()
                 .append("text")
                 .text(d => idToLabel(d))
-                // .text(d => this.is_agg(d))
                 .attr('y', d => yy[d] + 12)
                 .attr('dx', -22)
                 .attr('text-anchor', 'end')
@@ -267,155 +264,13 @@ export default {
 
                 })
                 .on('click', (e, i) => {
-                    // console.log(`click: ${ids[i]}`)
                     self.$emit('modal', i)
                 })
         },
-        plotChange: function(data, svgI, idx, yy, y, ids) {
-            const self = this
-
-            const t = this.$store.getters.minusData(this.options.time)
-            // console.log(t)
-            data.values.forEach(d => {
-                d.value = null;
-                if (d.id in t) {
-                    // console.log(t[d.id])
-                    d.value = t[d.id][this.options.group];
-                }
-            })
-
-
-            // console.log(data)
-            let x = null;
-            let xa = null;
-            let compLine = 0;
-
-            data.values.forEach(d => {
-                d.useValue = d.value;
-            });
-            x = d3.scaleLinear();
-             console.log(data.values)
-            const ta = data.values.map(d => d.useValue)
-            ta.push(0)
-            const extent = d3.extent(ta);
-            const width = extent[1] - extent[0];
-            x.domain([extent[0] - width*0.15, extent[1] + width*0.15])
-            x.range([ 0, this.width - this.margin.left - this.margin.right]);
-
-            
-            xa = d3.axisTop(x).ticks(5)
-
-            const id2value = Object.assign({}, ...data.values.map(d => ({[d.id]: d.value})));
-            const id2useValue = Object.assign({}, ...data.values.map(d => ({[d.id]: d.useValue})));
-
-
-            svgI.select('.s').attr("visibility", "hidden");
-            //
-            svgI.select('.bars').selectAll("*").remove();
-
-            const correctRect = function(d, i, e, v) {
-                // console.log(this)
-                if (!v)
-                    v = x(id2useValue[ids[d]])
-                
-                let w = v - x(0);
-
-                d3.select(this)
-                    .attr("x", w < 0 ? v : x(0))
-                    .attr("width", Math.abs(w))
-            }
-            
-            svgI.select('.bars').selectAll("rect")
-                .data(idx.filter(d => id2useValue[ids[d]] != null))
-                .enter()
-                .append("rect")
-                .attr("y", d => yy[d])
-                .attr("height", y.bandwidth())
-                .attr('class', d => this.is_agg(d) ? 'major' : 'minor')
-                .each(correctRect)
-
-
-            svgI.select('.bars').selectAll("text.wo")
-                .data(idx.filter(d => id2useValue[ids[d]] == null))
-                .enter()
-                .append("text")
-                .attr("class", "wo")
-                .attr("x", 10)
-                .attr("y", d => yy[d] + y.bandwidth()/2 + 4)
-                .text('nicht verfügbar')
-
-
-            svgI.select('.x-axis')
-                .call(xa)
-
-            svgI.select('.x-axis')
-                .attr('font-weight', 'bold')
-                .attr('font-size', 8)
-                .attr('font-family', null)
-                .selectAll('line, path').remove()
-
-            svgI.select('.x-100').selectAll("line").remove();
-
-            svgI.select('.x-100')
-                .append("line")
-                .attr('x1', x(compLine))
-                .attr('x2', x(compLine))
-                .attr('y1', 0)
-                .attr('y2', this.innerHeight)
-            
-
-            const s = svgI.select('.s')
-            svgI.select('.h').selectAll("rect").remove();
-            svgI.select('.h').selectAll(".bar")
-                .data(idx)
-                .enter()
-                .append("rect")
-                .attr("x", -this.margin.left)
-                .attr("y", d => yy[d] - this.barHeight/2/2)
-                .attr("width", this.width)
-                .attr("opacity", 0)
-                .style("cursor", "pointer")
-                .attr("height", this.barHeight + 8)
-                .on('mouseleave', (e, i) => {
-                    s.attr("visibility", "hidden");
-                    s.select('circle')
-                        .attr("visibility", "hidden")
-                })
-                .on('mouseenter', (e, i) => {
-                    const d = ids[i]
-                    const uv = id2useValue[d];
-
-                    if (uv == null)
-                        return;
-
-                    s.attr("visibility", "visible");
-
-                    s.select('text')
-                        .attr("transform", `translate(${x(uv) + (uv < 0 ? -1 : 1) * 3 }, ${yy[i] + y.bandwidth()/2 + 2})`)
-                        .text(`${d3.format("+.1f")(id2value[d])}%`)
-                        .attr("text-anchor", uv < 0 ? "end" : "start")
-
-
-                    let rs = s.select('rect')
-                        // .attr("x", x(0))
-                        .attr("y", yy[i])
-                        // .attr("width", x(uv))
-                        .attr("height", y.bandwidth())
-
-                    correctRect.call(rs.node(), null, null, null, x(uv))
-
-                    s.select('circle')
-                        .attr("visibility", "hidden")
-                })
-                .on('click', (e, i) => {
-                    // console.log(`click: ${ids[i]}`)
-                    self.$emit('modal', ids[i])
-                })
-        }
     },
     watch: {
         options: {
-            handler (val, oldVal) {
+            handler () {
                 this.plot()
             }
         }

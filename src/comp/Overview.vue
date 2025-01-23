@@ -93,5 +93,4 @@ export default {
     left: 50%;
     background-color: #f5f6fa;
 }
-
 </style>

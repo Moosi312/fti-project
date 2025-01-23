@@ -1,6 +1,5 @@
 <template>
   <div class="tree-container">
-
     <div class="search-box">
       <input type="text" placeholder="Indikator ..." v-model="searchTerm" @input="filterIndicators" />
       <div class="search-icon"></div>
@@ -23,7 +22,6 @@
         </div>
       </div>
     </div>
-
   </div>
 </template>
 
@@ -205,20 +203,5 @@ export default {
 
 .indicator-checkbox input[type="checkbox"] {
   margin-right: 8px;
-}
-
-.selected-indicators h3 {
-  font-size: 16px;
-  font-weight: bold;
-}
-
-.selected-indicators ul {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-.selected-indicators li {
-  font-size: 14px;
-  padding: 5px 0;
 }
 </style>

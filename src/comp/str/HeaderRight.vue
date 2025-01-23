@@ -4,7 +4,7 @@
             <icon :id='icon'/>
         </div>
         <div class='text-header'>
-            <div><router-link :style="`visibility: ${['overview', 'print'].includes($route.name) ? 'hidden' : 'visible'}`" :to="{name: 'overview', params: {view: 'system'}}">←</router-link> <span class='sub'>{{ subtitle }}</span></div>
+            <div><router-link :style="`visibility: ${['overview', 'print'].includes($route.name) ? 'hidden' : 'visible'}`" :to="{name: $route.name === 'indicator' ? 'compare' :'overview', params: {view: 'system'}}">←</router-link> <span class='sub'>{{ subtitle }}</span></div>
             <h2>{{ title }} <span class='nr'>{{ nr }}</span></h2>
         </div>
         <div class='text-right'>

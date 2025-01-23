@@ -60,7 +60,7 @@ export default {
       this.unfoldedNodes = this.treeData.reduce((acc, _, index) => {
         acc[index] = false;
         return acc;
-      });
+      }, {});
     },
 
     toggleChildrenVisibility(index) {

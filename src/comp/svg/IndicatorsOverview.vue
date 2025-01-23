@@ -44,7 +44,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .indicator-name {
   font-size: 16pt;
   font-weight: 600;

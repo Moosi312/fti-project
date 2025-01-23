@@ -4,6 +4,29 @@ div.overview {
     z-index: 1;
     padding: 0;
 
+    .ind-compare {
+        background-color: black;
+        color: white;
+        font-size: 12pt;
+        font-weight: bold;
+        text-decoration: none;
+        border: 1px solid black; 
+        border-radius: 3px;
+        text-align: right;
+        padding: 5px;
+        transition: all 0.3s ease;
+    }
+    
+    .ind-compare:hover {
+        color: black;
+        background-color: white;
+        border-color: black;
+    }
+    
+    .ind-compare-link{
+        text-align: right;
+    }
+
     svg.overview {
         margin: auto;
         display: block;

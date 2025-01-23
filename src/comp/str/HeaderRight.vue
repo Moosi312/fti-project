@@ -8,6 +8,7 @@
             <h2>{{ title }} <span class='nr'>{{ nr }}</span></h2>
         </div>
         <div class='text-right'>
+
             <div class="report">
                 <span>Jahr&nbsp;&nbsp;&nbsp;&nbsp;</span><br/>
                 <select v-model="year" id="year-selector" class="form-select form-select-sm" aria-label=".form-select-sm example">
@@ -61,4 +62,5 @@ select {
 option {
     direction: rtl;
 }
+
 </style>

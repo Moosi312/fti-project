@@ -23,10 +23,13 @@
         </div>
       </div>
     </div>
+
   </div>
 </template>
 
 <script>
+import thesaurus from "./thesaurus.json";
+
 export default {
   data() {
     return {
@@ -34,6 +37,7 @@ export default {
       unfoldedNodes: {},
       selectedIndicators: this.$store.state.selectedIndicators,
       searchTerm: "",
+      thesaurus: thesaurus,
     };
   },
   mounted() {
@@ -56,7 +60,7 @@ export default {
       this.unfoldedNodes = this.treeData.reduce((acc, _, index) => {
         acc[index] = false;
         return acc;
-      }, {});
+      });
     },
 
     toggleChildrenVisibility(index) {
@@ -65,15 +69,13 @@ export default {
 
     filterIndicators() {
       if (!this.searchTerm) {
-        this.treeData.forEach((_, index) => {
-          this.unfoldedNodes[index] = false;
-        });
+        this.treeData.forEach((_, index) => { this.unfoldedNodes[index] = false; });
       } 
       else {
+        const searchLower = this.searchTerm.toLowerCase();
+        
         this.treeData.forEach((node, index) => {
-          const matchingIndicators = node.ind.filter(indicator =>
-            this.$store.getters.getShortname(indicator).toLowerCase().includes(this.searchTerm.toLowerCase())
-          );
+          const matchingIndicators = node.ind.filter(indicator => this.matchIndicator(indicator, searchLower));
           
           this.unfoldedNodes[index] = matchingIndicators.length > 0;
           node.filteredIndicators = matchingIndicators;
@@ -82,14 +84,40 @@ export default {
     },
 
     filteredIndicators(indicators) {
-      return this.searchTerm ? indicators.filter(indicator =>
-            this.$store.getters.getShortname(indicator).toLowerCase().includes(this.searchTerm.toLowerCase())) : indicators;
+      if(!this.searchTerm){
+        return indicators;
+      }
+      const searchLower = this.searchTerm.toLowerCase();
+
+      return indicators.filter((indicator) => this.matchIndicator(indicator, searchLower));
+    },
+
+    matchIndicator(indicator, searchLower){
+      const shortName = this.$store.getters.getShortname(indicator).toLowerCase();
+      
+      if(shortName.includes(searchLower)){
+        return true;
+      }
+
+      for(const [key, synonyms] of Object.entries(this.thesaurus))
+      {
+        if(key.toLowerCase() === shortName){
+          for(const s of synonyms) 
+          {
+              if(s.toLowerCase().includes(searchLower)){
+                return true;
+              }
+          }
+        }
+      }
+
+      return false;
     }
   },
 };
 </script>
 
-<style scoped>
+<style>
 .tree-container {
   display: block;
   width: 100%; /* Adjust as needed */

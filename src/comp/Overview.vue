@@ -94,28 +94,4 @@ export default {
     background-color: #f5f6fa;
 }
 
-.ind-compare {
-    text-align: right;
-    font-size: 14px;
-    color: white;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 5px 5px 5px 5px;
-    background-color: black;
-    border: 1px solid black; 
-    border-radius: 3px;
-    display: inline-block; 
-    transition: all 0.3s ease;
-}
-
-.ind-compare:hover {
-    color: black;
-    background-color: white;
-    border-color: black;
-}
-
-
-.ind-compare-link{
-    text-align: right;
-}
 </style>

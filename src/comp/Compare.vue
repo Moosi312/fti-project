@@ -74,7 +74,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .dynamic-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, 400px);

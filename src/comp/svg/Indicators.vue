@@ -5,7 +5,7 @@
       <div class="search-icon"></div>
     </div>
 
-    <div v-for="(node, index) in treeData" :key="node.id" class="tree-node">
+    <div v-for="(node, index) in filteredTreeData" :key="node.id" class="tree-node">
       <div class="topics" @click="toggleChildrenVisibility(index)">
         <h3 class="topic">{{ node.nr }} {{ node.label }}</h3>
         <button class="btn-toggle">
@@ -14,7 +14,7 @@
       </div>
 
       <div class="indicators" :class="{ visible: unfoldedNodes[index] }">
-        <div v-for="(indicator) in filteredIndicators(node.ind)" :key="indicator">
+        <div v-for="indicator in node.filteredIndicators" :key="indicator">
           <label class="indicator-checkbox">
             <input type="checkbox" :value="indicator" v-model="selectedIndicators" :on-change="$store.dispatch('selectedIndicators', selectedIndicators)"/>
             {{ $store.getters.getShortname(indicator) }}
@@ -36,6 +36,7 @@ export default {
       selectedIndicators: this.$store.state.selectedIndicators,
       searchTerm: "",
       thesaurus: thesaurus,
+      filteredTreeData: [],
     };
   },
   mounted() {
@@ -52,6 +53,7 @@ export default {
           nr: topic.nr,
           label: topic.name,
           ind: indicators.get(id),
+          filteredIndicators: indicators.get(id),
         };
       });
 
@@ -59,6 +61,8 @@ export default {
         acc[index] = false;
         return acc;
       }, {});
+
+      this.filteredTreeData = [...this.treeData];
     },
 
     toggleChildrenVisibility(index) {
@@ -67,17 +71,20 @@ export default {
 
     filterIndicators() {
       if (!this.searchTerm) {
-        this.treeData.forEach((_, index) => { this.unfoldedNodes[index] = false; });
+        this.filteredTreeData = [...this.treeData];
+        Object.keys(this.unfoldedNodes).forEach(index => this.unfoldedNodes[index] = false);
       } 
       else {
         const searchLower = this.searchTerm.toLowerCase();
         
-        this.treeData.forEach((node, index) => {
-          const matchingIndicators = node.ind.filter(indicator => this.matchIndicator(indicator, searchLower));
-          
-          this.unfoldedNodes[index] = matchingIndicators.length > 0;
-          node.filteredIndicators = matchingIndicators;
-        });
+        this.filteredTreeData = this.treeData.map((node, index) => {
+            const matchingIndicators = node.ind.filter(indicator => this.matchIndicator(indicator, searchLower)) || this.selectedIndicators.includes(indicator);
+            if (matchingIndicators.length > 0) {
+              this.unfoldedNodes[index] = true;
+              return { ...node, filteredIndicators: matchingIndicators };
+            }
+            return null;
+          }).filter(node => node !== null);
       }
     },
 

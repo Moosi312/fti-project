@@ -1,0 +1,42 @@
+
+div.compare{
+
+    .dynamic-grid {
+        display: grid;
+        background-color: white;
+        grid-template-columns: repeat(auto-fit, 49%);
+        gap: 16px;
+        height: 100%;
+      }
+      
+      .grid-item {
+        padding: 10px;
+        background-color: #f5f6fa;
+        height: 100%; 
+        display: flex;
+        justify-content: left;
+      }
+      
+      .sample-text {
+        grid-column: span 2;
+        text-align: center;
+        padding: 5%;
+      }
+
+      .indicators-list{
+        display: block;
+        height: 100%;
+      }
+
+      .block.indicators-list {
+        .block-content{
+            padding: 10px;
+        }
+    }
+
+    .block.selected-indicators-block {
+        .block-content{
+            padding: 0px;
+        }
+    }
+}

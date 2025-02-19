@@ -1,23 +1,22 @@
 <template>
-  <div>
+  <div class="indicators-overview">
+    <div class="name-description">
     <router-link :to="{ name: 'indicator', params: { indicatorId: indicator }}">
-      <h3 class="indicator-name">{{ $store.getters.getShortname(indicator) }}</h3>
+      <h4 class="block-header">{{ $store.getters.getShortname(indicator) }} ↗</h4>
     </router-link>
-    <div>
-      <p class="description">{{ $store.getters.getLabels(indicator).name_a }}</p>
-
+      <p>{{ $store.getters.getLabels(indicator).name_a }}</p>
+    </div>
       <div class="topics-container">
         <div class="ind-bar">
           <bar-indicator :indicator="indicator" :options="options" />
         </div>
-        <h4 class="affected-topics">Betroffene Bereiche</h4>
+        <h4 class="block-header">Betroffene Bereiche</h4>
         <div class="topic-row">
           <div class="topic-entry" v-for="([topic, io]) in relevantTopics" :key="topic.id">
             <topic-entry-in-out :topic="topic" :in-out="io" />
           </div>
         </div>
       </div>
-    </div>
   </div>
 </template>
 
@@ -43,38 +42,3 @@ export default {
   },
 };
 </script>
-
-<style>
-.indicator-name {
-  font-size: 16pt;
-  font-weight: 600;
-}
-
-.description {
-  color: #707070;
-  font-size: 12pt;
-}
-
-.topics-container {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-  padding: 0;
-  margin-top: -5%;
-}
-
-.topic-row {
-  display: flex;
-  flex-wrap: wrap;
-  margin-left: -10px;
-}
-
-.topic-entry {
-  flex: 0 1 auto;
-}
-
-.affected-topics
-{
-  margin-top: -10%;
-}
-</style>

@@ -7,13 +7,13 @@
       </template>
     </header-str>
     <div class="row g-3">
-      <div class="col-xl-4 col-lg-5 col-md-12">
-          <block type="area" header="FTI-Bereiche & Indikatoren">
+      <div class="col-xl-4 col-lg-5 col-md-12" >
+          <block class="indicators-list" header="FTI-Bereiche & Indikatoren">
             <indicators :key="`system-svg-${testId}`" />
           </block>
       </div>
       <div class="col-xl-8 col-lg-7 col-md-12 order-first order-lg-last">
-        <block class="selected-indicators" header="Ausgewählte Indikatoren">
+        <block class="selected-indicators-block" header="Ausgewählte Indikatoren">
         <div class="dynamic-grid">
           <div v-if="$store.state.selectedIndicators.length === 0" class="sample-text">
             <p>Um Indikatoren vergleichen zu können, müssen diese im linken Bereich ausgewählt werden.</p>
@@ -74,32 +74,3 @@ export default {
 };
 </script>
 
-<style>
-.dynamic-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, 400px);
-  gap: 20px;
-  height: 100%;
-}
-
-.grid-item {
-  padding: 10px;
-  border-radius: 8px;
-  height: 100%; 
-  display: flex;
-  justify-content: left;
-}
-
-.sample-text {
-  grid-column: span 2;
-  text-align: center;
-  padding: 5%;
-  color: #707070;
-}
-
-.selected-indicators
-{
-  display: block;
-  height: 100%;
-}
-</style>

@@ -1,4 +1,5 @@
 <template>
+  <div class="indicators">
   <div class="tree-container">
     <div class="search-box">
       <input type="text" placeholder="Indikator ..." v-model="searchTerm" @input="filterIndicators" />
@@ -15,14 +16,27 @@
 
       <div class="indicators" :class="{ visible: unfoldedNodes[index] }">
         <div v-for="indicator in node.filteredIndicators" :key="indicator">
-          <label class="indicator-checkbox">
-            <input type="checkbox" :value="indicator" v-model="selectedIndicators" :on-change="$store.dispatch('selectedIndicators', selectedIndicators)"/>
-            {{ $store.getters.getShortname(indicator) }}
-          </label>
+          <p class="indicator-checkbox">
+            <input type="checkbox" :value="indicator" v-model="selectedIndicators" :on-change="$store.dispatch('selectedIndicators', selectedIndicators)" />
+            <router-link :to="{ name: 'indicator', params: { indicatorId: indicator }}">
+              {{ $store.getters.getShortname(indicator) }}
+           </router-link>
+          </p>
         </div>
       </div>
     </div>
   </div>
+  <div class="selected-indicators">
+      <h3 class="topic">Ausgewählte Indikatoren</h3>
+      <div v-for="indicator in selectedIndicators" :key="indicator">
+        <label class="indicator-checkbox">
+          <input type="checkbox" :value="indicator" v-model="selectedIndicators" :on-change="$store.dispatch('selectedIndicators', selectedIndicators)" />
+          {{ $store.getters.getShortname(indicator) }}
+        </label>
+      </div>
+    </div>
+</div>
+
 </template>
 
 <script>
@@ -73,8 +87,7 @@ export default {
       if (!this.searchTerm) {
         this.filteredTreeData = [...this.treeData];
         Object.keys(this.unfoldedNodes).forEach(index => this.unfoldedNodes[index] = false);
-      } 
-      else {
+      } else {
         const searchLower = this.searchTerm.toLowerCase();
         
         this.filteredTreeData = this.treeData.map((node, index) => {
@@ -121,94 +134,3 @@ export default {
   },
 };
 </script>
-
-<style>
-.tree-container {
-  display: block;
-  width: 100%; /* Adjust as needed */
-}
-
-.tree-node {
-  display: block;
-}
-
-.topics {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  cursor: pointer;
-}
-
-.topic {
-  font-size: 16px;
-  font-weight: bold;
-}
-
-.btn-toggle {
-  background: none;
-  border: none;
-  font-size: 14px;
-  font-weight: bold;
-  cursor: pointer;
-  margin-left: 10px;
-}
-
-.btn-toggle:focus {
-  outline: none;
-}
-
-.indicators {
-  visibility: hidden;
-  opacity: 0;
-  max-height: 0;
-  transition: opacity 0.4s ease, max-height 0.1s ease;
-  padding-left: 10px;
-}
-
-.indicators.visible {
-  visibility: visible;
-  opacity: 1;
-  max-height: 100vh;
-}
-
-.search-box {
-  display: flex;
-  align-items: center;
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  padding: 5px;
-  background-color: white;
-  width: 100%;
-  margin-bottom: 1rem;
-}
-
-.search-box input[type="text"] {
-  border: none;
-  outline: none;
-  font-size: 14px;
-  flex: 1;
-  padding-left: 10px;
-}
-
-.search-box input[type="text"]::placeholder {
-  color: #aaa;
-}
-
-.search-box .search-icon {
-  width: 18px;
-  height: 18px;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.indicator-checkbox {
-  display: flex;
-  align-items: center;
-  font-size: 16px;
-  margin-bottom: 5px;
-}
-
-.indicator-checkbox input[type="checkbox"] {
-  margin-right: 8px;
-}
-</style>

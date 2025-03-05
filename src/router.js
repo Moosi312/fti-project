@@ -46,9 +46,6 @@ export const router = new VueRouter({
 })
 
 router.beforeEach((to, from, next) => {
-    if (to.path === from.path) {
-        return;
-    }
     if (document.body.classList.contains('modal-open')) {
         const m = document.getElementsByClassName("modal show")[0];
         window.Modal.getInstance(m).hide()

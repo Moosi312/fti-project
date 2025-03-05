@@ -28,9 +28,9 @@ export default {
             default: 55
         },
         iconSize: {
-            type: Number,
-            default: 50
-        }
+          type: Number,
+          default: 50
+        },
     },
     data: () => ({
         lineHeight: 12,

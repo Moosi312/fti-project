@@ -1,13 +1,13 @@
 <template>
     <modal-base id="barInfo" :title="info ? info.short : ''" size="xl">
-      <indicator :indicator-id="id" :modal="true"></indicator>
+      <indicator-small :indicator-id="id" :topic="topic"></indicator-small>
     </modal-base>
 </template>
 
 <script>
 import ModalBase from './Base.vue';
 import LinesSvg from '../svg/Lines.vue';
-import Indicator from "../Indicator.vue";
+import IndicatorSmall from "./IndicatorSmall.vue";
 
 export default {
     props: ['id', 'qf', 'topic', 'settings'],
@@ -18,7 +18,7 @@ export default {
         info: function() { return this.$store.state.data.labels[this.id] },
     },
     components: {
-      Indicator,
+      IndicatorSmall,
         ModalBase, LinesSvg, 
     },
     watch: {
